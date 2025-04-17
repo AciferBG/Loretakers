@@ -79,6 +79,24 @@ LANGUAGE ~Chinese - by Yoshimo0417~
          ~Loretakers/language/schinese/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/schinese/13_Cryptosphere.tra~
 
+ LANGUAGE ~Russian - by Origanum8~
+         ~russian~
+         ~Loretakers/language/russian/setup-Loretakers.tra~
+         ~Loretakers/language/russian/loretakers-journal.tra~
+         ~Loretakers/language/russian/01_Quest_start_and_finish.tra~
+         ~Loretakers/language/russian/02_strange_woman_sewers_worker.tra~
+         ~Loretakers/language/russian/03_Priest_of_Gond.tra~
+         ~Loretakers/language/russian/04_Ghostlady_AR0600.tra~
+         ~Loretakers/language/russian/05_AC#FP1_Abandoned_sewers.tra~
+         ~Loretakers/language/russian/06_AC#FP2_temple_of_Moander.tra~
+         ~Loretakers/language/russian/07_AC#FP3_Oryndoll_Cutscene.tra~
+         ~Loretakers/language/russian/08_AC#FP4_First_voidarea.tra~
+         ~Loretakers/language/russian/09_AC#FP6_Second_voidarea.tra~
+         ~Loretakers/language/russian/10_AC#FP5_Third_voidarea.tra~
+         ~Loretakers/language/russian/11_AC#FP7_Fourth_voidarea.tra~
+         ~Loretakers/language/russian/12_Sune_Priest_AC#FP1.tra~
+         ~Loretakers/language/russian/13_Cryptosphere.tra~
+
 BEGIN ~Loretakers V 1.5~
 
 INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
