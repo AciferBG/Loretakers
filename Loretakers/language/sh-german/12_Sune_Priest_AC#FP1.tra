@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~Wo ist das Zeichen ihrer Zuneigung, das gewebte Flüstern ihrer Berührung? Wie soll ich ohne es wissen … dass es nicht nur ein Schatten ist … ein Trick des Geistes? Mein Herz sehnt sich nach einem Zeichen, einer Verbindung zum Realen, damit ich nicht noch weiter in diesen trüben Tiefen der Verwirrung ertrinke.~
@@ -9,7 +9,7 @@
 @3 = ~Ich habe das Taschentuch, das Ihr sucht. Es trägt die Zeichen ihrer Handarbeit, ein wahres Zeichen ihrer Liebe.~
 @4 = ~(Auf den ersten Blick sieht dieser Mann alt aus, sein Blick ist geradeaus gerichtet. Bei näherem Hinsehen erkennt man jedoch ein Gesicht mittleren Alters, das über seine Jahre hinaus gealtert ist und ein ungepflegtes Aussehen hat. Ihr seid Euch nicht sicher, ob er Euch überhaupt bemerkt.)~
 @5 = ~(Plötzlich holt er kurz Luft und beginnt ein Gedicht zu rezitieren …)~
-@6 = ~„Einst lebte ich, um zu lieben,
+@6 = ~Einst lebte ich, um zu lieben,
 Kreiste um sie den ganzen Tag,
 Nur jene Rose ist mir geblieben,
 Die sie nicht empfangen mag.
@@ -20,25 +20,25 @@ Gefangen vor Missgeschick.
 Der Tod hat sie mir genommen,
 Nun wandelt sie im Mondenschein,
 Die Liebe auf ewig zerronnen,
-Es bleibt mir nur Herzenspein.“~
-@7 = ~„Gegangen, genommen von des Todes grausamer Hand,
+Es bleibt mir nur Herzenspein.~
+@7 = ~Gegangen, genommen von des Todes grausamer Hand,
 nun wandert sie im mondbeschienenen Land,
 Die Flamme der Liebe erloschen, ungeplant,
 und hinterlässt nur Herzschmerz, unbemannt.
 Oh Göttin, welche Buße verordnest du dem Herze mein,
 für deinen Diener, der solch Qualen erleidet,
 Im Tempel der Liebe soll ich sein,
-nicht hier, wo in der Kanalisation düst’res Ding treibet.“~
+nicht hier, wo in der Kanalisation düst’res Ding treibet.~
 @8 = ~Ich nehme an, Ihr wollt, dass ich … etwas tue? Hmm, ich brauche vielleicht einen Moment, um zu verstehen, was Ihr von mir erwartet, alter Mann.~
 @9 = ~Rose? Frühling? Glück? Mondenschein? Ein Rätsel, ganz sicher.~
-@10 = ~Poesie in den Abwasserkanälen? Mach weiter so, vielleicht vertreibt Ihr dann die Ratten.~
+@10 = ~Poesie in den Abwasserkanälen? Macht weiter so, vielleicht vertreibt Ihr dann die Ratten.~
 @11 = ~Ihr habt den Verstand verloren. Ich gehe jetzt.~
-@12 = ~„Einst lebte ich, um zu lieben,
+@12 = ~Einst lebte ich, um zu lieben,
 Kreiste um sie den ganzen Tag,
-Nur jene Rose ist mir geblieben …“~
+Nur jene Rose ist mir geblieben …~
 @13 = ~Ja, ja, ja. Wir haben das schon mal durchgemacht. Ich habe Eure Rose der Geisterfrau gegeben. Ihr wisst wirklich, wie man eine Romanze am Leben erhält!~
 @14 = ~Ich habe die Rose Eurer Geliebten gegeben. Sie konnte in Frieden gehen.~
-@15 = ~„Einst lebte ich, um zu lieben,
+@15 = ~Einst lebte ich, um zu lieben,
 Kreiste um sie den ganzen Tag,
 Nur jene Rose ist mir geblieben,
 Die sie nicht empfangen mag.
@@ -49,14 +49,14 @@ Gefangen vor Missgeschick.
 Der Tod hat sie mir genommen,
 Nun wandelt sie im Mondenschein,
 Die Liebe auf ewig zerronnen,
-Es bleibt mir nur Herzenspein.“~
+Es bleibt mir nur Herzenspein.~
 @16 = ~Die Rose, die Rose, meine Liebe, meine Liebe!~
 @17 = ~Die Rose wurde verschenkt? Aber … wo ist das Zeichen ihrer Zuneigung, das gewebte Flüstern ihrer Berührung? Wie soll ich ohne dies wissen, dass es nicht nur ein Schatten ist, ein Trick des Geistes? Mein Herz sehnt sich nach einem Zeichen, einer Verbindung zum Realen, damit ich nicht noch weiter in diesen trüben Tiefen der Verwirrung ertrinke.~
 @18 = ~Ich dachte, Ihr würdet jetzt glücklicher sein, aber ich habe mich wohl geirrt. Lebt wohl.~
 @19 = ~Mein Herz sehnt sich nach einem Zeichen, einer Verbindung zum Realen, damit ich nicht weiter in den trüben Tiefen der Verwirrung ertrinke.~
 @20 = ~Aber … was ist das? Ein … wahres Zeichen ihrer Liebe? Der Geruch ihrer Haut? Wo … wo bin ich? Mein Verstand, einst in Nebel gehüllt, klärt sich jetzt wie das Licht der Morgendämmerung. Dieses Taschentuch, durchdrungen von ihrer Anmut, hat mich in die Wirklichkeit zurückgebracht. Bei der Herrin der Liebe! Wo bin ich?~
 @21 = ~Ihr seid in den Abwasserkanälen unter Baldurs Tor, aber Ihr seid in Sicherheit, jetzt, da Euer Verstand klar geworden ist.~
-@22 = ~Wonach sieht es aus? Nach den „Drei Alten Fässern“ sicher nicht, eher nach den „Sumpfigen Kanälen“.~
+@22 = ~Wonach sieht es aus? Nach dem „Zu den Drei Alten Fässern“ sicher nicht, eher nach den „Sumpfigen Kanälen“.~
 @23 = ~Seht Euch um, Ihr Genie … Ihr seid in den stinkenden Abwasserkanälen, nicht gerade in den Hallen der Leidenschaft!~
 @24 = ~Die … die Abwasserkanäle? Wie bin ich hier gelandet?~
 @25 = ~Daran wäre ich auch interessiert.~

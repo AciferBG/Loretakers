@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~Ihr habt mein Rätsel bereits gelöst. Geht weiter zu den anderen Nichtigsprechern.~
@@ -19,7 +19,7 @@ Durch das Labyrinth, wo der Verstand sich verschanzt.
 Versage beim Test und die Gefahr naht beizeiten,
 In diesem Raum von Zweifel und Angst.~
 @12 = ~Also hört gut zu und beantwortet meine Frage richtig …~
-@13 = ~„Mit mir wird jede Suche zu Ende gehen,
+@13 = ~Mit mir wird jede Suche zu Ende gehen,
 Wo alles stillsteht und seine Ruhe findet.
 Keine Geschichten zu erzählen, keine Prüfungen zu bestehen,
 In meiner Umarmung die Welt sich wohlig schmieget.
@@ -37,12 +37,12 @@ Der stille Hüter des Letzten, nun?"~
 @21 = ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Narr!~ ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Närrin!~
 @22 = ~Früher oder später werdet Ihr die Rätsel lösen müssen, um diesen Ort zu verlassen.~
 @23 = ~Seid gegrüßt, Suchender. In dieser Leere gehen wir der Frage nach, was fühlende Wesen in ihrem Denken aufrechterhält. Seid Ihr bereit, Euch den Fragen zu stellen?~ ~Seid gegrüßt, Suchende. In dieser Leere gehen wir der Frage nach, was fühlende Wesen in ihrem Denken aufrechterhält. Seid Ihr bereit, Euch den Fragen zu stellen?~
-@24 = ~„Ich trotze der Leere um jeden Preis,
+@24 = ~Ich trotze der Leere um jeden Preis,
 Wenn alles um mich herum scheint verloren zu sein.
 Ich bin der Funke, der kaum gesehen wird, glühend heiß,
 Ein Schimmer in der Dunkelheit, ein schwacher Schein.
 Was bin ich, das in extremen Zeiten,
-das Überbleibsel eines gehegten Traums hält in allen Weiten?“~
+das Überbleibsel eines gehegten Traums hält in allen Weiten?~
 @25 = ~Prophezeiung.~
 @26 = ~Hoffnung.~
 @27 = ~Leidenschaft.~
@@ -60,14 +60,14 @@ Löse rechtzeitig und gelange heim.
 Wähle falsch und du erfährst Leid,
 In dieser Kammer, wo Gedanken fließen in Ewigkeit.~
 @35 = ~Passt gut auf, denn Euer Schicksal hängt von Eurer Antwort ab.~
-@36 = ~„Ich bin der Funke in der Seele Glanz,
+@36 = ~Ich bin der Funke in der Seele Glanz,
 Die Essenz des Lebens in Raum und Zeit,
 Ich grüble, ich träume, ich suche in Gedanken ganz,
 In Tiefen der Gedanken leuchtet mein Wesen weit.
 Ich lache, ich liebe und fürchte, ich weine,
 Ich nähere mich im Reich der Gefühle – der ernstlichen,
 Was bin ich, in diesem großen Plan alleine,
-Die Verkörperung des Göttlichen?“~
+Die Verkörperung des Göttlichen?~
 @37 = ~Vergnügen.~
 @38 = ~Abwesenheit.~
 @39 = ~Empfindungsvermögen.~

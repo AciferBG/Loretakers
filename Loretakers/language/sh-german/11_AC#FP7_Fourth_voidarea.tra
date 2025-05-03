@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~Ihr habt mein Rätsel bereits gelöst. Geht weiter zu den anderen Nichtigsprechern.~
@@ -19,12 +19,12 @@ Durch das Labyrinth, wo der Verstand sich verschanzt.
 Versage beim Test und die Gefahr naht beizeiten,
 In diesem Raum von Zweifel und Angst.~
 @12 = ~Also hört gut zu und beantwortet meine Frage richtig …~
-@13 = ~„Ich bin die Leere, die herrscht mit Macht,
+@13 = ~Ich bin die Leere, die herrscht mit Macht,
 Im Reich, wo das Bewusstsein wird aus den Fugen geraten.
 In meinem Reich der ewigen Nacht,
 Sind keine Gedanken zu bekämpfen, keine Erinnerungen zu bewahren.
 Was bin ich, wo die Existenz hin flüchtet,
-In die Leere, wo alles Gesehene sich lichtet?“~
+In die Leere, wo alles Gesehene sich lichtet?~
 @14 = ~Ermordung.~
 @15 = ~Trägheit.~
 @16 = ~Finsternis.~
@@ -35,12 +35,12 @@ In die Leere, wo alles Gesehene sich lichtet?“~
 @21 = ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Narr!~ ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Närrin!~
 @22 = ~Früher oder später werdet Ihr die Rätsel lösen müssen, um diesen Ort zu verlassen.~
 @23 = ~Seid gegrüßt, Suchender. In dieser Leere verblasst das Licht langsam, und gute Gefühle verwandeln sich in schlechte. Seid Ihr bereit, Euch den Fragen zu stellen?~ ~Seid gegrüßt, Suchende. In dieser Leere verblasst das Licht langsam, und gute Gefühle verwandeln sich in schlechte. Seid Ihr bereit, Euch den Fragen zu stellen?~
-@24 = ~„Ich bin das Echo in stiller Nacht,
+@24 = ~Ich bin das Echo in stiller Nacht,
 Das Flüstern der Seelen, die ihr Licht verloren.
 Keine Hoffnung zu hegen, keine Zuversicht entfacht,
 In meiner Umarmung ist alles Vertrauen erfroren.
 Was bin ich, wo der Glaube verkauft wird,
-An eine Dunkelheit, die nicht zum Troste führt?“~
+An eine Dunkelheit, die nicht zum Troste führt?~
 @25 = ~Zorn.~
 @26 = ~Verzweiflung.~
 @27 = ~Schicksal.~
@@ -48,30 +48,30 @@ An eine Dunkelheit, die nicht zum Troste führt?“~
 @29 = ~Eure Antwort ist richtig. Verzweiflung ist die Schwäche, mit der Ihr die Willenskraft besiegen könnt.~
 @30 = ~Ihr seid es nicht wert, in der Welt des Denkens weiter voranzukommen! Erfahrt die Strafe für Eure Dummheit!~
 @31 = ~Ihr habt alle Rätsel richtig gelöst und der Weg steht Euch offen. Es bleibt nur noch eine letzte Frage: Was bin ich?~
-@32 = ~„Sich bewegende Schatten, dich zielstrebig sich winden,
+@32 = ~Sich bewegende Schatten, zielstrebig sich winden,
 um zu füllen das Nichts bar jeder Entropie.
 Keine Überlieferung bleibt, keine Erinnerungen zu binden,
-Eine perfekte Leinwand für das Genie.“~
-@33 = ~„Mit Tentakeln, um die Geschicke der neuen Welt zu weben,
+Eine perfekte Leinwand für das Genie.~
+@33 = ~Mit Tentakeln, um die Geschicke der neuen Welt zu weben,
 Und psionischen Kräften, überwältigend und dominant,
 Wer tritt hervor, um zur Schaffung zu streben,
-aufs Neue, Schaffung der Welt, ein verdunkelter Zustand?“~
-@34 = ~„Was bin ich, mit Intellekt verbessert worden,
+aufs Neue, Schaffung der Welt, ein verdunkelter Zustand?~
+@34 = ~Was bin ich, mit Intellekt verbessert worden,
 als Architekt des neuen Entwurfs nominiert,
 In Ermangelung allen Wissens erworben,
-Der beansprucht den Thron, die Welt neu definiert?“~
+Der beansprucht den Thron, die Welt neu definiert?~
 @35 = ~Bedenkt dies, bevor Ihr die nächste Kammer betretet, empfindsames Wesen.~
 @36 = ~Hör gut zu und beherzig diesen Reim,
 Löse rechtzeitig und gelange heim.
 Wähle falsch und du erfährst Leid,
 In dieser Kammer, wo Gedanken fließen in Ewigkeit.~
 @37 = ~Passt gut auf, denn Euer Schicksal hängt von Eurer Antwort ab.~
-@38 = ~„Du wirst Leere, die deinen Namen ruft, vorfinden,
+@38 = ~Du wirst Leere, die deinen Namen ruft, vorfinden,
 Die Dunkelheit, in der dein Wesen schwindet.
 Keine Gedanken zum Leiten, keine Erinnerungen zu binden,
 In meinem Griff dein Verstand sich windet.
 Was bin ich, die Dunkelheit, in der du eingeschlossen bist,
-Wo das Wesen des Selbst untergraben ist?“~
+Wo das Wesen des Selbst untergraben ist?~
 @39 = ~Faulheit.~
 @40 = ~Abwesenheit.~
 @41 = ~Vergessen.~

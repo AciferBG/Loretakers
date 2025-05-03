@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~Büccchher! Immerh alte Büccchhher! Undh Foliantenh und Schriftrollen!~
@@ -26,7 +26,7 @@
 @20 = ~Lasse es gut sein.~
 @21 = ~Ja, ja, natürlich. Hier habt Ihr die Münzen.~
 @22 = ~Ich weiß nicht, was Euch hierherführt, aber ich würde gerne so schnell wie möglich von hier verschwinden.~
-@23 = ~Findet Ihr den Weg nach draußen allein?~
+@23 = ~Könnt Ihr den Weg nach draußen allein finden?~
 @24 = ~Ich muss diese Abwasserkanäle weiter erforschen. Ihr könnt mich nicht begleiten. Könnt Ihr allein nach draußen gehen?~
 @25 = ~Ich … denke schon. Und so entschlossen, wie Ihr ausseht, möchte ich Euch lieber nicht auf Eurem weiteren Weg begleiten. Ich gehe in die andere Richtung, in die neue Kanalisation und von dort zurück zum Hafen.~
 @26 = ~Eine letzte Sache – hütet Euch vor diesem Menschen, der meine Mitgefangenen entführt hat! Er schien eine Art Priester eines dunklen Gottes zu sein, alles an ihm roch nach Fäulnis und Verwesung!~

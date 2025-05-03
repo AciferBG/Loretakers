@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @56 = ~Formianer Riese~
@@ -68,7 +68,7 @@
 
 EIGENSCHAFTEN:
 
-Der Schild erhöht die Stufe von „Untote bannen“ beim Trägers um 1. 
+Der Schild erhöht die Stufe von „Untote bannen“ des Trägers um 1. 
 
 RK-Bonus:
   –2
@@ -82,7 +82,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-Stellt einen Stufe-1-Zauber wieder her. Falls dem Anwender ein Rettungswurf gegen Tod misslingt, wird er von einer Krankheit befallen, die 5 Trefferpunkte pro Runde für 3 Runden verursacht.
+Stellt einen Stufe-1-Zauber wieder her. Der Anwender wird er von einer Krankheit befallen, die 5 Schadenspunkte pro Runde für 3 Runden verursacht (Rettungswurf gegen Tod).
 
 Gewicht: 1~
 @1024 = ~Stück Moos~
@@ -208,7 +208,7 @@ Anwe  unge :  unä hst Meh , Salz, Ei r, Tilverton-Thymi n und Zwie el�
 
 EIGENSCHAFTEN:
 
-Lehmgolem erschaffen (1 Ladung)
+Lehmgolem erschaffen
   Reichweite: 12 m
   Dauer: 1 Runde
 
@@ -275,13 +275,15 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-Als Fernkampfwaffe benutzt, kann man 3 Geschosse erstellen. Jedes Geschoss fügt dem Ziel 1 Schadenspunkt durch Magie zu. Die Geschosse gelten als Angriff und können das Ziel verfehlen.
+Als Fernkampfwaffe schießen 3 magische Geschosse aus der Waffe. Die Geschosse gelten als Angriff und können das Ziel verfehlen.
 
 Intelligenz: +1
 Magiewiderstand: +10 %
 
 ETW0-Bonus: –3
-Schaden: 1W4 +3 (Stich)
+Schaden:
+  1W4 +3 (Stich) im Nahkampf
+  3 (Magie) im Fernkampf
 Initiativefaktor: 1
 Fertigkeit: Dolch
 Typ: 1-händig
@@ -293,6 +295,8 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
+RK-Bonus: –1
+RW-Bonus: –1
 Magierzauber: +1 (Grad 1)
 Priesterzauber: +1 (Grad 1)
 Sagenkunde: x2
@@ -429,7 +433,7 @@ Gewicht: 5~
 @1275 = ~In diesem Becken gibt es keinen Schlüssel, aber Ihr könntet trotzdem unter das Wasser tauchen und sehen, was Euch dort erwartet.~
 @1276 = ~Ihr könnt aus dieser Entfernung nicht ins Becken blicken.~
 @1277 = ~Es kann immer nur eine Person gleichzeitig ins Wasser eintauchen.~
-@1278 = ~Dies scheint der Kern des seltsamen Geräts zu sein, das die Illithiden hier installiert haben. Ihr wisst nicht, wozu es dient, aber Ihr bemerkt eine kleine Öffnung, durch die man in die organische Maschine gelangen kann. Ihr erkennt einen kleinen Sitz, auf dem ihr es Euch bequem machen könnt.~
+@1278 = ~Dies scheint der Kern des seltsamen Geräts zu sein, das die Illithiden hier installiert haben. Ihr wisst nicht, wozu es dient, aber Ihr bemerkt eine kleine Öffnung, durch die man in die organische Maschine gelangen kann. Ihr erkennt einen kleinen Sitz, auf dem Ihr es Euch bequem machen könnt.~
 @1279 = ~Ohne einen bestimmten anderen Gegenstand kann die Maschine für nichts anderes verwendet werden.~
 @1280 = ~Das Illithiden-Halsband gibt Euch eine Art Kontrolle über das Gerät. Euer Verstand dringt in den Gegenstand ein und Ihr schließt die Augen.~
 @1281 = ~Ihr spürt eine Anziehungskraft auf Euren Verstand. Obwohl Euer Körper immer noch am selben Ort ist, bewegt sich Euer Geist meilenweit weg, getragen von der psychischen Energie der Illithidenmaschine …~

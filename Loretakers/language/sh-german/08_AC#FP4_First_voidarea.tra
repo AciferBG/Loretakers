@@ -1,10 +1,10 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~Ihr habt mein Rätsel bereits gelöst. Geht weiter zu den anderen Nichtigsprechern.~
-@1 = ~Seid gegrüßt, Suchender, in diesem Bereich des Geistes. Wir, die Nichtigsprecher, Hüter des Bewusstseins, werden Euren Einfallsreichtum auf die ultimative Probe stellen. Wir stellen Euch Rätsel, die Ihr lösen müsst, um Euren Verstand und Euren Willen zu testen und um den Schlüssel auf dem Grund des Beckens zu finden. Scheitert nicht, denn die Konsequenzen sind schrecklich. Aber seid erfolgreich, und nehmt den Schlüssel, der neue Türen und unentdeckte Wege öffnet.~ ~Seid gegrüßt, Suchende, in diesem Bereich des Geistes. Wir, die Nichtigsprecher, Hüter des Bewusstseins, werden Euren Einfallsreichtum auf die ultimative Probe stellen. Wir stellen Euch Rätsel, die Ihr lösen müsst, um Euren Verstand und Euren Willen zu testen und um den Schlüssel auf dem Grund des Beckens zu finden. Scheitert nicht, denn die Konsequenzen sind schrecklich. Aber seid erfolgreich, und nehmt den Schlüssel, der neue Türen und unentdeckte Wege öffnet.~
+@1 = ~Seid gegrüßt, Suchender, in diesem Bereich des Geistes. Wir, die Nichtigsprecher, Hüter des Bewusstseins, werden Euren Einfallsreichtum auf die ultimative Probe stellen. Wir stellen Euch Rätsel, die Ihr lösen müsst, um Euren Verstand und Euren Willen zu testen und um den Schlüssel auf dem Grund des Beckens zu finden. Scheitert nicht, denn die Konsequenzen wären schrecklich. Seid aber erfolgreich, dann nehmt den Schlüssel, der neue Türen und unentdeckte Wege öffnet.~ ~Seid gegrüßt, Suchende, in diesem Bereich des Geistes. Wir, die Nichtigsprecher, Hüter des Bewusstseins, werden Euren Einfallsreichtum auf die ultimative Probe stellen. Wir stellen Euch Rätsel, die Ihr lösen müsst, um Euren Verstand und Euren Willen zu testen und um den Schlüssel auf dem Grund des Beckens zu finden. Scheitert nicht, denn die Konsequenzen wären schrecklich. Seid aber erfolgreich, dann nehmt den Schlüssel, der neue Türen und unentdeckte Wege öffnet.~
 @2 = ~Fahrt fort. Stellt Euer Rätsel.~
 @3 = ~Wo bin ich?~
 @4 = ~Ich will hier raus.~
@@ -13,10 +13,10 @@
 @7 = ~Nochmals willkommen, Suchender, in diesem Bereich des Geistes. Euer Einfallsreichtum wird hier auf die Probe gestellt werden. Wenn Ihr versagt, wird Euch Schaden zugefügt. Wenn Ihr erfolgreich seid, werden sich weitere Türen für Euch öffnen.~ ~Nochmals willkommen, Suchende, in diesem Bereich des Geistes. Euer Einfallsreichtum wird hier auf die Probe gestellt werden. Wenn Ihr versagt, wird Euch Schaden zugefügt. Wenn Ihr erfolgreich seid, werden sich weitere Türen für Euch öffnen.~
 @8 = ~Ihr steht am Abgrund des Nichtiggeistes, wo sich die Tiefen der Vernunft mit den Mysterien der Existenz verflechten. Geht mit Vorsicht vor, denn die Antworten, die Ihr sucht, können zur Erleuchtung oder zur ewigen Dunkelheit führen.~
 @9 = ~Nun gut. Stellt Euer Rätsel.~
-@10 = ~Ein Entkommen von diesem Ort ist möglich, aber nur für diejenigen, die ihre Würdigkeit durch Intellekt und Einsicht beweisen. Löst die Rätsel, die vor Euch liegen, und der Weg in die Freiheit wird sich offenbaren. Aber sei gewarnt, die Reise, die vor Euch liegt, ist gefährlich, und der Preis des Scheiterns ist hoch.~
+@10 = ~Ein Entkommen von diesem Ort ist möglich, aber nur für diejenigen, die ihre Würdigkeit durch Intellekt und Einsicht beweisen. Löst die Rätsel, die vor Euch liegen, und der Weg in die Freiheit wird sich offenbaren. Aber seid gewarnt, die Reise, die vor Euch liegt, ist gefährlich, und der Preis des Scheiterns ist hoch.~
 @11 = ~Ihr seid hierhergekommen, um den Schlüssel zur nächsten Tür zu finden. Ihr seid in den Nichtiggeist eingedrungen, und um von hier zu entkommen und den Schlüssel zu erhalten, müsst Ihr unsere Rätsel lösen, die Euren Verstand auf die Probe stellen werden.~
 @12 = ~Also hört gut zu und beantwortet meine Frage richtig …~
-@13 = ~„Ich bin das Flüstern des Schicksalsbeschluss’,
+@13 = ~Ich bin das Flüstern des Schicksalsbeschluss’,
 In den Winden der Zeit bin ich frei,
 Ich sage die Zukunft voraus, habe Einfluss,
 In kryptischen Worten ich wehe vorbei.
@@ -25,7 +25,7 @@ In Visionen und Träumen werd ich erzählt,
 Entschlüsselt mein Rätsel und lasst Euch leiten,
 Zur Entfaltung des Schicksals.
 Was bin ich in der mystischen Kunst,
-Ein Blick auf das Kommende, ein Lichte im Dunst?"~
+Ein Blick auf das Kommende, ein Lichte im Dunst?~
 @14 = ~Weisheit.~
 @15 = ~Musik.~
 @16 = ~Gelächter.~
@@ -35,7 +35,7 @@ Ein Blick auf das Kommende, ein Lichte im Dunst?"~
 @20 = ~Eure Antwort ist richtig. Durch das Geflüster des Schicksals wartet die Prophezeiung auf Euch. Geht vorsichtig vor, denn das Licht der Prophezeiung ist gleißend hell!~
 @21 = ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Narr!~ ~Das war falsch! Euer Verstand ist es nicht wert, getestet zu werden, Ihr Närrin!~
 @22 = ~Früher oder später werdet Ihr die Rätsel lösen müssen, um diesen Ort zu verlassen.~
-@23 = ~„Ich bin das Echo vergang’ner Momente,
+@23 = ~Ich bin das Echo vergang’ner Momente,
 In den Korridoren der Zeit verweile ich,
 Versteckt in des Geistes tiefster Senke,
 Eine Schatztruhe für den, der findet mich.
@@ -44,7 +44,7 @@ Ich liege in Bruchstücken der Wahrheit,
 Öffne die Tür, tritt zur Kammer herein,
 Dort liegen Schätze für dich in Massen bereit.
 Was bin ich in des Geistes Dekret,
-Ein Gewölbe der Geschichte, das für immer besteht?”~
+Ein Gewölbe der Geschichte, das für immer besteht?~
 @24 = ~Intelligenz.~
 @25 = ~Gedächtnis.~
 @26 = ~Liebe.~
@@ -58,7 +58,7 @@ Keine Prophezeiungen leiten, keine Wahrheiten werden offenbar,
 In einem Reich der Dunkelheit wächst wahre Herrschaft ganz und gar.~
 @32 = ~Ihr habt alle unsere Rätsel richtig beantwortet. Ihr verdient es, den Schlüssel zu nehmen und Euren Weg fortzusetzen.~
 @33 = ~Passt gut auf, denn Euer Schicksal hängt von Eurer Antwort ab.~
-@34 = ~„Ich bin der Schatz der Gelehrten und Weisen,
+@34 = ~Ich bin der Schatz der Gelehrten und Weisen,
 In meinem Griff liegt die wahre Macht,
 Such mich, wo die Alten reisen,
 In Bänden voller Geheimnisse wurd ich erdacht.
@@ -67,7 +67,7 @@ In den Schatten der Unwissenheit schleich ich leise herum,
 Entschlüssle meine Geheimnisse, und dann komm in Sicht,
 Der Schlüssel zu Weisheit und Einfallsreichtum.
 Was bin ich, verborgen in der Überlieferung,
-Eine Quelle der Kraft in ewiger Erinnerung?“~
+Eine Quelle der Kraft in ewiger Erinnerung?~
 @35 = ~Verbindlichkeit.~
 @36 = ~Kreativität.~
 @37 = ~Wissen.~

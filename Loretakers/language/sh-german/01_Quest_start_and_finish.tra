@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Loretakers
-// date: 2024-07-14, 19:47
+// date: 2025-05-03, 11:20
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @0 = ~<CHARNAME>! Ihr seid hier. Ich versuche immer noch, den Illithiden-Schleim abzuschütteln, der in meine Lunge eingedrungen ist, aber es ist so schön, wieder frische Oberflächenluft zu atmen.~
@@ -11,7 +11,7 @@
 @5 = ~Oghma, Bewahrer alles Bekannten, erhöre unser Flehen!~
 @6 = ~Wir bitten dich, schütze unsere Weisheit vor der Verwüstung des Vergessens. Lass nicht zu, dass das Licht des Lernens durch dieses grausame Schicksal ausgelöscht wird!~
 @7 = ~Suchender Tuck, jetzt, da der Hohe Wissenshüter Eyvind verschwunden ist, müssen wir so viele der wertvollen Bände wie möglich bewahren. Hoffen wir, dass wir Hilfe für diese Archive des Wissens finden.~
-@8 = ~Wissenshüter Namonder – seht sie Euch nur an! Sie sind mit Schimmel bedeckt, vielleicht auch mit Schleim, oder noch schlimmer … Ich kann es nicht mit Sicherheit sagen, aber was auch immer es ist, es hat alle unsere kostbaren Bände befallen!~
+@8 = ~Wissenshüter Namonder, seht sie Euch nur an! Sie sind mit Schimmel bedeckt, vielleicht auch mit Schleim, oder noch schlimmer … Ich kann es nicht mit Sicherheit sagen, aber was auch immer es ist, es hat alle unsere kostbaren Bände befallen!~
 @9 = ~Dies ist eine Katastrophe von unnatürlichem Ausmaß … weit jenseits des Rahmens eines bloßen Unglücks!~
 @10 = ~Oh, meine … Ich wollte „Seht Euch das an“ sagen, aber … jetzt kann ich es riechen, und ich weiß nicht, was schlimmer ist – der Anblick oder der Geruch!~
 @11 = ~Es ist SO abscheulich! So abscheulich, dass es auch beängstigend ist! Ich wusste nicht, dass so etwas mit einem Buch passieren kann!~
@@ -38,7 +38,7 @@
 @32 = ~Bei diesem Band handelt es sich beispielsweise um das legendäre „Kompendium der vergessenen Geheimnisse“, von dem man annimmt, dass es vom Erzmagier Ioulaum selbst verfasst wurde.~
 @33 = ~Und das hier ist die erste Ausgabe des rashemischen „Muttis Kochbuch“.~
 @34 = ~Auch wenn es vielleicht nicht für alle wertvoll erscheint, so ist es doch ein wichtiges Werk für jeden, der sich schon einmal der Herausforderung gestellt hat, aus einem einfachen Kohlkopf ein Festmahl zu zaubern, das einem König würdig wäre.~
-@35 = ~Minsk kennt das! Nur das wahre Böse würde so ein Buch zerstören! Das ist schlimm! Mit einem Magen voller rashemischen Essen könnten Minsk und Boo von Sonnenaufgang bis Sonnenuntergang Hintern treten!~
+@35 = ~Minsk kennt das! Nur das wahre Böse würde so ein Buch zerstören! Das ist schlimm! Mit einem Magen voll rashemischen Essens könnten Minsk und Boo von Sonnenaufgang bis Sonnenuntergang Hintern treten!~
 @36 = ~Aber das ist nicht der gesamte Verlust. „Götter der Hoffnung“, „Von dunklen Prophezeiungen“, „Alaundos letztes Bedauern“, „Die Augen der Zeit“, „Chronik der kommenden Jahre“ … Jeder dieser Bände, ob zerstört oder verrottet, enthielt unersetzliches Wissen. Auch wenn profane Texte wie das Kochbuch hier Anlass zur Sorge geben, sind es doch diese einzigartigen Bände voller geheimnisvollem Wissen, die in gefährlichen Zeiten unser wichtigstes Kapital sind. Leider sind sie nun für uns verloren.~
 @37 = ~Nur um das klarzustellen: Mit denen hab ich nichts zu tun. Ich habe nie etwas von denen hier genommen.~
 @38 = ~„Von dunklen Prophezeiungen“ und „Alaundos letztes Bedauern“ sind auch außerhalb unserer Reichweite? Sammler allen Wissens, beschütze uns …~
