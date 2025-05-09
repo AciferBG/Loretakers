@@ -7,7 +7,7 @@
  *************************************************************************/
 BACKUP ~Loretakers/backup~
 AUTHOR ~Acifer~
-VERSION ~V 1.5~
+VERSION ~V 1.7~
 
 AUTO_TRA ~Loretakers\language\%LANGUAGE%\%s~
 
@@ -97,7 +97,7 @@ LANGUAGE ~Chinese - by Yoshimo0417~
          ~Loretakers/language/russian/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/russian/13_Cryptosphere.tra~
 
-BEGIN ~Loretakers V 1.5~
+BEGIN ~Loretakers V 1.7~
 
 INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
 

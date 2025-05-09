@@ -1,3 +1,8 @@
+Version 1.7
+- updated Russian translation
+Version 1.6
+- added Russian translation by Origanum8, thank you!
+- updated German version, by Shai Hulud
 Version 1.5
 - corrected various typos (English version)
 - Wrimbog now uses the correct weapon
