@@ -1,0 +1,486 @@
+@0= ~Loretakers~
+
+@56 = ~Gigante fomoriano~
+
+@63 = ~Wererat~
+@64 = ~Esta piedra se ve exactamente igual que la del otro lado. De nuevo, podrías intentar eliminar las líneas de la superficie. ~
+@65 = ~ La piedra vibra con una luz tenue. Observas finos dibujos dispersos por su superficie. Podrías intentar eliminarlos. ~
+@66 = ~Tocas la superficie y las líneas desaparecen. De repente, una violenta ola de absoluta desesperanza te invade la mente. ~
+@67 = ~ Al entrar en la habitación, una oleada de emociones violentas y odiosas te invade. Enfrente, dos piedras palpitantes emiten un brillo siniestro, aparentemente intentando influir en tu mente. ~
+@68 = ~La magia de la piedra se ha extinguido. Solo se siente fría e impotente. ~
+
+@77 = ~Wrimbog~
+@86 = ~Belster Vuelvepiedras~
+@87 = ~Bodeguero~
+@88 = ~Viceak~
+@89 = ~Rickul~
+@90 = ~Feyr~
+@91 = ~Vuardsungulu~
+@92 = ~Bagut~
+@93 = ~Petian~
+@94 = ~Urthadar~
+@95 = ~Agua extraña~
+@96 = ~Otyugh~
+@97 = ~Musgo de memoria~
+@98 = ~Mancha blanca~
+@99 = ~Ralx~ // Mago hombre rata
+@100 = ~Rastreador serpenteante~
+@101 = ~Scronch~
+@102 = ~Rennack~
+@103 = ~Criatura capturada~
+@104 = ~Loremaster High Eyvind~ // Clérigo de Oghma
+@105 = ~El encefalítido~
+@106 = ~Aimil~
+@107 = ~Hablante del Vacío~
+@108 = ~Oblex~
+@109 = ~Sombra mental~
+@110 = ~Maestro de la tradición Namonder~
+@111 = ~Buscador Tuck~
+@112 = ~Limpiador de alcantarillado~
+@113 = ~Estado~
+@114 = ~Estatua impía~
+@115 = ~Esclavo~
+@116 = ~Gólem de arcilla menor~
+@117 = ~Maestro Durnan~
+@118 = ~Hombre rata enfermo~
+@119 = ~Tirano de la Muerte~
+@120 = ~Alcantarillado~
+@121 = ~Obliviax~
+@122 = ~Momia del pantano~
+
+@1000 = ~Máscara de Jymahna~
+@1001 = ~Máscara de Jymahna~
+@1002 = ~Máscara de Jymahna~
+@1003 = ~Máscara de Jymahna~
+@1004 = ~Llave de la puerta~
+@1005 = ~Encontraste esta llave en la sala del Basilisco, en las alcantarillas antiguas. Parece pertenecer a una puerta importante. ~
+@1006 = ~Clave Illithid~
+@1007 = ~Encontraste esta llave en el cadáver del Ulitharid Vuardsungulu.~
+@1008 = ~Clave de estatua~
+@1009 = ~Encontraste esta llave en el cráneo de una estatua en el antiguo templo de Moander.~
+@1010 = ~Llave de la Cuenca~
+@1011 = ~Sacaste esta llave de una palangana en las viejas alcantarillas.~
+@1012 = ~ Sacaste esta llave del segundo lavabo de las alcantarillas viejas. Podría abrir la tercera puerta cerrada. ~
+@1013 = ~ Esta llave está fría al tacto. Proviene de la habitación donde estaba la piscina fría. La cogiste de una mancha blanca. Podría abrir la cuarta puerta cerrada. ~
+@1014 = ~Le robaste esta llave a una criatura deforme llamada Wrimbog en las viejas alcantarillas. Puede que abra la última puerta cerrada. ~
+@1019 = ~Escudo del Amanecer~
+@1020 = ~ Este escudo está fabricado en bronce macizo. Aunque el metal ha desarrollado cierta pátina, aún brilla con un cálido tono amarillo dorado. El escudo está adornado con un sol naciente, símbolo de Lathander. Los no muertos parecen temer este símbolo y la calidez que emana. Los clérigos de alineamiento maligno no pueden portar el escudo.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura: +2
+– Sin protección contra ataques con misiles
+– añade un nivel a la habilidad "Ahuyentar no muertos" de los clérigos y paladines
+
+Requiere:
+4 Fuerza
+
+Peso: 3~
+@1021 = ~Esta llave huele a humedad y a plantas podridas. La sacaste de un Montículo Desaliñado.~
+@1022 = ~Musgo de memoria~
+@1023 = ~Este musgo es el remanente de una planta llamada obliviax, conocida por su capacidad para robar recuerdos. Los magos, en particular, deberían evitar esta especie si no quieren correr el riesgo de perder sus hechizos memorizados. Afortunadamente, comer este musgo tiene el efecto contrario: permite al mago recordar algunos de los hechizos que ya ha lanzado. Sin embargo, existe el riesgo de malestar estomacal al comer los rizoides carnosos.
+
+ESTADÍSTICA:
+
+– Restaura un hechizo de primer nivel cuando se consume.
+– Si falla una tirada de salvación contra la muerte, el personaje sufre una enfermedad que le cuesta a <PRO_HIMHER> cinco puntos de golpe por asalto durante tres asaltos.
+
+Peso: 1~
+@1024 = ~Un trozo de musgo~
+@1025 = ~Un trozo de musgo verdoso y brillante que huele a tierra y plantas mohosas~
+@1026 = ~Hechizo restaurado~
+@1027 = ~Collar ilítido~
+@1028 = ~Compañero cerebral~
+@1029 = ~ Le quitaste este collar al líder ilícido Vuardsungulu. Contiene un pequeño frasco de materia orgánica. ~
+@1030 = ~ Cuando los ilícidos se alejan de su comunidad, pierden contacto con su Cerebro Antiguo. Para seres acostumbrados a la constante separación de los pensamientos, el conocimiento y la percepción del Cerebro Antiguo, la pérdida de contacto con él puede ser bastante inquietante.
+
+Los grupos que viajan fuera del alcance de un Cerebro Antiguo durante largos periodos pueden recurrir a un intermediario. Los ilícidos que pertenecen a incursiones menos ambiciosas a menudo se ven obligados a endurecer sus tentáculos y soportar el peso de la pérdida de contacto, a menos que se encuentren entre los pocos afortunados que poseen un compañero cerebral.
+El compañero cerebro es una esfera de material translúcido, de diez centímetros de diámetro, en la que un cerebro en miniatura, cercenado, flota en un líquido pesado y lento. Los ilícidos suelen llevar este objeto en una cadena alrededor del cuello cuando lo usan, o lo guardan en un cofre bien acolchado.
+
+El objeto no tiene propiedades mágicas y solo es útil para los ilícidos.~
+@1031 = ~Pañuelo~
+@1032 = ~Este es el pañuelo que pertenecía al fantasma femenino en la fuente al lado del templo de Tymora.~
+@1033 = ~Rueda dentada~
+@1034 = ~Una pequeña rueda dentada, que probablemente fue tomada de un mecanismo más grande para dejarlo inoperable~
+@1035 = ~Rose~
+@1036 = ~Una rosa roja fragante.~
+@1037 = ~Tubería~
+@1038 = ~Tuberías de las alcantarillas~
+@1039 = ~Este instrumento es una especie de flauta de pan hecha de tubos sucios y ligeramente oxidados~
+@1040 = ~Las Flautas de las Alcantarillas son flautas de pan encantadas, creadas con la capacidad de influir en el comportamiento de ciertos roedores. Al tocarse, estos instrumentos místicos pueden invocar ratas a una distancia de hasta trescientos metros para que acudan a su llamado. La magia que impregnan las flautas se renueva cada día al amanecer, garantizando que su poder esté siempre disponible.
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– El usuario puede invocar un enjambre de ratas una vez al día.
+  Duración: 10 rondas
+
+Peso: 1
+~
+@1041 = ~Botella de mal humor~
+@1042 = ~Botella del Espíritu Enojado~
+@1043 = ~ Esta botella está llena de una extraña sustancia negra que gira y parece moverse sin parar, incluso sin inclinar el frasco. El frasco está extrañamente frío y resulta incómodo sostenerlo en la mano durante un buen rato. ~
+@1044 = ~Un espíritu inquieto y no muerto está atrapado en esta botella, esperando ser liberado y destruir a cualquiera que esté cerca con su toque que drena la vida.
+
+CARACTERÍSTICAS:
+
+Cuando se abre el obturador, un espectro escapa y ataca a cualquier objetivo en su línea de visión.~
+@1045 = ~Llave para las alcantarillas antiguas~
+@1046 = ~Esta es la llave de las antiguas alcantarillas debajo de la Puerta de Baldur.~
+@1047 = ~Diario de Urthadar~
+@1048 = ~Este es el diario de Urthadar, el sacerdote de Moander, quien ha establecido un templo en honor a su dios difunto en las antiguas alcantarillas bajo la Puerta de Baldur. El texto es confuso, pero algunos pasajes llaman la atención:
+
+"Día del Nacimiento de las Esporas
+Visiones han vuelto a plagar mis sueños, vívidas e imponentes. El Gran Moander me habla desde el más allá; su voz es un susurro entre las sombras, guiando mis manos hacia un gran propósito. Me ordena despertar la tierra, insuflar vida a las esporas latentes que duermen en la oscuridad. «Extiende los hongos», susurra, «que devoren el conocimiento del mundo». Así que partí de Torsch, en el Bosque de Chondal, y emprendí el largo viaje hacia el norte, como mis visiones me habían enviado a la ciudad de Puerta de Baldur, en la Costa de la Espada.
+
+Día de la Expansión Hifal
+El cultivo avanza. Mis hijos, los hongos, prosperan en la oscuridad de mi santuario. Cada especie, una llave para liberar las cadenas que atan a mi señor. Hoy, una nueva especie floreció, sus esporas brillan como estrellas en el vacío. Anhelan la palabra escrita, un apetito que rivaliza incluso con mi propio fervor. Con cada libro que consumen, siento que la presencia de Moander se fortalece, su resurrección inminente.
+
+Día de la Convergencia Creciente
+Un gran avance en mi trabajo. Las esporas ahora pueden disolver tinta y pergamino con una eficacia alarmante. Mis sueños son más vívidos ahora; la voz de Moander se vuelve más clara. Me muestra un mundo libre del peso del conocimiento pasado, un mundo propicio para su dominio. Debo ser su heraldo, quien allane el camino para su regreso. Lo viejo debe ser erradicado para que lo nuevo florezca.
+
+Día de la Emergencia de la Fructificación
+Hoy la duda invade mi corazón. Una debilidad momentánea, quizá. La destrucción que siembro se siente abrumadora, borrando siglos de sabiduría e historia. Pero entonces recuerdo mi propósito, el mandato divino. La voluntad de Moander es absoluta; su visión del futuro, infalible. Solo soy un sirviente, elegido para ejecutar su gran designio. La pérdida del conocimiento es un sacrificio necesario para renacer.
+
+Día de la Diseminación de Esporas
+Esta noche, mis sueños fueron diferentes. No una visión, sino una visita. Los Portavoces del Vacío, criaturas de gran inteligencia y poder, se acercaron a mí. Hablaron de una alianza, de objetivos compartidos y beneficios mutuos. La voz de Moander permaneció en silencio esta noche, pero el mensaje fue claro. Estos seres, con sus mentes insondables, son la clave para la resurrección de mi señor. Me guían, no como falsos profetas, sino como aliados en el gran despertar. Me permitieron contemplar el estanque y vislumbrar lo que Moander quiere transformar.
+
+Día de la Colonización del Moho
+Conseguí que el caldero oxidado del viejo templo volviera a funcionar. Es un «Caldero de la Perdición», un objeto legendario que me permite crear zombis al arrojar un cadáver al tanque. A mis compañeros aliados, los Portavoces del Vacío, no parece gustarles que esté invocando no muertos, pero ¿por qué?
+
+Día de la descomposición menguante
+Ahora veo el gran tapiz del plan de Moander, tejido con hilos de engaño y verdad por igual. Los Portavoces del Vacío son solo instrumentos de su resurrección, y sus objetivos se alinean con su voluntad divina. Debo continuar mi obra, propagando la decadencia, hasta que llegue el día en que Moander camine por este reino una vez más. Mi fe es inquebrantable, mi propósito claro. El fin del conocimiento es el comienzo de la iluminación.
+~
+@1049 = ~Esporogénesis del Codex~
+@1050 = ~Codex Esporogénesis: Desvelando los secretos de la descomposición
+
+Las siguientes esporas y mohos raros son ideales para la erradicación del conocimiento:
+
+Hongo de tapa vacía
+Proliferando en las sombras más profundas, el Hongo TapaVacía se asemeja a un vacío en la esencia misma de la realidad. Sus tapas absorben la luz, dándoles la apariencia de pozos oscuros e insondables. Al ingerirse, las esporas inducen visiones de una nada infinita, un atisbo del abismo que aguarda para consumir el conocimiento del mundo. Son los heraldos del silencio, devorando las palabras y los recuerdos que se atreven a desafiar el olvido inminente.
+
+Moho de esporas de sombra
+Este moho reptante crece como una sombra siniestra sobre todo lo que lleva la marca del orgullo de la civilización: libros, pergaminos y tomos. El Moho de Esporas de Sombra se alimenta de la tinta, dejando solo páginas en blanco, como si el conocimiento nunca hubiera existido. En su presencia, se pueden oír tenues susurros, el último aliento del conocimiento perdido, testimonio de la voluntad de Moander de recuperar y aniquilar las estructuras de lo conocido.
+
+Hongo de podredumbre mental
+El Hongo Mindrot es una especie rara y peligrosa que se nutre de las energías psíquicas de los seres sintientes. Sus esporas nublan la mente, disolviendo lentamente los recuerdos y el conocimiento, dejando solo una cáscara vacía. No es solo la manifestación física de la decadencia, sino la esencia misma del olvido, un agente del deseo de Moander de borrar los pecados del pasado y reconstruir el mundo.
+
+Micelio susurrante
+Una red de hilos finos, casi invisibles, el Micelio Susurrante se extiende bajo la tierra de antiguas bibliotecas y lugares sagrados de aprendizaje. Se comunica en voz baja, difundiendo secretos y mentiras que siembran duda y discordia. Quienes escuchan con atención descubren que sus pensamientos no son los suyos, mientras el micelio teje nuevas verdades a partir de la trama de mentiras olvidadas. Es la voz de Moander, difundiendo su evangelio de decadencia a través de las raíces mismas de la civilización.~
+@1051 = ~Cráneo abierto~
+@1052 = ~Por alguna razón desconocida, la parte superior de este cráneo se ha abierto, tal vez para extraer el cerebro.~
+@1053 = ~Panel metálico~
+@1054 = ~Panel de runas de calidad~
+@1055 = ~Este panel de metal está entrecruzado con líneas extrañas~
+@1056 = ~ Este panel de runas está escrito en la escritura de los Desolladores Mentales, llamada "Qualith". Dice:
+
+Directiva de misión: Operación Mindshroud
+
+A los estimados agentes del Credo Loretaker,
+Por mandato de los Encefalítidos, tenemos el sagrado deber de erradicar los vestigios de conocimiento que se aferran a las mentes débiles de los habitantes de la superficie. Nuestro objetivo: las prestigiosas bibliotecas de Puerta de Baldur y el depósito sagrado de Candelero.
+
+Nuestra misión es doble:
+Infiltración e Infestación: Utiliza a nuestros agentes camuflados entre las masas humanoides para infiltrarte en las bibliotecas de Puerta de Baldur. Al amparo de la oscuridad, usa esbirros para infestar tomos, pergaminos y manuscritos con el Molde de Esporas de Sombra, asegurándote de que cada palabra, cada símbolo, sea consumido por la oscuridad insidiosa del olvido. Que ningún volumen se salve en nuestra misión para purgar el mundo de las ataduras del conocimiento.
+
+Propagación de la Descomposición: Una vez que la infección se haya arraigado en el corazón de Puerta de Baldur, transporta los textos contaminados a los sagrados salones de Candelero. Con la excusa del comercio o el intercambio diplomático, introduce los tomos corruptos en la colección de la biblioteca sagrada. Deja que las esporas de la descomposición se propaguen sin control, deshaciendo los hilos de la historia y la sabiduría que unen las mentes de los habitantes de la superficie.
+
+- Mantener contacto mental con los demás de nuestra especie, especialmente con los Ocultos más al sur.
+
+Recuerden el credo de nuestros ancestros: «Ante la ausencia de conocimiento, solo hay iluminación». En la aniquilación del pasado yace la promesa de un nuevo amanecer, donde la supremacía de los Ilítidos reinará sin oposición.
+
+Instala el Transceptor Cerebral Anciano en un lugar remoto para mantener el contacto con el Encefalítido. Usa a tu compañero cerebral para activar el transceptor.
+Que los Encefalítidos guíen tus pensamientos y que los susurros de los Hablantes del Vacío anuncien tu victoria.
+
+Firmado,
+El Credo del Loretaker~
+@1057 = ~Libro de cocina de la madre de Rashemi~
+@1058 = ~ El libro es de cuero y está decorado con una cuchara y un tenedor corroídos en la tapa. Desafortunadamente, está cubierto por completo de moho verde, que devora la tapa y desintegra las páginas. Pasas a una página al azar, pero solo puedes descifrar fragmentos individuales:
+
+"... fr Rashemi t ew … ing dents: ea, on ns, gar c, nd lm nt of sce. ake e ixt re place on ao fuego hasta que se coma s bsides. dd hi y tomates en rodajas y revolver ent y… los secretos en la mezcla de especias y ella s. esto debe ser omitido cuidadosamente para ver los sabores… ver el sentido de su har y re… adornar con esherb y servir.
+
+Para el orzh Rashemi convencional, comience con:
+3 cpo fl r,
+1/2 ar n de s lt,
+4 días de ggs,
+1 tonelada de tomillo Tilverton,
+Mezclar con agua hasta formar una pasta.
+Calienta la sartén de hierro fundido sobre brasas medianas y mantén el aceite.
+Cuando esté caliente, mezclamos todo y lo extendimos uniformemente...
+Cocine hasta que los bordes estén crujientes y dorados, luego voltee ligeramente…
+Servido con un toque de menta fresca y un acompañamiento de pepinillos encurtidos. ~
+@1059 = ~Figura~
+@1060 = ~Gólem de arcilla en miniatura~
+@1061 = ~Una pequeña figura probablemente hecha de arcilla.~
+@1062 = ~Esta es una pequeña figura esculpida de un gólem de arcilla. Puede transformarse en un gólem de arcilla menor al colocarlo en el suelo y pronunciar la palabra de comando. Al expirar la duración del hechizo, el gólem de arcilla creado se desmorona y ya no puede usarse.
+
+ESTADÍSTICA:
+
+Habilidades de carga:
+– Crear gólem de arcilla (1 carga)
+  Alcance: 40 pies.
+  Duración: 1 turno
+
+Peso: 6~
+@1063 = ~Devorar cerebro~
+@1064 = ~Esfera extraña~
+@1065 = ~Criptosfera~
+@1066 = ~Esta esfera consta de tres segmentos, cada uno intrincadamente decorado con runas antiguas y mecanismos misteriosos.~
+@1067 = ~La Criptósfera es un enigmático objeto compuesto por tres segmentos giratorios distintos. Cada segmento está adornado con su propio conjunto de runas antiguas y diales táctiles que sirven como mecanismos clave para el funcionamiento del dispositivo. Para desbloquear el objeto, cada segmento debe alinearse en una configuración específica, dictada por la secuencia lógica de las runas. Esta configuración, una vez lograda, activa una serie de engranajes y palancas internas que trabajan meticulosamente para desbloquear la cámara oculta de la esfera.
+
+Dentro de la cámara, los usuarios suelen encontrar objetos de gran poder arcano o pergaminos antiguos conservados en un estado casi perfecto, protegidos por el intrincado diseño de la esfera. La Criptósfera no solo desafía el intelecto de su portador, sino que también sirve como guardiana de un conocimiento y un poder que se consideran demasiado profundos o peligrosos para los no iniciados.
+
+Peso: 8~
+@1068 = ~Operar~
+@1069 = ~Presagio duradero +2~
+@1070 = ~ Este mayal mágico fue encantado con interesantes energías divinas. Si los rumores son ciertos, cuando lo sostiene una persona de fe, puede ayudarle a potenciar sus hechizos y prolongarlos, y a veces eso es justo lo que se necesita para sobrevivir y ganar batallas.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Los hechizos divinos duran un 10% más de lo normal.
+
+THAC0: +2
+Daño: 1d6+3 (aplastante)
+Factor de velocidad: 5
+Tipo de competencia: Mayal/Estrella de la mañana
+Tipo: Una mano
+Requiere:
+13 Fuerza
+
+Peso: 12~
+@1071 = ~Dirty Ragbarth +2~
+@1072 = ~ Este bastón se conoce como Dirty Ragbarth, y muchos podrían pensar que es un nombre muy apropiado. Es un bastón sencillo, pero rezuma una sustancia viscosa verde. Su magia se entrelaza con su naturaleza sucia y silenciosa... lo cual puede resultar bastante repelente para la mayoría de las personas.
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– Bonificación de daño por ácido: +10%
+– Cada golpe exitoso tiene un 75 % de probabilidad de causar 1d2 de daño por ácido adicional.
+
+THAC0: +2
+Daño: 1d6+2 (aplastante)
+Factor de velocidad: 2
+Tipo de competencia: Bastón
+Tipo: A dos manos
+Requiere:
+5 Fuerza
+
+Peso: 3~
+@1073 = ~Vlanakka +2~
+@1074 = ~ Este arco se conoce como Vlanakka. Fue creado por un grupo de sacerdotes elfos a quienes se les ordenó crear un arma maravillosa para un arquero elfo, un héroe que salvó a la familia de un herrero local. El arco fue bendecido, lo que lo convierte en un arma perfecta para enfrentarse a los no muertos.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura y tiradas de salvación contra no muertos: +2
+
+THAC0: +3
+Daño: +2
+Factor de velocidad: 5
+Tipo de competencia: Arco largo
+Tipo: A dos manos
+Requiere:
+6 Fuerza
+
+Peso: 2~
+@1075 = ~Pensamientos triples +3~
+@1076 = ~ Este inusual cristal puede usarse como arma: tanto como arma tipo daga como dispositivo mágico que puede crear proyectiles mágicos. Sin embargo, a diferencia del hechizo, pueden fallar si el usuario del arma no enfoca correctamente.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Inteligencia: +1
+– Resistencia mágica: +10%
+
+Habilidades de combate:
+– Cuando se usa como arma a distancia, puede crear 3 misiles: cada uno de ellos inflige 1 daño mágico (aún se consideran un ataque y pueden fallar).
+
+THAC0: +3
+Daño: 1d4+3 (perforante)
+Factor de velocidad: 1
+Tipo de competencia: Daga
+Tipo: Una mano
+Requiere:
+13 Inteligencia
+
+Peso: 1~
+@1077 = ~Eón del saber~
+@1078 = ~Este exquisito anillo, conocido como el Eón del Saber, fue forjado por la venerada Maestra del Saber Halantra, una formidable sacerdotisa de Oghma. Adornado con intrincados grabados que simbolizan la búsqueda de la sabiduría, se dice que quienes lo portan gozan de la protección divina del mismísimo Oghma. Además, quienes lo llevan están imbuidos de un profundo conocimiento, y sus mentes se iluminan con un flujo inagotable de comprensión y entendimiento.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura: +1
+– Tiros de salvación: +1
+– Puede memorizar un hechizo adicional de nivel 1 (tanto arcano como divino)
+– El valor de la historia del personaje se duplica.
+
+Peso: 0~
+@1079 = ~Piedra solitaria~
+@1080 = ~Barrio Cerúleo~
+@1081 = ~Esta es una pequeña piedra azul que orbita la cabeza de su dueño. Simplemente equipa la piedra para colocarla en su órbita. Estas piedras, obviamente mágicas, tienen diferentes propiedades según su color.
+
+ESTADÍSTICA:
+
+Peso: 0~
+@1082 = ~En los últimos años de Netheril, cuando la magia fluía con la misma libertad que las aguas del Mar Angosto, los archimagos crearon maravillas que el mundo jamás había visto. Entre estas creaciones se encontraba una singular Piedra Ioun de Zafiro, conocida como la Protección Cerúlea.
+
+La Protección Cerúlea fue creada por Arthindol, considerado el Terravidente, un mago cuya destreza en encantamientos y hechizos de protección era incomparable. Su intención era diseñar un escudo contra las crecientes amenazas de ataques psíquicos y manipulaciones que asolaban el imperio. Utilizando un raro zafiro extraído de las profundidades del desierto de Anauroch, una región antaño exuberante y verde antes de que el desierto la reclamara, Arthindol infundió la gema con potentes protecciones. Se decía que fortalecía la determinación de su portador, protegiéndolo de temores tanto mundanos como mágicos. Además, proporcionaba una defensa impenetrable contra toda forma de encanto y compulsión, volviéndolo inmune a las artimañas tanto de encantadores feéricos como de manipuladores diabólicos.
+
+Tras la caída de Netheril, muchos buscaron el Guardián Cerúleo, pero, como tantos tesoros del mundo antiguo, permaneció perdido, esperando a alguien lo suficientemente inteligente como para reclamar su legado.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– El portador es inmune al encanto.
+– Protege contra todas las formas de pánico y aumenta la moral.
+
+Peso: 0~
+@1083 = ~Raíces del Asesino~
+@1084 = ~Puffball~
+@1085 = ~Botas de Moander~
+@1086 = ~Estas botas, cubiertas de moho verde, fueron creadas por cultistas de Moander, un antiguo dios de la podredumbre y la descomposición. Las botas fueron usadas por varios fieles del Portador de la Oscuridad cuando lucharon contra los numerosos enemigos de Moander, muchos de los cuales adoraban a deidades de la naturaleza.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Inmunidad al enredo
+
+Peso: 4~
+@1087 = ~*tos*~
+@1088 = ~Escudo mental~
+@1089 = ~Escudo mental
+(Encantamiento/Hechizo)
+
+Nivel: 5
+Esfera: Caos
+Rango: 0
+Duración: 2 rondas
+Tiempo de lanzamiento: 1
+Área de efecto: El lanzador
+Tiro de salvación: Ninguno
+
+Escudo Mental inmuniza a la criatura ante órdenes mágicas. Encanto, Orden, Confusión, Dominación, Sueño, Laberinto y Bloqueo Espiritual son hechizos que entran en esta categoría. Este hechizo también protege al objetivo de explosiones psiónicas. Afecta solo al lanzador y dura solo dos asaltos o hasta que se disipa.~
+@1090 = ~Manzana descompuesta~
+@1091 = ~Esta es una manzana terriblemente podrida.~
+@1092 = ~Hoja marchita~
+@1093 = ~Una hoja marchita cuyos bordes están manchados con moho azul grisáceo.~
+@1094 = ~Corazón podrido~
+@1095 = ~Este corazón está afligido por una extraña putrefacción.~
+@1096 = ~Veneno de la voluntad fuerte~
+@1097 = ~ Esta poción se crea mediante un extraño ritual. Además de sus propiedades letales, contiene una potente poción que agudiza la agudeza mental y otorga inmunidad a toda forma de influencia mental. Si el usuario resiste los efectos venenosos iniciales, <PRO_HESHE> disfrutará de las propiedades beneficiosas del brebaje.
+
+ESTADÍSTICA:
+
+– Previene la debilidad mental, la confusión, el aturdimiento, el miedo y el encanto.
+– El usuario es envenenado y sufre 18 puntos de daño por veneno en los primeros 20 segundos.
+Duración: 10 rondas
+
+Peso: 1~
+@1098 = ~Libro descompuesto~
+@1099 = ~ Este antiguo tomo es ahora una sombra de su antigua gloria. Sus páginas están amarillentas y quebradizas. Al hojearlo, descubre que la mayoría de sus palabras, antaño profundas, se han desvanecido en la oscuridad, dejando solo fragmentos visibles de las profecías originales. Manipularlo requiere sumo cuidado, ya que cada vuelta de página podría causar aún más daño a este frágil depósito de sabiduría olvidada.
+
+Debajo de todo el moho y la suciedad, el título apenas se distingue: "Pr ph csfl nd - The arn ngs nd is ms fe ed e r"
+
+Pasas las páginas, intentando descifrar fragmentos individuales en medio de los extensos daños:
+"... nd th n n th d of sh d ws, th sh ll r s , m rk ng th h v ns w th s ns of d rk nd l ght. Th s v rs f th rth sh ll s k th h dd n tr ths, th r p th l t ly by th f nt l ght of st r...
+
+...thr gh th v ls f d sp ir, th r br r r w lks th l nd, t rn s nd r by th f r s f w r. Th s r f r t lls th c m ng f n nd ng n ght, wh r h p f ils, dr w n ng n th ds f f rg tt n l r...
+
+...And wh n ll s ms l st, th l ght f th N rth sh ll nv il th tr th, h dd n d p w th n th r ns f ld. nly th s br v n gh t ch ll ng th dr kn ss w ll t n th k ys t r st r th bl nc f kn wl dg...
+
+... Th L rd f M rd r sh ll p r sh, b t n h s d m h sh ll sp wn sc r f m rt l pr g ny. Ch s w ll b s wn fr m th r p ss g . S s y th w s Al nd ...~
+@1100 = ~Este libro parece ser una crónica antigua que detalla la extensa historia de Faerûn. Su antigua y lujosa cubierta de cuero está ahora agrietada y descascarada, y el título apenas se distingue. En el interior, las páginas están manchadas y descascarilladas, algunas derretidas por el moho. A pesar de su estado ruinoso, este volumen parece contener un relato exhaustivo de los imperios y reinos que antaño dominaron la tierra.
+
+Debajo de todo el moho y la suciedad, el título apenas se distingue: "Hist yf F rûn - A a of mpir s nd K ngd ms"
+
+Pasas las páginas, intentando descifrar fragmentos individuales en medio de los extensos daños:
+"...En la era de Svy Mn, el gran estado mayor del Norte surgió del abismo de la guerra. Líderes, tanto valientes como valientes, libraron batallas que dominaron las esferas políticas. El imperio del Norte, en su apogeo, dominaba la magia ahora en pie, su poder superado solo por su ambición..."
+
+...la decadencia de los regímenes antiguos se produjo en circunstancias misteriosas, con registros que indican un conjunto de catástrofes que sembraron fuerzas tanto naturales como sobrenaturales. El Tefal de Mthral Hill se considera un testimonio escalofriante del poder incluso de las grandes civilizaciones..."
+~
+@1101 = ~Ojo del espectador~
+@1102 = ~A diferencia de sus malévolos parientes, los Contempladores, los Espectadores son una subespecie de estas aberraciones derivadas del plano de Mechanus, que a menudo sirven bajo la atenta mirada de Helm. Conocidos por su relativa neutralidad y su deber, los Espectadores se encargan de proteger lugares sagrados y artefactos poderosos, lo que los convierte en un símbolo ideal de protección y vigilancia.
+
+Este amuleto en particular, conocido como Ojo del Espectador, contiene en su interior el ojo preservado de un Espectador que una vez sirvió en un templo de Helm.
+
+Cuando se usa, el amuleto mejora la resistencia del usuario contra las aberraciones más siniestras, como los Observadores, y ofrece protección contra ataques e influencias corruptoras por las que todas las aberraciones son famosas.
+
+ESTADÍSTICA:
+
+Habilidades equipadas:
+– Clase de armadura contra aberraciones: +2
+– Tiros de salvación contra aberraciones: +2
+
+El amuleto ofrece protección contra las siguientes aberraciones: contemplador, carroñero, drider, ettercap, illithid y otyugh.
+
+Peso: 1~
+@1103 = ~Nota frenética~
+@1104 = ~Debo recordar, debo concentrarme: ¡los susurros son demasiado fuertes! El altar de Moander, guarda el secreto, ¡les susurra! Debo preparar la poción, romper su dominio...
+
+Cráneo humano, poción curativa, perla.
+
+Combínalo en el altar de Moander, crea una poción venenosa, salvación o condenación.
+
+Resistir a los Maestros, recuperarme. La poción es la clave... ¡debo recordarlo!
+~
+
+@1105 = ~Ejército de dientes de la rata +1~
+@1106 = ~Ejército de dientes de la rata +1
+Lo que una vez fue una réplica rota de la Guadaña del Ejército ha sido reparada por un manitas hombre rata. Aunque no iguala la velocidad de la original, esta ballesta sigue siendo letalmente efectiva, especialmente contra quienes se encuentran debilitados.
+
+ESTADÍSTICA:
+
+Habilidades de combate:
+– 1/2 ataque extra por ronda
+– Hay un 25% de probabilidad de que el objetivo enferme, sufriendo -1 a Constitución y Carisma durante las siguientes 8 horas o hasta que la enfermedad se cure (Salvación contra Muerte -2 para evitar el efecto)
+
+THAC0: +1
+Daño: +1
+Factor de velocidad: 4
+Tipo de competencia: Ballesta
+Tipo: A dos manos
+Requiere:
+8 Fuerza
+
+Peso: 5~
+
+// Cadenas de script
+@1269 = ~ Este charco de agua parece más profundo de lo que podría ser. En el fondo hay una llave vieja y oxidada. Si quieres, puedes mirar más de cerca el charco e intentar coger la llave. ~
+@1270 = ~Te agachas para mirar más profundamente en el agua y agarras la llave.~
+@1271 = ~El agua está tranquila de nuevo. No hay nada más que ver en esta poza. ~
+@1272 = ~Sumerges tu cabeza bajo el agua.~
+@1273 = ~ Con un gesto de la mano intentas agarrar la llave. Justo cuando estás a punto de tomarla, tu cara es arrastrada bajo el agua de la piscina. ~
+@1274 = ~ Al igual que en la piscina anterior, hay una llave en el agua. Podrías agacharte para cogerla. ~
+@1275 = ~No hay ninguna llave en esta piscina, pero aún puedes sumergirte bajo el agua y ver lo que te espera allí.~
+@1276 = ~No puedes ver la piscina desde esta distancia.~
+@1277 = ~Solo una persona a la vez puede sumergirse en el agua.~
+@1278 = ~ Este parece ser el núcleo del extraño dispositivo que los Illithids han instalado aquí. Desconoces su propósito, pero notas una pequeña abertura que podría usarse para acceder a la máquina orgánica. Reconoces un pequeño asiento donde podrías ponerte cómodo. ~
+@1279 = ~Sin un determinado otro objeto, la máquina no se puede utilizar para nada más.~
+@1280 = ~El Collar Illithid te da cierto control sobre el dispositivo. Te introduces en él y cierras los ojos. ~
+@1281 = ~ Sientes una atracción en tu mente. Aunque tu cuerpo permanece en el mismo lugar, tu mente se aleja a kilómetros de distancia, transportada por la energía psíquica de la máquina ilícida... ~
+@1282 = ~El dispositivo de transmisión illithid ya no funciona...~
+@1283 = ~ El collar ilícido parece canalizar poderes psiónicos. Una gran cantidad de energía telepática comienza a acumularse en la habitación... ~
+@1284 = ~Una luz brillante fluye hacia el pozo desde muy arriba. Debes haber abierto un acceso secreto a la superficie. ~
+@1285 = ~ Esta estatua representa un árbol monstruoso que devora a personas indefensas. Como elfo, habrás escuchado historias en tu infancia sobre una antigua deidad llamada "Viejo Mohoso", también conocida como Moander. La criatura había tiranizado durante mucho tiempo a los elfos del antiguo Myth Drannor antes de que lograran destruir al dios. ~
+@1286 = ~ Esta estatua representa un árbol monstruoso que devora a los indefensos. Como druida, habrás oído historias de una antigua deidad conocida como Moander. La criatura había tiranizado el bosque de Cormanthyr durante mucho tiempo antes de que el dios pudiera ser destruido. ~
+@1287 = ~ Esta estatua representa un árbol monstruoso que devora a los indefensos. Parece ser una deidad fallecida conocida como Moander. Esta entidad había tiranizado muchas zonas de Faerûn durante mucho tiempo antes de que la deidad fuera destruida. ~
+@1288 = ~Una horrible estatua de un árbol monstruoso que devora gente indefensa.~
+
+@1400 = ~"A instancias de los Grandes Duques, esta zona de las alcantarillas está cerrada, ya que un gran mal ha surgido de ella en el pasado."~
+@1401 = ~ Esta escalera parece conducir hacia arriba, ya que la luz de la superficie se filtra a través de unas grietas en una trampilla cerrada. Sin embargo, la trampilla está cerrada y la parte superior de la escalera está retraída. Debe haber un mecanismo para extender la escalera. ~
+@1402 = ~Esta puerta sólo se puede abrir desde el lado opuesto.~
+@1403 = ~Una imponente estatua se alza siniestra sobre un altar, donde deben haberse realizado numerosos rituales en el pasado.~
+@1404 = ~Estás demasiado lejos para usar eso.~
+
+@1500 = ~Una figura muerta flota en esta extraña cápsula.~
+@1501 = ~Hay un extraño cartel garabateado en el suelo: Una mano con una boca abierta llena de colmillos.~
+@1502 = ~ Hay un letrero garabateado en el suelo: Una mano con las fauces abiertas y llenas de colmillos. Reconoces esto como una marca de la antigua deidad Moander, un ser de putrefacción y descomposición. ~
+@1503 = ~"Para ganar el favor del Dios Jawed, alimenta sus cuatro deseos:
+Decadencia, corrupción, marchitamiento y mortalidad."~
+
+@2225 = ~A las alcantarillas selladas~
+@4000 = ~ La niebla mental se disipa al volver a estar frente a la piscina. Ahora tienes en tus manos la llave que antes estaba en la piscina. ~
+@4001 = ~Necesitas acercarte para conversar con las estatuas.~
+

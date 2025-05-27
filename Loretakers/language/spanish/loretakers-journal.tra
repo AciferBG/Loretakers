@@ -1,0 +1,77 @@
+//Archivos de traducción de revistas
+// Misión principal: encuentro con los sacerdotes de Oghma
+@100000 = ~Conocimiento en decadencia
+
+En la zona central de la Puerta de Baldur, en el santuario de Oghma, me encontré con dos sacerdotes oghmanitas desesperados. Me hablaron de una misteriosa plaga que estaba deteriorando sus libros. Acepté ayudarlos a descubrir qué había detrás de la destrucción. Se supone que debo hablar con el Buscador Tuck para obtener más información sobre lo que está sucediendo.~
+
+@100001 = ~Conocimiento en decadencia
+
+Uno de los sacerdotes oghmanitas, el Buscador Tuck, me habló de una extraña mujer que estaba cerca hablando con el líder de su templo antes de que desapareciera. Debería ir a las alcantarillas junto al santuario de Oghma y ver si alguien de allí abajo sabe dónde está el Gran Maestro del Saber o algo sobre ella.~
+
+@100002 = ~Conocimiento en decadencia
+
+El trabajador de las alcantarillas no me ayudó. No conoce a la mujer que busco ni ha visto al Maestro del Saber. Debería volver con el Buscador Tuck y preguntarle qué hacer. ~
+
+@100003 = ~Conocimiento en decadencia
+
+Mi siguiente paso en la búsqueda de la iglesia de Oghma será la Alta Casa de las Maravillas, el templo de Gond en la Puerta de Baldur. Debería buscar a un sacerdote de Gond para que me ayude en mis investigaciones. Quizás el Maestro del Saber desaparecido fue a la iglesia de Gond en busca de ayuda. ~
+
+@100004 = ~Conocimiento en decadencia
+
+La Iglesia de Gond también está experimentando problemas con los libros afectados. Aunque el sacerdote no pudo localizar al Maestro del Saber desaparecido, mencionó haber encontrado a la misma mujer extraña. Según se informa, está cerca de la fuente que hay fuera de la Gran Casa de las Maravillas. Necesito encontrarla y ver si puede esclarecer qué está sucediendo realmente. ~
+
+@100005 = ~Conocimiento en decadencia
+
+Conocí a la extraña mujer. Se llama Etate. Ella también está investigando la causa de la descomposición de los libros. Sospecha que el moho se encuentra en una zona específica de las alcantarillas, a la que llama las "Alcantarillas Selladas". Debería volver al templo de Oghma y bajar a las alcantarillas por la entrada que está justo al lado del templo. Una vez en las alcantarillas, debo dirigirme al sur y tomar el túnel oeste. Luego, en la confluencia de los túneles, tendré que ir al noroeste. El túnel correcto es más pequeño que los demás y conduce a la entrada sellada. ~
+
+@100006 = ~Conocimiento en decadencia
+
+Mi encuentro con la mujer en las Alcantarillas Selladas se volvió sombrío. Trágicamente, era una trampa; caí directamente en una emboscada de hombres rata. A pesar de su aparente forcejeo contra una fuerza invisible que controlaba sus acciones, no pudo liberarse. Al final, no tuve más remedio que matarla para defenderme. ~
+
+@100007 = ~Conocimiento en decadencia
+
+Descubrí una llave en el cuerpo de la mujer, manipulada por una fuerza misteriosa. Esta llave abre la puerta sellada que conduce a las profundidades de las «Alcantarillas Selladas». Más allá de esta barrera, sospecho que se encuentra la fuente del mal que ha plagado tanto los libros sagrados de Oghma como a la propia pobre mujer.~
+
+@100010 = ~Conocimiento en decadencia
+
+He descubierto la fuente de los libros contaminados: un sacerdote de la antigua deidad Moander, que acecha en las profundidades de la Puerta de Baldur, impulsado por una visión para destruir todos los libros en nombre de su dios. Eliminarlo debería detener la destrucción de más tomos. Sin embargo, el verdadero cerebro detrás de este plan sigue envuelto en misterio. Debo adentrarme en las antiguas catacumbas para desentrañar los secretos restantes y descubrir quién realmente orquesta esta trama. ~
+
+@100011 = ~Conocimiento en decadencia
+
+El verdadero culpable ya es evidente: ¡Los ilícidos se han establecido en una cámara central bajo la Puerta de Baldur, con la intención de borrar todo el conocimiento de la ciudad! Mis próximos pasos son claros: debo localizar y rescatar al Maestro del Saber desaparecido y desactivar el extraño dispositivo ilícido que parece ser la raíz de todo este mal. ~
+
+@100012 = ~Conocimiento en decadencia
+
+He desactivado con éxito el extraño dispositivo ilícido. Durante la operación, vislumbré un cerebro ancestral gigante, cuyos siniestros planes son ominosos. Sin embargo, al desmantelar la célula de los desolladores mentales en la Puerta de Baldur, he desbaratado significativamente sus planes. Mi próximo objetivo es localizar al Maestro del Saber para poder salir de este terrible lugar lo antes posible. ~
+
+@100020 = ~Conocimiento en decadencia
+
+He rescatado al Maestro del Saber desaparecido de las garras de los ilícidos. Me mostró su gratitud y me espera en el santuario de Oghma para recompensarme por todos mis esfuerzos. ~
+
+@100021 = ~Conocimiento en decadencia
+
+El maestro del conocimiento Eyvind expresó su sincera gratitud por rescatarlo y preservar sus libros, y generosamente me otorgó una merecida recompensa por mis esfuerzos.~
+
+@110001 = ~El amor verdadero no se desvanece
+
+En las viejas alcantarillas, me encontré con un hombre desconcertado que recitó una extraña rima. El poema trataba sobre un amor pasado, la muerte, la luz de la luna, una rosa y una "fuente de la diosa de la suerte". Me pregunto de qué se trata. ~
+
+@110002 = ~El amor verdadero no se desvanece
+
+Le di la rosa del ermitaño de las "Alcantarillas Selladas" a una aparición fantasmal en la fuente junto al Templo de Tymora. Estaba feliz y aliviada de poder dejar este mundo. ¿Quizás el hombre recupere la cordura si puedo recordarle su amor con algo? ~
+
+@110003 = ~El amor verdadero no se desvanece
+
+El ermitaño de las alcantarillas se alegró cuando le entregué el pañuelo de su amada. Lleno de renovada esperanza, ha dejado las alcantarillas para buscar una vida mejor en otro lugar. ~
+
+@120000 = ~El trabajo de una rata sucia
+
+Conocí a Scronch, el líder de un clan de hombres rata. Me pidió que matara a un ermitaño al norte de las viejas alcantarillas, y acepté. ~
+
+@120001 = ~El trabajo de una rata sucia
+
+Maté al ermitaño. Debería volver con Scronch, el líder del clan de los hombres rata, y pedirle una recompensa. ~
+
+@120002 = ~El trabajo de una rata sucia
+
+Scronch, el líder del clan de los hombres rata, se alegró de que matara al ermitaño y me dio una recompensa antes de que desapareciera. ~

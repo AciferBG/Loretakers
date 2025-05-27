@@ -1,23 +1,32 @@
+Version 1.8
+- added Spanish translation by AlleyV
+
 Version 1.7
 - updated Russian translation
+
 Version 1.6
 - added Russian translation by Origanum8, thank you!
 - updated German version, by Shai Hulud
+
 Version 1.5
 - corrected various typos (English version)
 - Wrimbog now uses the correct weapon
+
 Version 1.4
 - updated Chinese translation by Yoshimo0417
 - AC#FP2: VVCs now display correctly
 - EET: Correct names for spell, creature and itm files
 - EET: removed MISC79.itm (Raissa's body)
+
 Version 1.3
 - updated German translation by Shai Hulud
+
 Version 1.2
 - added German translation by Shai Hulud
 - added Chinese translation by Yoshimo0417
 - added itm for the diseased wererats
 - Etate can't be charmed anymore
+
 Version 1.1
 - EET compatibility - by subtledoctor and Priest of Gond
 

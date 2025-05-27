@@ -7,7 +7,7 @@
  *************************************************************************/
 BACKUP ~Loretakers/backup~
 AUTHOR ~Acifer~
-VERSION ~V 1.7~
+VERSION ~V 1.8~
 
 AUTO_TRA ~Loretakers\language\%LANGUAGE%\%s~
 
@@ -19,12 +19,6 @@ README ~Loretakers\Documentation\Loretakers_Readme.pdf~
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 
-/*
-LANGUAGE ~Deutsch~
-         ~german~
-         ~Loretakers/language/german/setup-Loretakers.tra~
-         ~Loretakers/language/german/loretakers-journal.tra~
-*/
 LANGUAGE ~English~
          ~english~
          ~Loretakers/language/english/setup-Loretakers.tra~
@@ -96,8 +90,26 @@ LANGUAGE ~Chinese - by Yoshimo0417~
          ~Loretakers/language/russian/11_AC#FP7_Fourth_voidarea.tra~
          ~Loretakers/language/russian/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/russian/13_Cryptosphere.tra~
+         
+ LANGUAGE ~Spanish - by AlleyV~
+         ~spanish~
+         ~Loretakers/language/spanish/setup-Loretakers.tra~
+         ~Loretakers/language/spanish/loretakers-journal.tra~
+         ~Loretakers/language/spanish/01_Quest_start_and_finish.tra~
+         ~Loretakers/language/spanish/02_strange_woman_sewers_worker.tra~
+         ~Loretakers/language/spanish/03_Priest_of_Gond.tra~
+         ~Loretakers/language/spanish/04_Ghostlady_AR0600.tra~
+         ~Loretakers/language/spanish/05_AC#FP1_Abandoned_sewers.tra~
+         ~Loretakers/language/spanish/06_AC#FP2_temple_of_Moander.tra~
+         ~Loretakers/language/spanish/07_AC#FP3_Oryndoll_Cutscene.tra~
+         ~Loretakers/language/spanish/08_AC#FP4_First_voidarea.tra~
+         ~Loretakers/language/spanish/09_AC#FP6_Second_voidarea.tra~
+         ~Loretakers/language/spanish/10_AC#FP5_Third_voidarea.tra~
+         ~Loretakers/language/spanish/11_AC#FP7_Fourth_voidarea.tra~
+         ~Loretakers/language/spanish/12_Sune_Priest_AC#FP1.tra~
+         ~Loretakers/language/spanish/13_Cryptosphere.tra~
 
-BEGIN ~Loretakers V 1.7~
+BEGIN ~Loretakers V 1.8~
 
 INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
 
