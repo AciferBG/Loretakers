@@ -7,7 +7,7 @@
  *************************************************************************/
 BACKUP ~Loretakers/backup~
 AUTHOR ~Acifer~
-VERSION ~V 1.8~
+VERSION ~V 1.9~
 
 AUTO_TRA ~Loretakers\language\%LANGUAGE%\%s~
 
@@ -109,9 +109,10 @@ LANGUAGE ~Chinese - by Yoshimo0417~
          ~Loretakers/language/spanish/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/spanish/13_Cryptosphere.tra~
 
-BEGIN ~Loretakers V 1.8~
+BEGIN ~Loretakers V 1.9~
 
 INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
+INCLUDE ~%MOD_FOLDER%/lib/add_areas_lua.tpa~
 
 LOAD_TRA ~Loretakers/language/%LANGUAGE%/setup-Loretakers.tra~
 LOAD_TRA ~Loretakers/language/%LANGUAGE%/loretakers-journal.tra~
@@ -656,6 +657,26 @@ ACTION_IF GAME_IS ~eet~ THEN BEGIN
  COPY_EXISTING ~AC#FPREP.itm~ ~override~
  SAY NAME2 #12088
  SAY DESC #12205
+END
+
+///////////////////////////////////////////////////////////////////////
+// add areas to debug console
+///////////////////////////////////////////////////////////////////////
+ACTION_DEFINE_ASSOCIATIVE_ARRAY my_areas_lua BEGIN
+  "AC#FP1" => "Sealed Sewers"
+  "AC#FP2" => "Moander temple"
+  "AC#FP3" => "Oryndoll cutscene"
+  "AC#FP4" => "Mindvoid Lvl 1"
+  "AC#FP5" => "Mindvoid Lvl 2"
+  "AC#FP6" => "Mindvoid Lvl 3"
+  "AC#FP7" => "Mindvoid Lvl 4"
+END
+
+LAF add_areas_lua
+  INT_VAR
+    bg1 = 1   // add to BG1 main campaign
+  STR_VAR
+    map_array = "my_areas_lua"
 END
 
 ///////////////////////////////////////////////////////////////////////

@@ -1,3 +1,7 @@
+Version 1.9
+- changed placement of Actor 17 in area AC#FP1
+- added areas to the debug console list
+
 Version 1.8
 - added Spanish translation by AlleyV
 
