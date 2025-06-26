@@ -1,3 +1,7 @@
+Version 2.0
+- added IF_EXISTS to copying empty folders
+- fixed some typos
+
 Version 1.9
 - changed placement of Actor 17 in area AC#FP1
 - added areas to the debug console list
