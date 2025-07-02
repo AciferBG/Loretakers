@@ -1,3 +1,7 @@
+Version 2.1
+- added ACTION_IF command
+- moved backup folder to weidu_external
+
 Version 2.0
 - added IF_EXISTS to copying empty folders
 - fixed some typos
