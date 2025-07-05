@@ -171,11 +171,56 @@ COPY ~%MOD_FOLDER%/animations/ac#oxbam.bmp~ ~override~
 
 COPY ~%MOD_FOLDER%/areas/copy~         ~override~
 
-/*
-ACTION_IF GAME_IS ~bgee eet~ THEN BEGIN
-  INCLUDE ~%MOD_FOLDER%/lib/g3_cpmvars_master.tpa~
-END
-*/
+  ACTION_IF GAME_IS ~eet~ THEN BEGIN
+	COPY_EXISTING ~AC#FP1.are~ ~override/AC#FP1.are~
+		SET songCDay1 = IDS_OF_SYMBOL (~songlist~ ~Dung1~) //Get the song's number
+		SET songCNite = IDS_OF_SYMBOL (~songlist~ ~Dung1~)
+		SET songBC4 = IDS_OF_SYMBOL (~songlist~ ~BD4~)
+		READ_LONG 0xBC ofsSong
+		SET ofsDay = ofsSong
+		SET ofsNight = ofsSong + 4
+		SET ofsBC = ofsSong + 12
+		WRITE_LONG ofsDay %songCDay1% // Make the change
+		WRITE_LONG ofsNight %songCNite% // Make the change
+		WRITE_LONG ofsBC %songBC4% // Make the change
+  END
+  ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+	COPY_EXISTING ~AC#FP1.are~ ~override/AC#FP1.are~
+		SET songCDay1 = IDS_OF_SYMBOL (~songlist~ ~Dung1~) //Get the song's number
+		SET songCNite = IDS_OF_SYMBOL (~songlist~ ~Dung1~)
+		READ_LONG 0xBC ofsSong
+		SET ofsDay = ofsSong
+		SET ofsNight = ofsSong + 4
+		SET ofsBC = ofsSong + 12
+		WRITE_LONG ofsDay %songCDay1% // Make the change
+		WRITE_LONG ofsNight %songCNite% // Make the change
+  END
+  
+    ACTION_IF GAME_IS ~eet~ THEN BEGIN
+	COPY_EXISTING ~AC#FP2.are~ ~override/AC#FP2.are~
+		SET songCDay1 = IDS_OF_SYMBOL (~songlist~ ~Dung3~) //Get the song's number
+		SET songCNite = IDS_OF_SYMBOL (~songlist~ ~Dung3~)
+		SET songBC4 = IDS_OF_SYMBOL (~songlist~ ~BD4~)
+		READ_LONG 0xBC ofsSong
+		SET ofsDay = ofsSong
+		SET ofsNight = ofsSong + 4
+		SET ofsBC = ofsSong + 12
+		WRITE_LONG ofsDay %songCDay1% // Make the change
+		WRITE_LONG ofsNight %songCNite% // Make the change
+		WRITE_LONG ofsBC %songBC4% // Make the change
+  END
+  ACTION_IF GAME_IS ~bgee~ THEN BEGIN
+	COPY_EXISTING ~AC#FP2.are~ ~override/AC#FP2.are~
+		SET songCDay1 = IDS_OF_SYMBOL (~songlist~ ~Dung3~) //Get the song's number
+		SET songCNite = IDS_OF_SYMBOL (~songlist~ ~Dung3~)
+		READ_LONG 0xBC ofsSong
+		SET ofsDay = ofsSong
+		SET ofsNight = ofsSong + 4
+		SET ofsBC = ofsSong + 12
+		WRITE_LONG ofsDay %songCDay1% // Make the change
+		WRITE_LONG ofsNight %songCNite% // Make the change
+  END
+
 //****************************************************
 // Patch ac#fp1.are Travel Trigger : AR0225 / BG0225
 //****************************************************
