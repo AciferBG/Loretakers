@@ -1,3 +1,7 @@
+Version 2.4
+- wererat Chief no longer has RNDTRE04 and -05 items assigned to Prevent spawning of high-Level scrolls in the EET
+- changed Xan's deathvar from XANJ to XAN (thank you 11jo!)
+
 Version 2.3
 - corrected various typos in the English version
 - fixed misplaced throwing dagger
