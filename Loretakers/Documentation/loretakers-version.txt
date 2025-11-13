@@ -1,3 +1,7 @@
+Version 2.3
+- corrected various typos in the English version
+- fixed misplaced throwing dagger
+
 Version 2.2
 - updated songlist for EET
 
