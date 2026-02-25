@@ -8,7 +8,7 @@
 //BACKUP ~Loretakers/backup~
 BACKUP ~weidu_external/backup/Loretakers~
 AUTHOR ~Acifer~
-VERSION ~V 2.5~
+VERSION ~V 2.6~
 
 AUTO_TRA ~Loretakers\language\%LANGUAGE%\%s~
 
@@ -110,7 +110,25 @@ LANGUAGE ~Chinese - by Yoshimo0417~
          ~Loretakers/language/spanish/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/spanish/13_Cryptosphere.tra~
 
-BEGIN ~Loretakers V 2.5~
+LANGUAGE ~Polish - by my_summertime, SoM's membress, part of CoB's Clan~
+         ~polish~
+         ~Loretakers/language/polish/setup-Loretakers.tra~
+         ~Loretakers/language/polish/loretakers-journal.tra~
+         ~Loretakers/language/polish/01_Quest_start_and_finish.tra~
+         ~Loretakers/language/polish/02_strange_woman_sewers_worker.tra~
+         ~Loretakers/language/polish/03_Priest_of_Gond.tra~
+         ~Loretakers/language/polish/04_Ghostlady_AR0600.tra~
+         ~Loretakers/language/polish/05_AC#FP1_Abandoned_sewers.tra~
+         ~Loretakers/language/polish/06_AC#FP2_temple_of_Moander.tra~
+         ~Loretakers/language/polish/07_AC#FP3_Oryndoll_Cutscene.tra~
+         ~Loretakers/language/polish/08_AC#FP4_First_voidarea.tra~
+         ~Loretakers/language/polish/09_AC#FP6_Second_voidarea.tra~
+         ~Loretakers/language/polish/10_AC#FP5_Third_voidarea.tra~
+         ~Loretakers/language/polish/11_AC#FP7_Fourth_voidarea.tra~
+         ~Loretakers/language/polish/12_Sune_Priest_AC#FP1.tra~
+         ~Loretakers/language/polish/13_Cryptosphere.tra~
+
+BEGIN ~Loretakers V 2.6~
 
 INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
 INCLUDE ~%MOD_FOLDER%/lib/add_areas_lua.tpa~

@@ -43,6 +43,7 @@ The mod is available in:
 - Chinese
 - Russian
 - Spanish
+- Polish
 
 ---
 

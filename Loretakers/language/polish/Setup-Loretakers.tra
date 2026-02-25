@@ -1,0 +1,511 @@
+@0    = ~Loretakers mod do BG I EE~
+
+@56   = ~Fomorianin~
+@63   = ~Szczurołak~
+@64   = ~Ten kamień wygląda identycznie jak ten po drugiej stronie. Możesz spróbować zmazać wyryte na nim linie.~
+@65   = ~Kamień pulsuje łagodnym światłem. Widzisz na jego powierzchni misterne wzory. Możesz spróbować je usunąć.~
+@66   = ~Gdy tylko dotykasz powierzchni, rysunki znikają, a twój umysł zalewa nagła fala dojmującej beznadziei.~
+@67   = ~Wchodzisz do pomieszczenia i natychmiast uderza w ciebie fala nienawiści i czystego zła. Widzisz dwa pulsujące kamienie o złowrogiej poświacie — najwyraźniej próbują one przejąć kontrolę nad twoim umysłem.~
+@68   = ~Magia kamienia wygasła. W dotyku jest zimny i pozbawiony mocy.~
+
+@77   = ~Wrimbog~
+@86   = ~Belster Kamusznik~
+@87   = ~Piwniczy~
+@88   = ~Viceak~
+@89   = ~Rickul~
+@90   = ~Feyr~
+@91   = ~Vuardsungulu~
+@92   = ~Bagut~
+@93   = ~Petian~
+@94   = ~Urthadar~ 
+@95   = ~Dziwo wody~
+@96   = ~Otiag~
+@97   = ~Mech pamięciowy~
+@98   = ~Biała masa~
+@99   = ~Ralx~
+@100  = ~Pełzający tropiciel~
+@101  = ~Scronch~
+@102  = ~Rennack~
+@103  = ~Uwięziona istota~
+@104  = ~Wielki Mistrz wiedzy Eyvind~
+@105  = ~Encefalithid~
+@106  = ~Aimil~
+@107  = ~Pustkomówca~
+@108  = ~Mnemofag~
+@109  = ~Cień umysłu~
+@110  = ~Mistrz wiedzy Namonder~
+@111  = ~Poszukiwacz Tuck~
+@112  = ~Czyściciel kanałów~
+@113  = ~Etate~
+@114  = ~Przeklęty posąg~
+@115  = ~Niewolnik~
+@116  = ~Pomniejszy gliniany golem~
+@117  = ~Mistrz Durnan~
+@118  = ~Zakażony szczurołak~
+@119  = ~Tyran śmierci~
+@120  = ~Ściekowiec~
+@121  = ~Zapomnieniec~
+@122  = ~Bagienna mumia~
+
+@1000 = ~Maska Jymahny~
+@1001 = ~Maska Jymahny~
+@1002 = ~Maska Jymahny~
+@1003 = ~Maska Jymahny~
+@1004 = ~Klucz do drzwi~
+@1005 = ~Klucz znaleziony w komnacie bazyliszka w starych kanałach. Pasuje do jakichś ważnych drzwi.~
+@1006 = ~Illithidzki klucz~
+@1007 = ~Klucz znaleziony przy zwłokach ulitharida Vuardsungulu.~
+@1008 = ~Klucz posągu~
+@1009 = ~Klucz wyjęty z czaszki posągu w starej świątyni Moandera.~
+@1010 = ~Klucz z niecki~
+@1011 = ~Klucz wyłowiony z niecki w starych kanałach.~
+@1012 = ~Klucz wyłowiony z drugiej niecki w starych kanałach. Prawdopodobnie otwiera trzecie zamknięte drzwi.~
+@1013 = ~Ten klucz jest lodowaty w dotyku. Pochodzi z komnaty z mroźną sadzawką i został odebrany białej masie. Może otwierać czwarte zamknięte drzwi.~
+@1014 = ~Klucz odebrany zniekształconej istocie imieniem Wrimbog w starych kanałach. Prawdopodobnie otwiera ostatnie zamknięte drzwi.~
+
+@1019 = ~Tarcza Brzasku~
+@1020 = ~Tarczę tę wykuto z litego brązu. Choć metal pokrył się patyną, wciąż lśni ciepłą, złocistożółtą barwą. Umbo zdobi wizerunek wschodzącego słońca – symbol Lathandera. Nieumarli zdają się lękać tego znaku i emanującego z niego ciepła. Tarcza nie może być używana przez kapłanów o złym charakterze.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Nie chroni przed pociskami
+– Dodaje jeden poziom do zdolności Odpędzanie nieumarłych (u kapłanów i paladynów)
+
+Wymagania:
+– Siła: 4
+
+Waga: 3~
+@1021 = ~Klucz cuchnie stęchlizną i zgniłymi roślinami. Został odebrany pokracznemu kopcowi.~
+@1022 = ~Mech pamięciowy~
+@1023 = ~Ten mech jest pozostałością rośliny zwanej zapomnieńcem, znanej z umiejętności kradzieży wspomnień. Magowie powinni omijać ten gatunek szerokim łukiem, jeśli nie chcą narazić się na utratę zapamiętanych czarów. Na szczęście zjedzenie tego kawałka mchu przynosi odwrotny skutek – pozwala magowi przypomnieć sobie niektóre z rzuconych już zaklęć. Istnieje jednak ryzyko wystąpienia dolegliwości żołądkowych po spożyciu mięsistych chwytników.
+
+PARAMETRY:
+
+Specjalne:
+– Po spożyciu przywraca jedno zaklęcie 1. poziomu
+– W przypadku nieudanego rzutu obronnego przeciw śmierci postać zapada na chorobę, która zadaje 5 obrażeń na rundę (przez 3 rundy)
+
+Waga: 1~
+@1024 = ~Kawałek mchu~
+@1025 = ~Mieniący się zielenią kawałek mchu, który pachnie ziemią i stęchłymi roślinami.~
+@1026 = ~Zaklęcie zostało odzyskane~
+@1027 = ~Illithidzka obroża~
+@1028 = ~Mózgowy towarzysz~
+@1029 = ~Obroża odebrana przywódcy illithidów, Vuardsungulu. Zawiera małą fiolkę z materią organiczną.~
+@1030 = ~Kiedy illithidzi oddalają się od swojej społeczności, tracą kontakt ze Starszym Mózgiem. Dla istot przyzwyczajonych do nieustannego współdzielenia myśli, wiedzy i postrzegania, taka izolacja bywa niezwykle niepokojąca.
+
+Grupy podróżujące przez dłuższy czas poza zasięgiem Starszego Mózgu muszą polegać na pośrednikach. Illithidzi biorący udział w mniej prestiżowych wyprawach są często zmuszeni zacisnąć macki i znosić trudy samotności – chyba że należą do nielicznych szczęśliwców posiadających „mózgowego towarzysza”. Jest to kula z półprzezroczystego materiału o średnicy czterech cali, w której w gęstym, ciężkim płynie dryfuje odcięty miniaturowy mózg. Illithidzi często noszą ten przedmiot na łańcuchu wokół szyi lub przechowują go w bezpiecznej, wyściełanej skrzyni.
+
+Przedmiot nie posiada właściwości magicznych i jest użyteczny wyłącznie dla łupieżców umysłu.
+
+PARAMETRY:
+
+Waga: 1~
+
+@1031 = ~Chusteczka~
+@1032 = ~Chusteczka należąca do zjawy kobiety, którą można spotkać przy fontannie obok świątyni Tymory.~
+@1033 = ~Koło zębate~
+@1034 = ~Małe koło zębate, prawdopodobnie wymontowane z większego mechanizmu, by uniemożliwić jego działanie.~
+@1035 = ~Róża~
+@1036 = ~Czerwona róża o słodkiej woni.~
+@1037 = ~Piszczałki~
+@1038 = ~Piszczałki szczurołapa~
+@1039 = ~Ten instrument to rodzaj fletni Pana, wykonanej z brudnych, lekko zardzewiałych rurek.~
+@1040 = ~Piszczałki szczurołapa to magiczny instrument, stworzony z myślą o wpływaniu na zachowanie niektórych gryzoni. Gra na nich pozwala przywołać szczury z odległości nawet trzystu metrów. Magia zawarta w przedmiocie odnawia się każdego dnia o świcie.
+
+PARAMETRY:
+
+Zdolności ładunkowe:
+– Użytkownik może raz dziennie przywołać stado szczurów
+  Czas działania: 10 rund
+
+Waga: 1~
+@1041 = ~Kapryśna butelka~
+@1042 = ~Butelka gniewnego ducha~
+@1043 = ~Butelkę wypełnia dziwna, kłębiąca się czarna substancja, która zdaje się być w ciągłym ruchu – nawet jeśli naczynie stoi nieruchomo. Szkło emanuje nienaturalnym chłodem, a trzymanie go w dłoni przez dłuższą chwilę wywołuje przejmujący dyskomfort.~
+@1044 = ~Wewnątrz uwięziono niespokojnego ducha, który tylko czeka na uwolnienie, by zaatakować swym wysysającym życie dotykiem każdego w zasięgu wzroku.
+
+PARAMETRY:
+
+Specjalne:
+– Po otwarciu butelki uwalnia się upiór, który atakuje najbliższe cele.~
+@1045 = ~Klucz do starych kanałów~
+@1046 = ~Klucz do starych kanałów pod Wrotami Baldura.~
+@1047 = ~Dziennik Urthadara~
+@1048 = ~Dziennik Urthadara, kapłana Moandera, który wzniósł świątynię ku czci swego martwego boga w starych kanałach pod Wrotami Baldura. Zapiski są chaotyczne, lecz kilka fragmentów przykuwa uwagę:
+
+Dzień Narodzin Zarodników
+Wizje znów nawiedziły me sny – żywe i władcze. Wielki Moander przemawia do mnie z zaświatów; jego głos jest szeptem pośród cieni, prowadzącym me dłonie ku wielkiemu celowi. Nakazuje mi przebudzić ziemię, tchnąć życie w uśpione zarodniki drzemiące w mroku. „Rozsiej grzybnię” – szepcze – „niech pożre wiedzę tego świata”. Wyruszyłem więc z Torsch w Puszczy Chondal i przebyłem długą drogę na północ, gdyż wizje skierowały mnie do miasta Wrót Baldura na Wybrzeżu Mieczy.
+
+Dzień Rozrostu Grzybni
+Uprawa postępuje. Moje dzieci, grzyby, rozkwitają w mrokach sanktuarium. Każdy gatunek jest kluczem do skruszenia pęt więżących mego pana. Dziś zakwitł nowy rodzaj, a jego zarodniki lśnią niczym gwiazdy w pustce. Łakną słowa pisanego z gorliwością, która dorównuje mej własnej. Z każdą pochłoniętą księgą czuję, jak potęga Moandera rośnie, a jego wskrzeszenie staje się coraz bliższe.
+
+Dzień Przybierającej Konwergencji
+Przełom w moich pracach. Zarodniki potrafią teraz rozpuszczać atrament i pergamin z przerażającą skutecznością. Moje sny stają się coraz wyraźniejsze; głos Moandera brzmi czysto. Ukazuje mi świat wolny od ciężaru dawnej wiedzy – świat gotowy na jego panowanie. Mam być jego heroldem, tym, który przygotuje drogę dla jego powrotu. Stare musi zostać wykorzenione, by nowe mogło zakwitnąć.
+
+Dzień Owocowania
+Dziś w me serce wkradło się zwątpienie. Chwila słabości, być może. Zniszczenie, które sieję, wydaje się przytłaczające – wymazuję wieki mądrości i historii. Lecz wtedy przypominam sobie o moim przeznaczeniu, o boskim nakazie. Wola Moandera jest absolutna, a jego wizja przyszłości – nieomylna. Jestem tylko sługą, wybranym do wykonania wielkiego planu. Utrata wiedzy to ofiara konieczna do odrodzenia.
+
+Dzień Rozsiewu Zarodników
+Tej nocy moje sny były inne. To nie była wizja, lecz nawiedzenie. Pustkomówcy, istoty o wielkiej inteligencji i potędze, skontaktowali się ze mną. Mówili o partnerstwie, o wspólnych celach i obopólnych korzyściach. Głos Moandera milczał, lecz przesłanie było jasne. Te byty, ze swymi niepojętymi umysłami, są kluczem do zmartwychwstania mego pana. Prowadzą mnie nie jako fałszywi prorocy, lecz jako sojusznicy w wielkim przebudzeniu. Pozwolili mi spojrzeć w sadzawkę i dojrzeć to, co Moander pragnie odmienić.
+
+Dzień Kolonizacji Pleśni
+Zdołałem uruchomić zardzewiały kocioł w starej świątyni. To „Kocioł Zagłady”, legendarny przedmiot, który pozwala mi tworzyć zombie, gdy wrzucę zwłoki do kadzi! Moi sojusznicy, Pustkomówcy, zdają się nie podzielać entuzjazmu wobec przyzywania nieumarłych – lecz dlaczego?
+
+Dzień Słabnącego Rozkładu
+Dostrzegam teraz wielki gobelin planu Moandera, utkany zarówno z nici fałszu, jak i prawdy. Pustkomówcy są jedynie instrumentami w jego zmartwychwstaniu, a ich cele zbiegają się z jego boską wolą. Będę kontynuował swe dzieło, szerząc zgniliznę, aż nadejdzie dzień, w którym Moander znów będzie stąpał po tej ziemi. Moja wiara jest niezachwiana, a cel jasny. Koniec wiedzy jest początkiem oświecenia.~
+
+@1049 = ~Kodeks Sporogenezy~
+@1050 = ~Kodeks Sporogenezy: Sekrety Zgnilizny
+
+Poniżej opisano rzadkie zarodniki i pleśnie, idealne do wymazywania wiedzy:
+
+Próżniogłów
+Rozkwita w najgłębszych cieniach, a swym wyglądem grzyb ten przypomina wyrwę w samej tkance rzeczywistości. Jego kapelusze pochłaniają światło, przez co jawią się jako mroczne otchłanie bez dna. Po spożyciu zarodniki wywołują wizje nieskończonej nicości – wgląd w Otchłań, która czeka, by pożreć wiedzę całego świata. Są heroldami ciszy, trawiącymi słowa i wspomnienia, które ośmieliły się przeciwstawić nadchodzącemu zapomnieniu.
+
+Pleśń cieniozarodnikowa
+Ta pełzająca pleśń obrasta niczym złowrogi cień wszystko, co nosi znamiona cywilizacyjnej dumy – księgi, zwoje i woluminy. Żywi się atramentem, pozostawiając po sobie jedynie puste karty, jak gdyby zapisana na nich wiedza nigdy nie istniała. W jej obecności można usłyszeć ciche szepty, konające oddechy traconej mądrości – świadectwo woli Moandera, który pragnie odzyskać, a następnie unicestwić struktury znanego świata.
+
+Mózgojad
+Rzadki i niebezpieczny gatunek, żywiący się energią psychiczną istot rozumnych. Zarodniki tego grzyba mącą umysł, powoli rozpuszczając wspomnienia i wiedzę, aż pozostanie z nich jedynie pusta skorupa. Nie jest to tylko fizyczna manifestacja rozkładu, lecz sama esencja zapominania – narzędzie w rękach Moandera, pragnącego zmazać grzechy przeszłości i stworzyć świat na nowo.
+
+Szepcząca grzybnia
+Sieć cienkich, niemal niewidocznych nici, rozrastająca się pod fundamentami starożytnych bibliotek i miejsc nauki. Komunikuje się przytłumionymi głosami, szerząc sekrety i kłamstwa, które zasiewają zwątpienie oraz niezgodę. Ci, którzy słuchają zbyt uważnie, przestają panować nad własnymi myślami, gdy grzybnia tka nowe prawdy z resztek zapomnianych łgarstw. To głos Moandera, głoszący ewangelię zgnilizny u samych korzeni cywilizacji.~
+@1051 = ~Otwarta czaszka~
+@1052 = ~Z nieznanych przyczyn sklepienie tej czaszki zostało otwarte – być może po to, by usunąć mózg.~
+@1053 = ~Metalowy panel~
+@1054 = ~Panel z runami qualith~
+@1055 = ~Ten metalowy panel pokrywa sieć dziwnych linii.~
+@1056 = ~Panel pokrywają runy w qualith – piśmie łupieżców umysłu. Można na nim odczytać:
+
+Dyrektywa misji: Operacja Całun Umysłu
+
+Do czcigodnych agentów Frakcji Wiedzobiorców,
+z rozkazu Encefalitida powierzono nam święty obowiązek wymazania resztek wiedzy, których kurczowo trzymają się słabe umysły mieszkańców powierzchni. Naszym celem są prestiżowe biblioteki Wrót Baldura oraz święte repozytorium Candlekeep.
+
+Nasza misja składa się z dwóch etapów:
+
+– Infiltracja i zarażenie:
+Wykorzystać naszych agentów ukrytych pośród humanoidalnych mas, by przeniknąć do bibliotek Wrót Baldura. Pod osłoną nocy użyć sług do zainfekowania woluminów, zwojów i manuskryptów pleśnią cieniozarodnikową. Każde słowo i każdy symbol muszą zostać pochłonięte przez pełzający mrok zapomnienia. Nie oszczędzać żadnej księgi w naszym dążeniu do oczyszczenia świata z okowów wiedzy.
+
+– Rozprzestrzenianie zgnilizny:
+Gdy infekcja zakorzeni się w sercu Wrót Baldura, przetransportować skażone teksty do świętych hal Candlekeep. Pod pozorem handlu lub wymiany dyplomatycznej wprowadzić spaczone księgi do zbiorów tamtejszej biblioteki. Niech zarodniki zgnilizny szerzą się bez przeszkód, prując nici historii i mądrości, które spajają umysły mieszkańców powierzchni.
+
+Dyrektywy uzupełniające:
+– Utrzymywać stały kontakt myślowy z resztą naszych pobratymców, zwłaszcza z Ukrytymi, działającymi dalej na południu.
+
+Pamiętajcie o credo naszego ludu: „W braku wiedzy tkwi jedyne oświecenie”. W unicestwieniu przeszłości leży obietnica nowego świtu, w którym potęga illithidów zapanuje niepodzielnie.
+
+Zainstalować Przekaźnik Starszego Mózgu w ustronnej lokacji, aby utrzymać łączność z Encefalitidem. Do aktywacji przekaźnika użyć mózgowego towarzysza.
+Niech Encefalitid prowadzi wasze myśli, a szepty Pustkomówców zwiastują wasze zwycięstwo.
+
+Podpisano,
+Frakcja Wiedzobiorców~
+
+@1057 = ~Książka kucharska rashemeńskiej matki~
+@1058 = ~Księga jest oprawiona w skórę, a jej okładkę zdobią skorodowana łyżka i widelec. Niestety, całość pokrywa zielona pleśń, która przeżera oprawę i niszczy stronice. Otwierasz ją na losowej stronie, lecz udaje ci się odczytać jedynie pojedyncze fragmenty:
+
+„... skł d iki na rashem ński g lasz: m ęs , ce ule, czos ek i mies a ka przyp aw.
+C łość um eść na wo nym ogniu, pó i żar nie wygaś ie. D daj cie ko pok ojone pomid ry i delik tnie mieszaj... Sekr t tkwi w pros ym dobor e prz praw i z ół. Potr wę nale y got wać powo i, by sm ki mog y się połą zyć... Dobą ź s mą e encję te o treśc wego i wyrazi tego w sma u gulas u. Ud koruj świe ymi zio ami i pod waj do st łu.
+
+Aby przy ządzić trad cyjny rashemeń ki podpł myk na począ ek weź:
+3 szk anki mą i,
+1/2 łyż c ki s li,
+4 j jka,
+1 ły eczka tymianku z Tilverton.
+
+Wymi szaj z odpowi dnią iloś ią wo y, aby pows ała gę ta pasta.
+Rozgr ej żel wny ron el na śre dnim ogniu i utrz muj cie ką war twę ole u.
+Gdy bę zie gor cy, wl j ma ę i rozprowa ź równo iernie...
+Smaż, aż brz gi sta ą się chr p ące i złoc ste, po czym ost oż ie przewr ć...
+Poda aj z posy ką ze św eżej elfiej m ęty oraz do atkiem marynowanych prze ąsek.”~
+@1059 = ~Figurka~
+@1060 = ~Miniaturowy gliniany golem~
+@1061 = ~Mała figurka, wykonana najprawdopodobniej z gliny.~
+@1062 = ~Niewielka rzeźba przedstawiająca glinianego golema. Po postawieniu jej na ziemi i wypowiedzeniu słowa mocy, figurka przemienia się w słabego glinianego golema. Gdy czas trwania czaru dobiegnie końca, stworzenie rozsypuje się w pył i nie może zostać ponownie wykorzystane.
+
+PARAMETRY:
+
+Właściwości ładunku:
+– Stworzenie glinianego golema (1 ładunek)
+  Zasięg: 12 metrów
+  Czas działania: 1 tura
+
+Waga: 6~
+@1063 = ~Pożryj mózg~
+@1064 = ~Dziwna sfera~
+@1065 = ~Kryptosfera~
+@1066 = ~Sfera składa się z trzech segmentów, z których każdy jest kunsztownie ozdobiony starożytnymi runami i tajemniczymi mechanizmami.~
+@1067 = ~Kryptosfera to zagadkowy obiekt złożony z trzech oddzielnych, obracalnych segmentów. Każdy z nich pokrywają starożytne runy oraz obsługiwane manualnie cyferblaty służące jako mechanizmy sterujące urządzeniem. Aby otworzyć sferę, segmenty muszą zostać ustawione w określonej konfiguracji, ustalonej przez logiczną sekwencję run. Prawidłowe ułożenie aktywuje system wewnętrznych kół zębatych i dźwigni, które poprzez swe skrupulatne działanie odblokowują ukryty schowek artefaktu.
+
+Wewnątrz zazwyczaj znajdują się przedmioty o znacznej mocy magicznej lub zachowane w niemal idealnym stanie dzięki kunsztownej konstrukcji sfery starożytne zwoje. Kryptosfera nie tylko stanowi wyzwanie dla intelektu posiadacza, ale służy również jako strażnik wiedzy i potęgi uznanej za zbyt głęboką lub niebezpieczną dla niewtajemniczonych.
+
+PARAMETRY:
+
+Waga: 8~
+@1068 = ~Uruchom~
+@1069 = ~Trwały zwiastun +2~
+@1070 = ~Ta magiczny cep bojowy został nasycony osobliwymi boskimi energiami. Jeśli wierzyć pogłoskom, w dłoniach osoby wierzącej wzmacnia moc czarów i wydłuża czas ich trwania, co w krytycznych momentach pozwala przetrwać i przechylić szalę zwycięstwa na swoją stronę.
+
+PARAMETRY:
+
+Specjalne:
+– Zaklęcia kapłańskie trwają o 10% dłużej
+
+Obrażenia: 1k6 +3
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@1071 = ~Brudny Ragbarth +2~
+@1072 = ~Kostur ten znany jest jako Brudny Ragbarth i wielu uważa, że to nader trafna nazwa. Choć konstrukcja broni jest prosta, stale sączy się z niej zielony śluz. Magia kostura nierozerwalnie wiąże się z jego nieczystą i plugawą naturą, co dla większości osób może być dość odpychające.
+
+PARAMETRY:
+
+Specjalne:
+– Premia do obrażeń od kwasu: +10%
+– Przy każdym trafieniu istnieje 75% szans na zadanie dodatkowych 1k2 obrażeń od kwasu
+
+Obrażenia: 1k6 +2
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1073 = ~Vlanakka +2~
+@1074 = ~Łuk ten, znany jako Vlanakka, został stworzony przez grupę elfich kapłanów. Otrzymali oni zadanie stworzenia wspaniałej broni dla łucznika, który uratował rodzinę miejscowego kowala. Łuk został pobłogosławiony, co czyni go doskonałym narzędziem do walki z nieumarłymi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza i rzuty obronne przeciw nieumarłym: +2
+
+Obrażenia: +2
+TraK0: +3
+Opóźnienie: 5
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@1075 = ~Potrójne myśli +3~
+@1076 = ~Ten niezwykły kryształ może służyć jako broń – zarówno jako sztylet, jak i magiczne urządzenie wystrzeliwujące magiczne pociski. Jednak w przeciwieństwie do czaru, mogą one chybić celu, jeśli użytkownik nie skupi się odpowiednio podczas ataku.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Odporność na magię: +10%
+
+Zdolności bojowe:
+– Używany jako broń dystansowa wystrzeliwuje 3 pociski: każdy zadaje 1 obrażenie od magii (traktowane jest to jako normalny atak i może chybić)
+
+Obrażenia: 1k4 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Inteligencja: 13
+
+Waga: 1~
+
+@1077 = ~Eon wiedzy~
+@1078 = ~Ten wyjątkowy pierścień, znany jako Eon wiedzy, został wykuty przez czcigodną Mistrzynię wiedzy Halantrę, potężną kapłankę Oghmy. Zdobiony misternymi grawerunkami symbolizującymi dążenie do mądrości, ma zapewniać noszącemu boską opiekę samego Oghmy. Co więcej, pierścień obdarza swego właściciela głęboką wiedzą, oświecając umysł nieustannym strumieniem przenikliwości i zrozumienia.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Rzuty obronne: +1
+– Pozwala zapamiętać jedno dodatkowe zaklęcie 1. poziomu (maga i kapłana)
+– Podwaja wiedzę postaci
+
+Waga: 0~
+@1079 = ~Kamień ioun~
+@1080 = ~Lazurowy strażnik~
+@1081 = ~To mały niebieski kamień, który krąży wokół głowy właściciela. Aby zaczął działać, wystarczy go założyć. Te ewidentnie magiczne kamienie posiadają różne właściwości, w zależności od swojego koloru.
+
+PARAMETRY:
+
+Waga: 0~
+@1082 = ~W czasach zmierzchu Netherilu, gdy magia płynęła tak swobodnie jak wody Wąskiego Morza, arcymagowie tworzyli cuda, jakich świat nie widział. Jednym z nich był unikalny szafirowy kamień ioun, znany jako Lazurowy strażnik.
+
+Został on stworzony przez Arthindola, zwanego Widzącym Ziemię – maga, którego kunszt w dziedzinie zauroczeń i czarów ochronnych nie miał sobie równych. Jego intencją było stworzenie tarczy przeciwko narastającemu zagrożeniu atakami psychicznymi i manipulacjami nękającymi imperium. Używając rzadkiego szafiru wydobytego z głębin pustyni Anauroch – regionu niegdyś bujnego i zielonego – Arthindol nasycił klejnot potężnymi inkantacjami. Mówi się, że kamień wzmacnia determinację noszącego, chroniąc go przed strachem, zarówno tym przyziemnym, jak i magicznym. Co więcej, zapewnia on nieprzeniknioną obronę przed wszelkimi formami zauroczenia i przymusu, czyniąc właściciela odpornym na sidła tak elfich zaklinaczy, jak i piekielnych manipulatorów.
+
+Po upadku Netherilu wielu poszukiwało Lazurowego strażnika, lecz jak wiele skarbów starożytnego świata, pozostawał on zaginiony, czekając na kogoś wystarczająco sprytnego, by sięgnął po jego dziedzictwo.
+
+PARAMETRY:
+
+Specjalne:
+– Niewrażliwość na zauroczenie
+– Chroni przed wszelkimi formami paniki i podnosi morale
+
+Waga: 0~
+@1083 = ~Korzenie Zabójcy~
+@1084 = ~Purchawka~
+@1085 = ~Buty Moandera~
+@1086 = ~Te pokryte zieloną pleśnią buty zostały stworzone przez kultystów Moandera, starożytnego boga zgnilizny i rozkładu. Korzystało z nich wielu wyznawców Niosącego Mrok podczas walk z licznymi wrogami swego pana, z których wielu czciło bóstwa natury.
+
+PARAMETRY:
+
+Specjalne:
+– Niewrażliwość na oplątanie
+
+Waga: 4~
+@1087 = ~*kaszle*~
+@1088 = ~Osłona Umysłu~
+@1089 = ~Osłona Umysłu
+(Zaczarowania/Zauroczenia)
+
+Poziom: 5
+Sfera: Chaos
+Zasięg: 0
+Czas działania: 2 rundy
+Czas rzucania: 1
+Obszar działania: rzucający czar
+Rzut obronny: brak
+
+Osłona Umysłu uodparnia istotę na magiczne polecenia. Zauroczenie, Rozkaz, Zamęt, Dominacja, Uśpienie, Labirynt oraz Duchowy zamek to zaklęcia należące do tej kategorii. Czar ten chroni również cel przed atakami psionicznymi. Działa on wyłącznie na rzucającego i trwa tylko dwie rundy lub do momentu rozproszenia.~
+@1090 = ~Zgniłe jabłko~
+@1091 = ~To jabłko jest potwornie zgniłe.~
+@1092 = ~Zwiędły liść~
+@1093 = ~Zwiędły liść, którego brzegi są splamione niebiesko-szarą pleśnią.~
+@1094 = ~Zgniłe serce~
+@1095 = ~To serce toczy dziwny rozkład.~
+@1096 = ~Trucizna Silnej Woli~
+@1097 = ~Mikstura ta powstała podczas osobliwego rytuału. Poza swoimi śmiercionośnymi właściwościami zawiera potężny wywar, który wyostrza zmysły i zapewnia odporność na wszelkie formy mentalnego wpływu. Jeśli pijący przetrwa początkowe działanie trucizny, będzie mógł cieszyć się dobroczynnymi efektami napoju.
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed otępieniem, zamętem, ogłuszeniem, strachem i zauroczeniem
+– Zadaje 18 obrażeń od trucizny w ciągu pierwszych 20 sekund
+Czas działania: 10 rund
+
+Waga: 1~ 
+
+@1098 = ~Zniszczona księga~
+@1099 = ~Ta starożytna księga jest jedynie cieniem swej dawnej świetności. Jej karty są pożółkłe i kruche. Przeglądając wolumin, dostrzegasz, że większość niegdyś doniosłych słów zatarła się, pozostawiając jedynie widoczne fragmenty oryginalnych przepowiedni. Lektura wymaga niezwykłej ostrożności, gdyż każde obrócenie strony grozi nieodwracalnym uszkodzeniem tego wątłego skarbca zapomnianej mądrości.
+
+Pod warstwą pleśni i brudu tytuł jest ledwo czytelny: „Pr p w ed ie Al nd - Prz str g i m dr śc Wi dz ce o”
+
+Przerzucasz strony, próbując odczytać pojedyncze fragmenty pośród rozległych zniszczeń:
+„... a p t m w d iu c ieni, on p wst ną, zn cząc n ebios zn k mi m oku i św atła. Zba cy Zi mi b dą sz kać ukr tych pr wd, a ich dr gę ośw etli tyl o sł be św atło gw azd...
+
+...przez z sło y r zp cz , n oszący wo nę kro czy p zi mi, r zd rtej pr ez og ie k nflikt . W dzący prz p wiada n dejście n ekończącej si n cy, w kt rej n dzieja g nie, t onąc w odm tach z pomn anej wi dzy...
+
+...A gdy wsz stk zda ać si b dzie str conym, św atło P łnocy od łoni pr wdę, ukr tą gł boko w r inach d wnych dni. Ty ko ci, kt rzy odw żą si wyzw ć ciem ość, zdob dą kl cze do prz wróc nia r wnow gi wi dzy...
+
+...P n Mo du zgi ie, le prz d śmi rci sp dzi le ion śm erteln pot mk w. A śl dy ic pr ejś ia zna zyć b dzi ch os. Ta o rze ze m drz c Al nd ...”~
+
+@1100 = ~Ta księga wydaje się być starożytną kroniką szczegółowo opisującą rozległą historię Faerûnu. Jej niegdyś bogato zdobiona skórzana oprawa jest obecnie popękana i łuszczy się, a tytuł pozostaje ledwo widoczny. Strony wewnątrz są poplamione i zniszczone, niektóre wręcz zlepione przez niszczycielską pleśń. Mimo opłakanego stanu, tom ten zdaje się zawierać obszerne relacje o imperiach i królestwach, które niegdyś władały krainą.
+
+Pod warstwą pleśni i brudu tytuł jest ledwo czytelny: „H st r a F rûnu - Er Imp r ów i Kr l stw”
+
+Przerzucasz strony, próbując odczytać pojedyncze fragmenty pośród rozległych zniszczeń:
+„...W er e Sil er Mo n, wi lkie mi sta-p ństwa P łnocy p wstały z pop ołów w jny. Wodz wie, z rów o odw żni, jak i bezl t śni, zawa li przymi rza, kt re ukształt wały p lityczne obl cze św ata. Imperium N th ril u szcz tu swej pot gi okieł nało mag ę dz ś zap mnianą, a j go pot dze dorówn wała tyl o je o amb cja...
+
+...up dek ty h star żyt ych ust ojów nast pił w t jemni zych okol cznośc ach, a zap ski wska ują na s r ę kat str f, kt re uwol iły si y nat ralne i n dprzyr dzone. Up dek Mithr lowego Dw ru poz stał mroź ym św adect em m rności n wet najwi ksz ch cyw liza ji...”~
+
+@1101 = ~Oko widza~
+@1102 = ~W przeciwieństwie do swych złowrogich pobratymców, obserwatorów, widzowie są podgatunkiem tych wynaturzeń pochodzącym z planu Mechanus i często służą pod czujnym okiem Helma. Znani ze swej względnej neutralności i poczucia obowiązku, widzowie zajmują się pilnowaniem świętych miejsc i potężnych artefaktów, co czyni ich idealnym symbolem ochrony i czujności.
+
+Ten konkretny amulet, znany jako Oko widza, skrywa w sobie zakonserwowane oko widza, który służył niegdyś w świątyni Helma.
+
+Amulet zwiększa odporność noszącego na ataki mroczniejszych wynaturzeń, takich jak obserwatorzy, oferując ochronę przed niszczycielskimi wpływami, z których słyną te istoty.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza przeciwko wynaturzeniom: +2
+– Rzuty obronne przeciwko wynaturzeniom: +2
+
+Amulet zapewnia ochronę przeciwko następującym wynaturzeniom: obserwatorom, pełzaczom ścierwojadom, driderom, ettercapom, illithidom i otiagom.
+
+Waga: 1~
+
+@1103 = ~Chaotyczne zapiski~
+@1104 = ~Muszę pamiętać, muszę się skupić — szepty stają się zbyt głośne! Ołtarz Moandera, on skrywa tajemnicę, im odpowiada! Muszę przygotować miksturę, przełamać ich uścisk...
+
+Ludzka czaszka, mikstura leczenia, perła.
+
+Połączyć na ołtarzu Moandera, Stworzyć trującą miksturę, zbawienie lub potępienie. 
+
+Oprzeć się Mistrzom, odzyskać siebie. Mikstura, ona jest kluczem... muszę pamiętać!~
+
+@1105 = ~Szczurza armia zębów +1~
+@1106 = ~Szczurza armia zębów +1
+To, co niegdyś stanowiło zepsutą replikę Wojskowej kosy, zostało naprawione rękami szczurołaczego majstra. Choć może nie dorównywać szybkością oryginałowi, ta kusza pozostaje zabójczo skuteczna, zwłaszcza przeciwko tym, którzy są osłabieni.
+
+PARAMETRY:
+
+Zdolności bojowe:
+– 1/2 dodatkowego ataku na rundę
+– 25% szans, że cel zostanie zarażony chorobą, co skutkuje karą -1 do Kondycji i Charyzmy na następne 8 godzin lub do czasu wyleczenia choroby (rzut obronny przeciw śmierci z modyfikatorem -2 neguje efekt)
+
+Obrażenia: +1
+TraK0: +1
+Opóźnienie: 4
+Rodzaj biegłości: kusza
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 5~
+
+// Script strings
+@1269 = ~Sadzawka zdaje się być głębsza, niż wskazywałyby na to jej rozmiary. Na dnie leży stary, zardzewiały klucz. Jeśli chcesz, możesz przyjrzeć się jej bliżej i spróbować go wyłowić.~
+@1270 = ~Schylasz się, by lepiej przyjrzeć się dnu i sięgnąć po klucz.~
+@1271 = ~Woda znów jest spokojna. W tej sadzawce nie znajdziesz już nic ciekawego.~
+@1272 = ~Zanurzasz głowę w wodzie.~
+@1273 = ~Próbujesz chwycić klucz, lecz gdy tylko go dotykasz, jakaś siła wciąga twoją głowę pod powierzchnię wody.~
+@1274 = ~W tej sadzawce, podobnie jak w poprzedniej, na dnie leży klucz. Możesz spróbować po niego sięgnąć.~
+@1275 = ~W tej sadzawce nie ma klucza, ale wciąż możesz zanurzyć się pod wodę, by sprawdzić, co na ciebie czeka.~
+@1276 = ~Z tej odległości niczego nie zobaczysz.~
+@1277 = ~Tylko jedna osoba naraz może zanurzyć się w wodzie.~
+@1278 = ~To rdzeń dziwnego urządzenia zainstalowanego przez illithidów. Przeznaczenie maszyny pozostaje nieznane, ale dostrzegasz niewielki otwór, przez który można wejść do środka tego organicznego mechanizmu. Wewnątrz znajduje się siedzisko, na którym można się wygodnie ułożyć.~
+@1279 = ~Bez odpowiedniego przedmiotu urządzenie jest bezużyteczne.~
+@1280 = ~Illithidzka obroża pozwala ci przejąć kontrolę nad urządzeniem. Wchodzisz do środka i zamykasz oczy.~
+@1281 = ~Czujesz szarpnięcie w samym środku umysłu. Choć twoje ciało pozostaje w miejscu, świadomość mknie całe mile dalej, niesiona przez psychiczną energię maszyny łupieżców umysłu...~
+@1282 = ~Urządzenie transmisyjne illithidów już nie działa...~
+@1283 = ~Illithidzka obroża zdaje się przewodzić psioniczne moce. Pomieszczenie zaczyna wypełniać potężna dawka energii telepatycznej...~
+@1284 = ~Do szybu z góry wpada jasne światło. Twoje działania sprawiły, otwarło się tajne przejście na powierzchnię.~
+@1285 = ~Posąg ten przedstawia potworne drzewo pożerające bezbronne ofiary. Pamiętasz opowieści ze swego elfiego dzieciństwa o starożytnym bóstwie zwanym „Starym Pleśniakiem” – Moanderze. Ta poczwara przez eony terroryzowała elfy ze starożytnego Myth Drannor, zanim te zdołały ją zgładzić.~
+@1286 = ~Posąg przedstawia potworne drzewo pożerające bezbronnych. Wśród druidów krążą legendy o starożytnym bóstwie znanym jako Moander. Ta istota przez długi czas pustoszyła lasy Cormanthoru, nim bóg został ostatecznie pokonany.~
+@1287 = ~Posąg przedstawia potworne drzewo pożerające bezbronnych. Wygląda na to, że to wizerunek martwego bóstwa zwanego Moanderem. Ta istota przez wieki terroryzowała wiele krain Faerûnu, nim została unicestwiona.~
+@1288 = ~Szpetna rzeźba przedstawiająca potworne drzewo pożerające bezbronnych ludzi.~
+
+@1400 = ~„Na rozkaz Wielkich Książąt ta część kanałów zostaje zamknięta, gdyż w przeszłości zalęgło się tu wielkie zło”.~
+@1401 = ~Drabina zdaje się prowadzić na górę; przez pęknięcia w zamkniętym włazie wpada światło z powierzchni. Właz jest jednak zablokowany, a górna część drabiny wciągnięta. Musi istnieć jakiś mechanizm, który pozwala ją wysunąć.~
+@1402 = ~Te drzwi można otworzyć tylko z drugiej strony.~
+@1403 = ~Imponujący posąg góruje złowieszczo nad ołtarzem, przy którym w przeszłości musiały odbywać się liczne rytuały.~
+@1404 = ~Jesteś zbyt daleko, by tego użyć.~
+
+@1500 = ~W tej dziwnej kapsule dryfują martwe zwłoki.~
+@1501 = ~Na podłodze nabazgrano dziwny znak: dłoń z otwartą, pełną kłów paszczą.~
+@1502 = ~Na podłodze nabazgrano znak: dłoń z otwartą, pełną kłów paszczą. Rozpoznajesz w nim symbol Moandera – dawnego boga gnicia i rozkładu.~
+@1503 = ~„By zyskać przychylność Szczękatego Boga, nakarm cztery jego żądze: 
+Zgniliznę, skażenie, uwiąd i śmiertelność”.~
+
+@2225 = ~Do Zapieczętowanych Kanałów~
+@4000 = ~Gdy znów stajesz nad sadzawką, mentalna mgła opada. Trzymasz w dłoni klucz, który jeszcze przed chwilą leżał na dnie.~
+@4001 = ~Musisz podejść bliżej, by przemówić do posągów.~

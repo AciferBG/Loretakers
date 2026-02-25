@@ -1,3 +1,6 @@
+Version 2.6
+- added Polish translation by my_summertime, SoM's membress, part of CoB's Clan; thank you!
+
 Version 2.5
 - updated chinese Version
 

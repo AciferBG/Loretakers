@@ -1,0 +1,78 @@
+//Journal translation files
+// Main quest: meeting priests of Oghma
+
+@100000 = ~Butwiejąca wiedza
+
+W centralnej części Wrót Baldura, przy kapliczce Oghmy, spotkaliśmy dwóch zrozpaczonych kapłanów. Opowiedzieli nam o tajemniczej pladze, która sprawia, że ich księgi ulegają zniszczeniu. Zgodziliśmy się pomóc im odkryć, co stoi za niszczeniem woluminów. Musimy porozmawiać z Poszukiwaczem Tuckiem, aby uzyskać więcej informacji o tym, co się dzieje.~
+
+@100001 = ~Butwiejąca wiedza
+
+Jeden z kapłanów Oghmy, Poszukiwacz Tuck, opowiedział nam o dziwnej kobiecie, która stała nieopodal i rozmawiała z przywódcą ich świątyni, zanim ten zniknął. Powinniśmy skorzystać z wejścia do kanałów znajdującego się obok kapliczki Oghmy i sprawdzić, czy ktoś na dole wie, gdzie przebywa Wielki Mistrz Wiedzy i czy cokolwiek wiadomo o tej kobiecie.~
+
+@100002 = ~Butwiejąca wiedza
+
+Pracownik kanałów nie okazał się pomocny. Nie zna kobiety, której szukamy, ani nie widział Mistrza Wiedzy. Powinniśmy wrócić do Poszukiwacza Tucka i zapytać go, jakie dalsze kroki podjąć.~
+
+@100003 = ~Butwiejąca wiedza
+
+Naszym kolejnym przystankiem w poszukiwaniach prowadzonych dla Kościoła Oghmy będzie Wielka Komnata Cudów, czyli świątynia Gonda we Wrotach Baldura. Powinniśmy odnaleźć kapłana Gonda, który mógłby pomóc nam w śledztwie. Niewykluczone, że zaginiony Mistrz Wiedzy udał się właśnie tam w poszukiwaniu wsparcia.~
+
+@100004 = ~Butwiejąca wiedza
+
+Kościół Gonda również zmaga się z problemem skażonych ksiąg. Kapłan nie potrafił wskazać miejsca pobytu zaginionego Mistrza Wiedzy, wspomniał jednak, że widział tę samą tajemniczą kobietę. Podobno przebywa ona w pobliżu fontanny przed Wielką Komnatą Cudów. Musimy ją odnaleźć i sprawdzić, czy zdoła rzucić światło na to, co naprawdę się dzieje.~
+
+@100005 = ~Butwiejąca wiedza
+
+Spotkaliśmy dziwną kobietę imieniem Etate. Ona również bada przyczynę niszczenia ksiąg. Podejrzewa, że źródło pleśni znajduje się w określonej części kanałów, którą nazywa „Zapieczętowanymi Kanałami”. Powinniśmy wrócić do świątyni Oghmy i zejść do kanałów wejściem położonym tuż obok. Gdy znajdziemy się na dole, musimy skierować się na południe, następnie skręcić w zachodni tunel, a w miejscu, gdzie tunele się łączą, udać się na północny zachód. Właściwy tunel jest węższy od pozostałych i prowadzi do zapieczętowanego wejścia.~
+
+@100006 = ~Butwiejąca wiedza
+
+Nasze spotkanie z kobietą w Zapieczętowanych Kanałach przybrało ponury obrót. Okazało się, że była to pułapka, a my weszliśmy prosto w zasadzkę szczurołaków. Mimo wyraźnych prób przeciwstawienia się niewidzialnej sile, która kierowała jej czynami, nie zdołała się wyzwolić spod jej wpływu. Ostatecznie nie mieliśmy innego wyboru, jak zabić ją w obronie własnej.~
+
+@100007 = ~Butwiejąca wiedza
+
+Przy ciele kobiety, którą manipulowała tajemnicza siła, odnaleźliśmy klucz. Otwiera on zapieczętowane drzwi prowadzące do głębszych partii „Zapieczętowanych Kanałów”. Podejrzewamy, że to właśnie za tą barierą kryje się źródło zła, które nęka święte księgi Oghmy i które manipulowało tą nieszczęsną kobietą.~
+
+@100010 = ~Butwiejąca wiedza
+
+Odkryliśmy źródło skażenia ksiąg — kapłana pradawnego bóstwa Moandera, czającego się głęboko pod Wrotami Baldura i owładniętego wizją unicestwienia wszelkiej wiedzy w imię swego boga. Jego zgładzenie powinno powstrzymać dalsze niszczenie tomów. Prawdziwy mocodawca całej intrygi wciąż jednak pozostaje nieznany. Musimy zapuścić się głębiej w stare katakumby, by rozwikłać pozostałe tajemnice i odkryć, kto naprawdę stoi za tym spiskiem.~
+
+@100011 = ~Butwiejąca wiedza
+
+Prawdziwy sprawca wreszcie się ujawnił: illithidzi założyli swą siedzibę w centralnej komnacie pod Wrotami Baldura i dążą do wymazania całej wiedzy miasta. Nasze dalsze kroki są jasne — musimy odnaleźć i ocalić zaginionego Mistrza Wiedzy oraz dezaktywować osobliwe urządzenie illithidów, które wydaje się źródłem całego tego zła.~
+
+@100012 = ~Butwiejąca wiedza
+
+Z powodzeniem dezaktywowaliśmy dziwne urządzenie illithidów. Podczas tej operacji ujrzeliśmy gigantyczny starszy mózg, którego złowrogie plany budzą grozę. Rozbijając komórkę łupieżców umysłu we Wrotach Baldura, pokrzyżowaliśmy ich knowania. Naszym kolejnym celem jest odnalezienie Mistrza Wiedzy, aby wspólnie jak najszybciej opuścić to przeklęte miejsce.~
+
+@100020 = ~Butwiejąca wiedza
+
+Udało nam się uwolnić zaginionego Mistrza Wiedzy z macek illithidów. Okazał nam wdzięczność i oczekuje nas teraz w świątyni Oghmy, gdzie wręczy nam nagrodę za wszystkie nasze wysiłki.~
+
+@100021 = ~Butwiejąca wiedza
+
+Mistrz Wiedzy Eyvind wyraził szczerą wdzięczność za nasze starania — zarówno za ocalenie jego osoby, jak i zachowanie jego ksiąg — oraz hojnie obdarzył nas w pełni zasłużoną nagrodą.~
+
+@110001 = ~Prawdziwa miłość nie przemija
+
+W starych kanałach spotkaliśmy zdezorientowanego mężczyznę, który recytował osobliwy wiersz. Opowiadał w nim o dawnej miłości, śmierci, blasku miesiąca, róży oraz „zdroju Pani Szczęścia”. Zastanawiamy się, co mogą oznaczać te słowa.~
+
+@110002 = ~Prawdziwa miłość nie przemija
+
+Przekazaliśmy różę pustelnika z Zapieczętowanych Kanałów zjawie przy fontannie obok świątyni Tymory. Była szczęśliwa i odczuła ulgę, mogąc wreszcie opuścić ten świat. Być może mężczyzna odzyska zmysły, jeśli zdołamy w jakiś sposób przywołać w jego pamięci wspomnienie dawnej miłości.~
+
+@110003 = ~Prawdziwa miłość nie przemija
+
+Pustelnik w kanałach ucieszył się, gdy przekazaliśmy mu chusteczkę należącą do jego ukochanej. Napełniony nową nadzieją opuścił kanały, by poszukać lepszego życia gdzie indziej.~
+
+@120000 = ~Brudna szczurza robota
+
+Spotkaliśmy Scroncha, przywódcę klanu szczurołaków. Poprosił nas o zabicie pustelnika przebywającego na północy starych kanałów. Zgodziliśmy się mu pomóc.~
+
+@120001 = ~Brudna szczurza robota
+
+Zabiliśmy pustelnika. Powinniśmy wrócić do Scroncha, przywódcy klanu szczurołaków, i upomnieć się o należną nam nagrodę.~
+
+@120002 = ~Brudna szczurza robota
+
+Scronch, przywódca klanu szczurołaków, był zadowolony z wykonania zadania. Wręczył nam nagrodę, po czym zniknął bez śladu.~
