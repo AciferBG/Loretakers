@@ -16,6 +16,7 @@
 - [How to Play the Mod](#how-to-play-the-mod)
 - [Compatibility with Other Mods](#compatibility-with-other-mods)
 - [Reviews](#reviews)
+- [Walkthrough](#Walkthrough)
 - [Feedback & Support](#feedback--support)
 - [Credits](#credits)
 - [License](#license)
@@ -87,6 +88,12 @@ After downloading, extract the archive into your game's installation folder and 
 Read a review of **Loretakers** at **The Smoldering Mods Bar**:
 
 [**Review of Loretakers – Smoldering Mods Bar**](https://smolderingmodsbar.com/loretakers-bgee/)
+
+---
+
+## Walkthrough
+
+https://baldursgate.fandom.com/wiki/Loretakers_walkthrough
 
 ---
 
