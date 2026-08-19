@@ -664,11 +664,11 @@ LOAD_TRA  ~Loretakers/language/%LANGUAGE%/11_AC#FP7_Fourth_voidarea.tra~
 LOAD_TRA  ~Loretakers/language/%LANGUAGE%/12_Sune_Priest_AC#FP1.tra~
 LOAD_TRA  ~Loretakers/language/%LANGUAGE%/13_Cryptosphere.tra~
 
-COMPILE ~Loretakers/dlg/dialogues_compile/01_Quest_start_and_finish.d~  USING ~Loretakers/language/%LANGUAGE%/01_Quest_start_and_finish.tra~
+COMPILE EVALUATE_BUFFER ~Loretakers/dlg/dialogues_compile/01_Quest_start_and_finish.d~  USING ~Loretakers/language/%LANGUAGE%/01_Quest_start_and_finish.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/02_strange_woman_sewers_worker.d~  USING ~Loretakers/language/%LANGUAGE%/02_strange_woman_sewers_worker.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/03_Priest_of_Gond.d~  USING ~Loretakers/language/%LANGUAGE%/03_Priest_of_Gond.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/04_Ghostlady_AR0600.d~  USING ~Loretakers/language/%LANGUAGE%/04_Ghostlady_AR0600.tra~
-COMPILE ~Loretakers/dlg/dialogues_compile/05_AC#FP1_Abandoned_sewers.d~  USING ~Loretakers/language/%LANGUAGE%/05_AC#FP1_Abandoned_sewers.tra~
+COMPILE EVALUATE_BUFFER ~Loretakers/dlg/dialogues_compile/05_AC#FP1_Abandoned_sewers.d~  USING ~Loretakers/language/%LANGUAGE%/05_AC#FP1_Abandoned_sewers.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/06_AC#FP2_temple_of_Moander.d~  USING ~Loretakers/language/%LANGUAGE%/06_AC#FP2_temple_of_Moander.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/07_AC#FP3_Oryndoll_Cutscene.d~  USING ~Loretakers/language/%LANGUAGE%/07_AC#FP3_Oryndoll_Cutscene.tra~
 COMPILE ~Loretakers/dlg/dialogues_compile/08_AC#FP4_First_voidarea.d~  USING ~Loretakers/language/%LANGUAGE%/08_AC#FP4_First_voidarea.tra~
