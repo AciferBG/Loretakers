@@ -1,4 +1,6 @@
 Version 2.7
+- fixed The Dirty Ragbarth +2 staff animation
+- fixed macOS compatibility
 - Allow specific NPCs interjections for EET, by 11jo
 - Correct typo for Simplified Chinese, by yoshimo0417
 

@@ -10,9 +10,9 @@ BACKUP ~weidu_external/backup/Loretakers~
 AUTHOR ~Acifer~
 VERSION ~V 2.7~
 
-AUTO_TRA ~Loretakers\language\%LANGUAGE%\%s~
+AUTO_TRA ~Loretakers/language/%LANGUAGE%/%s~
 
-README ~Loretakers\Documentation\Loretakers_Readme.pdf~
+README ~Loretakers/Documentation/Loretakers_Readme.pdf~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -130,14 +130,14 @@ LANGUAGE ~Polish - by my_summertime, SoM's membress, part of CoB's Clan~
 
 BEGIN ~Loretakers V 2.7~
 
-INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
-INCLUDE ~%MOD_FOLDER%/lib/add_areas_lua.tpa~
+INCLUDE ~Loretakers/lib/functions.tph~
+INCLUDE ~Loretakers/lib/add_areas_lua.tpa~
 
 LOAD_TRA ~Loretakers/language/%LANGUAGE%/setup-Loretakers.tra~
 LOAD_TRA ~Loretakers/language/%LANGUAGE%/loretakers-journal.tra~
 
 ACTION_IF GAME_IS ~bgee~ THEN BEGIN
-  INCLUDE ~%MOD_FOLDER%/lib/g3_bgee_cpmvars.tpa~
+  INCLUDE ~Loretakers/lib/g3_bgee_cpmvars.tpa~
   OUTER_SPRINT bg1_area_prefix ~AR~
 END
 
@@ -146,7 +146,7 @@ ACTION_IF (GAME_IS ~eet~) THEN BEGIN
     INCLUDE ~EET/other/cpmvars/eet_cpmvars.tpa~
   END
   ELSE BEGIN
-    INCLUDE ~%MOD_FOLDER%/lib/eet_cpmvars.tpa~
+    INCLUDE ~Loretakers/lib/eet_cpmvars.tpa~
   END
   OUTER_SPRINT bg1_area_prefix ~BG~
 END
@@ -157,15 +157,15 @@ ADD_JOURNAL @100000 @100001 @100002 @100003 @100004 @100005 @100006 @100007 @100
 // Animation files
 ///////////////////////////////////////////////////////////////////////
 
-COPY ~%MOD_FOLDER%/animations/Waterweird~         ~override~
-COPY ~%MOD_FOLDER%/animations/Wererat~            ~override~
-COPY ~%MOD_FOLDER%/animations/Feyr~               ~override~
+COPY ~Loretakers/animations/Waterweird~         ~override~
+COPY ~Loretakers/animations/Wererat~            ~override~
+COPY ~Loretakers/animations/Feyr~               ~override~
 
 // Obliviax animation
-COPY ~%MOD_FOLDER%/animations/ac#oxbam.bmp~ ~override~
+COPY ~Loretakers/animations/ac#oxbam.bmp~ ~override~
   LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7F45 RET slot END
   LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
-  COPY ~%MOD_FOLDER%/animations/7xxx.ini~ ~override/%hexNumber%.ini~
+  COPY ~Loretakers/animations/7xxx.ini~ ~override/%hexNumber%.ini~
   OUTER_SET slot_gelugon = slot   // save animation slot number for later
   APPEND ~ANIMATE.IDS~ ~0x%hexNumber% ACIFER_OBLIVIAX~
   
@@ -177,8 +177,8 @@ COPY ~%MOD_FOLDER%/animations/ac#oxbam.bmp~ ~override~
   LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
   APPEND ~animate.ids~ ~0x%hexNumber% AC#DUSTMAN_FEMALE~ UNLESS ~AC#DUSTMAN_FEMALE~
   CLEAR_IDS_MAP
-  COPY ~%MOD_FOLDER%/animations/Dustman_female/exxx.ini~ ~override/%hexNumber%.ini~
-  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/Dustman_female~ ~^.+\.bam$~ BEGIN
+  COPY ~Loretakers/animations/Dustman_female/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~Loretakers/animations/Dustman_female~ ~^.+\.bam$~ BEGIN
     COPY ~%BASH_FOR_FILESPEC%~ ~override~
   END
 
@@ -187,7 +187,7 @@ COPY ~%MOD_FOLDER%/animations/ac#oxbam.bmp~ ~override~
 //
 ///////////////////////////////////////////////////////////////////////
 
-COPY ~%MOD_FOLDER%/areas/copy~         ~override~
+COPY ~Loretakers/areas/copy~         ~override~
 
   ACTION_IF GAME_IS ~eet~ THEN BEGIN
 	COPY_EXISTING ~AC#FP1.are~ ~override/AC#FP1.are~
@@ -257,11 +257,11 @@ COPY_EXISTING ~ac#fp1.are~ ~override~
 END
 
 ACTION_IF NOT (FILE_EXISTS_IN_GAME ~fogarea.2da~) THEN BEGIN
-COPY ~%MOD_FOLDER%/2da/fogarea.2da~ ~override~
+COPY ~Loretakers/2da/fogarea.2da~ ~override~
 END
 
 ACTION_IF NOT (FILE_EXISTS_IN_GAME ~fogpt.2da~) THEN BEGIN
-COPY ~%MOD_FOLDER%/2da/fogpt.2da~ ~override~
+COPY ~Loretakers/2da/fogpt.2da~ ~override~
 END
 
 APPEND ~FOGAREA.2da~ ~AC#FP4  0.80  75  185  60   110   145  30   105   25~
@@ -385,181 +385,181 @@ BUT_ONLY_IF_IT_CHANGES
 // BAM files
 //
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/bam/copy~         ~override~
-COPY ~%MOD_FOLDER%/bam/area-bams~    ~override~ // area animations
+COPY ~Loretakers/bam/copy~         ~override~
+COPY ~Loretakers/bam/area-bams~    ~override~ // area animations
 
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPOXD.bam~ ~override~     // Memory moss desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPOXD.bam~ ~override~     // Memory moss desc bam
  LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS3000.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS3000.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPPID.bam~ ~override~     // pipes of the sewers desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPPID.bam~ ~override~     // pipes of the sewers desc bam
  LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4001.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4001.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPSKD.bam~ ~override~     // open skull desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPSKD.bam~ ~override~     // open skull desc bam
  LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4002.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4002.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPQUD.bam~ ~override~     // Qualith rune plate desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPQUD.bam~ ~override~     // Qualith rune plate desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4003.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4003.pvrz~
  END 
  END
  
-  COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPRMD.bam~ ~override~     // Rashemi mother's cookbook desc bam
+  COPY ~Loretakers/bam/desc-bams/AC#FPRMD.bam~ ~override~     // Rashemi mother's cookbook desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4004.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4004.pvrz~
  END 
  END
  
-   COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPBRD.bam~ ~override~     // brainmate desc bam
+   COPY ~Loretakers/bam/desc-bams/AC#FPBRD.bam~ ~override~     // brainmate desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4005.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4005.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPROD.bam~ ~override~     // rose desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPROD.bam~ ~override~     // rose desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4006.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4006.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPCL2.bam~ ~override~     // clay golem desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPCL2.bam~ ~override~     // clay golem desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4007.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4007.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPHKD.bam~ ~override~     // handkerchief desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPHKD.bam~ ~override~     // handkerchief desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4008.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4008.pvrz~
  END 
  END
  
-  COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPORD.bam~ ~override~     // cryptosphere desc bam
+  COPY ~Loretakers/bam/desc-bams/AC#FPORD.bam~ ~override~     // cryptosphere desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4009.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4009.pvrz~
  END 
  END
  
-  COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPMBD.bam~ ~override~     // journal desc bam
+  COPY ~Loretakers/bam/desc-bams/AC#FPMBD.bam~ ~override~     // journal desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4010.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4010.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPSHD.bam~ ~override~     // dawn shield desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPSHD.bam~ ~override~     // dawn shield desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4011.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4011.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPRID.bam~ ~override~     //aeon of lore desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPRID.bam~ ~override~     //aeon of lore desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4012.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4012.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPK3D.bam~ ~override~     //basin key desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPK3D.bam~ ~override~     //basin key desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4013.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4013.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPK1D.bam~ ~override~     //basilisk key desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPK1D.bam~ ~override~     //basilisk key desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4014.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4014.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPOG1.bam~ ~override~     //withered leaf desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPOG1.bam~ ~override~     //withered leaf desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4015.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4015.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPOG2.bam~ ~override~     //rotten apple  desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPOG2.bam~ ~override~     //rotten apple  desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4016.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4016.pvrz~
  END 
  END
  
-COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPOG3.bam~ ~override~     //rotten heart desc bam
+COPY ~Loretakers/bam/desc-bams/AC#FPOG3.bam~ ~override~     //rotten heart desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4017.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4017.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FP2K2.bam~ ~override~     // shambling mound key desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FP2K2.bam~ ~override~     // shambling mound key desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4018.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4018.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPMD2.bam~ ~override~     // codex sporogenesis desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FPMD2.bam~ ~override~     // codex sporogenesis desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4019.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4019.pvrz~
  END 
  END
  
-  COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPBAD.bam~ ~override~     // decomposed book alaundo desc bam
+  COPY ~Loretakers/bam/desc-bams/AC#FPBAD.bam~ ~override~     // decomposed book alaundo desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4020.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4020.pvrz~
  END 
  END
  
-   COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPAMD.bam~ ~override~     // amulet spectator desc bam
+   COPY ~Loretakers/bam/desc-bams/AC#FPAMD.bam~ ~override~     // amulet spectator desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4021.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4021.pvrz~
  END 
  END
  
- COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FP2K4.bam~ ~override~     // statue key desc bam
+ COPY ~Loretakers/bam/desc-bams/AC#FP2K4.bam~ ~override~     // statue key desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4022.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4022.pvrz~
  END 
  END
  
-  COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPPDD.bam~ ~override~     // bottle angry spirit desc bam
+  COPY ~Loretakers/bam/desc-bams/AC#FPPDD.bam~ ~override~     // bottle angry spirit desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4023.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4023.pvrz~
  END 
  END
  
-   COPY ~%MOD_FOLDER%/bam/desc-bams/AC#FPXBD.bam~ ~override~     // rat's xbow desc bam
+   COPY ~Loretakers/bam/desc-bams/AC#FPXBD.bam~ ~override~     // rat's xbow desc bam
 LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
  ACTION_IF (original_base_index >= 0 AND new_base_index >= 0) BEGIN
- LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~%MOD_FOLDER%/bam/desc-bams/MOS4024.pvrz~
+ LAF INSTALL_PVRZ INT_VAR original_base_index new_base_index STR_VAR source_file = ~Loretakers/bam/desc-bams/MOS4024.pvrz~
  END 
  END
 
@@ -567,28 +567,28 @@ LPF UPDATE_PVRZ_INDICES RET original_base_index new_base_index END
 // VVC files
 //
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/vvc/copy~         ~override~
+COPY ~Loretakers/vvc/copy~         ~override~
 
 ///////////////////////////////////////////////////////////////////////
 //WAV files
 //
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/sounds/copy~         ~override~
+COPY ~Loretakers/sounds/copy~         ~override~
 
 ///////////////////////////////////////////////////////////////////////
 //Spell files
 //
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/spl/copy~         ~override~
+COPY ~Loretakers/spl/copy~         ~override~
 
-ADD_PROJECTILE      ~%MOD_FOLDER%/pro/AC#FPMOA.PRO~ // black entangle projectile
-COPY ~%MOD_FOLDER%/spl/AC#FPMO.spl~         ~override~
+ADD_PROJECTILE      ~Loretakers/pro/AC#FPMOA.PRO~ // black entangle projectile
+COPY ~Loretakers/spl/AC#FPMO.spl~         ~override~
        SAY NAME1 @1083
        SAY NAME2 @1083
        WRITE_SHORT   0x98 ~%AC#FPMOA%~
        
-ADD_PROJECTILE      ~%MOD_FOLDER%/pro/AC#FPPUF.PRO~ // Puffball projectile
-COPY ~%MOD_FOLDER%/spl/AC#FPPB.spl~         ~override~
+ADD_PROJECTILE      ~Loretakers/pro/AC#FPPUF.PRO~ // Puffball projectile
+COPY ~Loretakers/spl/AC#FPPB.spl~         ~override~
        SAY NAME1 @1084
        SAY NAME2 @1084
        WRITE_SHORT   0x98 ~%AC#FPPUF%~
@@ -599,7 +599,7 @@ COPY ~%MOD_FOLDER%/spl/AC#FPPB.spl~         ~override~
       ~AC#Puffball     %AC#FPPUF%~
       UNLESS ~AC#Puffball~
 
-COPY ~%MOD_FOLDER%/spl/AC#FPMS.spl~         ~override~
+COPY ~Loretakers/spl/AC#FPMS.spl~         ~override~
      SAY NAME1 @1083
      SAY 0x50 @1084
 ///////////////////////////////////////////////////////////////////////
@@ -607,25 +607,25 @@ COPY ~%MOD_FOLDER%/spl/AC#FPMS.spl~         ~override~
 //
 ///////////////////////////////////////////////////////////////////////
 
-INCLUDE ~%MOD_FOLDER%/lib/scripts.tpa~
+INCLUDE ~Loretakers/lib/scripts.tpa~
 
 ///////////////////////////////////////////////////////////////////////
 // CRE files
 //
 ///////////////////////////////////////////////////////////////////////
-INCLUDE ~%MOD_FOLDER%/lib/creatures.tpa~
+INCLUDE ~Loretakers/lib/creatures.tpa~
 
 ///////////////////////////////////////////////////////////////////////
 // Portraits
 //
 ///////////////////////////////////////////////////////////////////////
 //  maybe later
-// COPY ~%MOD_FOLDER%/portraits~         ~override~
+// COPY ~Loretakers/portraits~         ~override~
 
 ///////////////////////////////////////////////////////////////////////
 // ITM files
 ///////////////////////////////////////////////////////////////////////
-INCLUDE ~%MOD_FOLDER%/lib/items.tpa~
+INCLUDE ~Loretakers/lib/items.tpa~
 
 APPEND itemexcl.2da ~AC#FPRIN 1~
 BUT_ONLY
@@ -633,16 +633,16 @@ BUT_ONLY
 ///////////////////////////////////////////////////////////////////////
 // MOS files
 ///////////////////////////////////////////////////////////////////////
-ACTION_IF FILE_EXISTS ~%MOD_FOLDER%/mos/copy/~ THEN BEGIN
-  COPY ~%MOD_FOLDER%/mos/copy~ ~override~
+ACTION_IF FILE_EXISTS ~Loretakers/mos/copy/~ THEN BEGIN
+  COPY ~Loretakers/mos/copy~ ~override~
 END
 
 
 ///////////////////////////////////////////////////////////////////////
 // EFF files
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/eff/copy~         ~override~
-COPY ~%MOD_FOLDER%/eff/AC#FPPBC.eff~         ~override~
+COPY ~Loretakers/eff/copy~         ~override~
+COPY ~Loretakers/eff/AC#FPPBC.eff~         ~override~
 SAY 0x1c @1087
 
 ///////////////////////////////////////////////////////////////////////
@@ -749,9 +749,9 @@ END
 // tis files
 ///////////////////////////////////////////////////////////////////////
 
-COPY_LARGE ~%MOD_FOLDER%/tis/copy~         ~override~
+COPY_LARGE ~Loretakers/tis/copy~         ~override~
 
 ///////////////////////////////////////////////////////////////////////
 // Lightmap files
 ///////////////////////////////////////////////////////////////////////
-COPY ~%MOD_FOLDER%/lightmaps/copy~         ~override~
+COPY ~Loretakers/lightmaps/copy~         ~override~
