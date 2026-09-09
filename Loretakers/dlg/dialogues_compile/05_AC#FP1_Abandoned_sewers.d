@@ -198,8 +198,8 @@ END
 								@77
 								==JAHEIJ IF ~InParty("JAHEIRA") !StateCheck("JAHEIRA",CD_STATE_NOTVALID)~ THEN @78
 								==KHALIJ IF ~InParty("KHALID") !StateCheck("KHALID",CD_STATE_NOTVALID)~ THEN @79
-								==RASAADJ IF ~InParty("RASAAD") !StateCheck("RASAAD",CD_STATE_NOTVALID)~ THEN @80
-								==MINSCJ IF ~InParty("MINSC") !StateCheck("MINSC",CD_STATE_NOTVALID)~ THEN @81
+								==%RASAAD_JOINED% IF ~InParty("RASAAD") !StateCheck("RASAAD",CD_STATE_NOTVALID)~ THEN @80
+								==%MINSC_JOINED% IF ~InParty("MINSC") !StateCheck("MINSC",CD_STATE_NOTVALID)~ THEN @81
 								==YESLIJ IF ~InParty("YESLICK") !StateCheck("YESLICK",CD_STATE_NOTVALID)~ THEN @82
 								==SKIEJ IF ~InParty("SKIE") !StateCheck("SKIE",CD_STATE_NOTVALID)~ THEN @83
 								==AJANTJ IF ~InParty("AJANTIS") !StateCheck("AJANTIS",CD_STATE_NOTVALID)~ THEN @84
