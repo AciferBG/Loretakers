@@ -1,3 +1,7 @@
+Version 2.7
+- Allow specific NPCs interjections for EET, by 11jo
+- Correct typo for Simplified Chinese, by yoshimo0417
+
 Version 2.6
 - added Polish translation by my_summertime, SoM's membress, part of CoB's Clan; thank you!
 
