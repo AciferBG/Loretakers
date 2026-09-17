@@ -1,0 +1,77 @@
+//Journal translation files
+// Main quest: meeting priests of Oghma
+@100000 = ~Il sapere marcisce
+
+Nella zona centrale di Baldur's Gate, presso il santuario di Oghma, ho incontrato due sacerdoti disperati. Mi hanno parlato di un misterioso flagello che fa marcire i loro libri. Ho accettato di aiutarli a scoprire che cosa si cela dietro la distruzione dei volumi. Dovrò parlare con il Cercatore Tuck per ottenere maggiori informazioni su quanto sta accadendo.~
+
+@100001 = ~Il sapere marcisce
+
+Uno dei sacerdoti di Oghma, il Cercatore Tuck, mi ha parlato di una strana donna che si trovava nei pressi del tempio e che ha conversato con il loro superiore prima della sua scomparsa. Dovrei imboccare l'ingresso delle fogne accanto al santuario di Oghma e vedere se qualcuno laggiù sa dove si trovi il Sommo Maestro del Sapere o conosce quella donna.~
+
+@100002 = ~Il sapere marcisce
+
+L'addetto alle fogne non mi è stato d'aiuto. Non conosce la donna che cerco e non ha visto il Maestro del Sapere. Dovrei tornare dal Cercatore Tuck e chiedergli come proseguire.~
+
+@100003 = ~Il sapere marcisce
+
+La prossima tappa della mia indagine per la chiesa di Oghma sarà l'Alta Casa delle Meraviglie, il tempio di Gond a Baldur's Gate. Dovrei cercare un sacerdote di Gond che mi aiuti nelle ricerche. Forse il Maestro del Sapere scomparso si è rivolto alla chiesa di Gond in cerca d'aiuto.~
+
+@100004 = ~Il sapere marcisce
+
+Anche la chiesa di Gond ha riscontrato problemi con i libri contaminati. Il sacerdote non ha saputo indicarmi dove si trovi il Maestro del Sapere scomparso, ma ha detto di aver incontrato la stessa strana donna. A quanto pare, si aggira nei pressi della fontana all'esterno dell'Alta Casa delle Meraviglie. Devo trovarla e scoprire se può far luce su ciò che sta davvero accadendo.~
+
+@100005 = ~Il sapere marcisce
+
+Ho incontrato la strana donna. Si chiama Etate. Anche lei sta indagando sulla causa del deterioramento dei libri. Sospetta che l'origine della muffa si trovi in una particolare zona delle fogne, che chiama "Fogne Sigillate". Dovrei tornare al tempio di Oghma e scendere nelle fogne dall'ingresso proprio accanto al tempio. Una volta sotto, dovrò dirigermi a sud e poi imboccare il cunicolo a ovest. Quindi, nel punto in cui i cunicoli si incontrano, dovrò andare a nord-ovest. Il cunicolo giusto è più stretto degli altri e conduce all'ingresso sigillato.~
+
+@100006 = ~Il sapere marcisce
+
+Il mio incontro con la donna nelle Fogne Sigillate ha avuto un esito funesto. Purtroppo era una trappola: ho subito un'imboscata dei ratti mannari. Nonostante sembrasse lottare contro una forza invisibile che ne controllava le azioni, la donna non è riuscita a liberarsene. Alla fine non ho avuto altra scelta che ucciderla per difendermi.~
+
+@100007 = ~Il sapere marcisce
+
+Sul corpo della donna, manovrata da una forza misteriosa, ho trovato una chiave. Apre la porta sigillata che conduce alle profondità delle "Fogne Sigillate". Sospetto che oltre quella barriera si celi l'origine del male che ha afflitto tanto i sacri libri di Oghma quanto la sventurata donna.~
+
+@100010 = ~Il sapere marcisce
+
+Ho scoperto l'origine della contaminazione dei libri: un sacerdote dell'antica divinità Moander si annida nelle profondità sotto Baldur's Gate, spinto dalla visione di annientare tutti i libri nel nome del suo dio. Eliminarlo dovrebbe arrestare la distruzione di altri tomi. Tuttavia, la vera mente dietro questo piano resta avvolta nel mistero. Devo addentrarmi nelle vecchie catacombe per svelare i segreti rimasti e scoprire chi orchestra davvero il complotto.~
+
+@100011 = ~Il sapere marcisce
+
+Il vero colpevole è ormai evidente: gli illithid si sono insediati in una sala centrale sotto Baldur's Gate e intendono cancellare tutto il sapere della città! I miei prossimi passi sono chiari: devo trovare e salvare il Maestro del Sapere scomparso e disattivare il bizzarro congegno illithid che sembra essere all'origine di tutto questo male.~
+
+@100012 = ~Il sapere marcisce
+
+Ho disattivato lo strano congegno illithid. Nel farlo, ho intravisto un gigantesco Cervello Maestro, i cui sinistri piani non promettono nulla di buono. Tuttavia, smantellando la cellula dei mind flayer di Baldur's Gate, ho inferto un duro colpo ai loro disegni. Ora devo trovare il Maestro del Sapere, per poter lasciare al più presto questo luogo orribile.~
+
+@100020 = ~Il sapere marcisce
+
+Ho salvato il Maestro del Sapere scomparso dalle grinfie degli illithid. Mi ha espresso la sua gratitudine e mi attende al santuario di Oghma per ricompensare i miei sforzi.~
+
+@100021 = ~Il sapere marcisce
+
+Il Maestro del Sapere Eyvind mi ha ringraziato di cuore per averlo salvato e per aver preservato i suoi libri, offrendomi generosamente una meritata ricompensa per i miei sforzi.~
+
+@110001 = ~Il vero amore non svanisce
+
+Nelle vecchie fogne ho incontrato un uomo confuso che recitava una strana poesia. I versi parlavano di un amore passato, della morte, del chiaro di luna, di una rosa e di una "fontana della dea della fortuna". Chissà che cosa significa?~
+
+@110002 = ~Il vero amore non svanisce
+
+Ho consegnato la rosa dell'eremita delle "Fogne Sigillate" a un'apparizione spettrale presso la fontana accanto al tempio di Tymora. Era felice e sollevata di poter lasciare questo mondo. Forse l'uomo ritroverà il senno, se riuscirò a ricordargli il suo amore con qualche oggetto?~
+
+@110003 = ~Il vero amore non svanisce
+
+L'eremita delle fogne era felice quando gli ho consegnato il fazzoletto della sua amata. Pieno di rinnovata speranza, ha lasciato le fogne per cercare altrove una vita migliore.~
+
+@120000 = ~Un lavoro da sporco ratto
+
+Ho incontrato Scronch, il capo di un clan di ratti mannari. Mi ha chiesto di uccidere un eremita nella parte settentrionale delle vecchie fogne, e ho accettato.~
+
+@120001 = ~Un lavoro da sporco ratto
+
+Ho ucciso l'eremita. Dovrei tornare da Scronch, il capo del clan di ratti mannari, e chiedere una ricompensa.~
+
+@120002 = ~Un lavoro da sporco ratto
+
+Scronch, il capo del clan di ratti mannari, era felice che avessi ucciso l'eremita e mi ha dato una ricompensa prima di andarsene.~

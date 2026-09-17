@@ -128,6 +128,24 @@ LANGUAGE ~Polish - by my_summertime, SoM's membress, part of CoB's Clan~
          ~Loretakers/language/polish/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/polish/13_Cryptosphere.tra~
 
+LANGUAGE ~Italiano~
+         ~italian~
+         ~Loretakers/language/italian/Setup-Loretakers.tra~
+         ~Loretakers/language/italian/loretakers-journal.tra~
+         ~Loretakers/language/italian/01_Quest_start_and_finish.tra~
+         ~Loretakers/language/italian/02_strange_woman_sewers_worker.tra~
+         ~Loretakers/language/italian/03_Priest_of_Gond.tra~
+         ~Loretakers/language/italian/04_Ghostlady_AR0600.tra~
+         ~Loretakers/language/italian/05_AC#FP1_Abandoned_sewers.tra~
+         ~Loretakers/language/italian/06_AC#FP2_temple_of_Moander.tra~
+         ~Loretakers/language/italian/07_AC#FP3_Oryndoll_Cutscene.tra~
+         ~Loretakers/language/italian/08_AC#FP4_First_voidarea.tra~
+         ~Loretakers/language/italian/09_AC#FP6_Second_voidarea.tra~
+         ~Loretakers/language/italian/10_AC#FP5_Third_voidarea.tra~
+         ~Loretakers/language/italian/11_AC#FP7_Fourth_voidarea.tra~
+         ~Loretakers/language/italian/12_Sune_Priest_AC#FP1.tra~
+         ~Loretakers/language/italian/13_Cryptosphere.tra~
+
 BEGIN ~Loretakers V 2.7~
 
 INCLUDE ~Loretakers/lib/functions.tph~

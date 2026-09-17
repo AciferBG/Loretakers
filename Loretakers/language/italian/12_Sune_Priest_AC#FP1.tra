@@ -1,0 +1,67 @@
+@0    = ~Dov'è il pegno del suo affetto, il sussurro del suo tocco intessuto nella stoffa? Senza di esso, come potrò sapere... che non è soltanto un'ombra... un inganno della mente? Il mio cuore anela a un segno, a un legame con il reale, prima che io sprofondi ancora in questi torbidi abissi di confusione.~
+@1    = ~Forse mi occorre un momento per capire che cosa vi aspettate da me, vecchio.~
+@2    = ~I ratti mannari vi vogliono morto e intendo aiutarli. Mi dispiace, non è nulla di personale.~
+@3    = ~Ho il fazzoletto che cercate. Reca i segni del lavoro delle sue mani, un autentico pegno del suo amore.~
+@4    = ~(Lo sguardo fisso davanti a sé, quest'uomo sembra anziano a prima vista. Tuttavia, osservandolo meglio, scorgi il volto di un uomo di mezza età, invecchiato prima del tempo e trasandato. Non sai nemmeno se si sia accorto di te.)~
+@5    = ~(D'un tratto prende un breve respiro e comincia a recitare una poesia...)~
+@6    = ~"Un tempo vissi dell'amore l'arte,
+Cuore a cuore, mai da lei in disparte.
+Or resta una rosa, dal ramo strappata,
+Benché la stagione d'amore sia passata.
+
+Oh, recar quella rosa alla fontana, 
+Ove la Signora Fortuna è sovrana!
+Ma il dolore dentro me non dà tregua, 
+E la sventura mi avvince e m'insegue."~
+@7    = ~"La morte crudele l'ha presa e portata, 
+Ora vaga nella terra dalla luna rischiarata.
+D'amore la fiamma s'è spenta all'improvviso, 
+Lasciando solo affanno dove splendeva un sorriso.
+
+O Dea, quale penitenza hai decretato,
+Per il tuo servo tanto tormentato?
+Nel tempio dell'amore dovrei dimorare,
+Non qui, fra le fogne, nel buio a penare."
+~
+@8    = ~Suppongo che vogliate che... faccia qualcosa? Hmm, forse mi occorre un momento per capire che cosa vi aspettate da me, vecchio.~
+@9    = ~Rosa? Fontana? Fortuna? Chiaro di luna? Un enigma, senza dubbio.~
+@10   = ~Poesia nelle fogne? Continuate così, forse riuscirete a scacciare i ratti.~
+@11   = ~Avete perso il senno. Me ne vado.~
+@12   = ~"Un tempo vissi dell'amore l'arte,
+Cuore a cuore, mai da lei in disparte.
+Or resta una rosa, dal ramo strappata..."
+~
+@13   = ~Sì, sì, sì. Questo l'abbiamo già sentito. Ho dato la vostra rosa a quella signora spettrale. Sapete proprio come tenere vivo un amore!~
+@14   = ~Ho dato la rosa alla vostra amata. Ha potuto andarsene in pace.~
+@15   = ~"Un tempo vissi dell'amore l'arte,
+Cuore a cuore, mai da lei in disparte.
+Or resta una rosa, dal ramo strappata,
+Benché la stagione d'amore sia passata.
+
+Oh, recar quella rosa alla fontana, 
+Ove la Fortuna scorre sovrana!
+Ma il dolore dentro me non dà tregua, 
+E la sventura mi avvince e m'insegue."~
+@16   = ~La rosa, la rosa, amore mio, amore mio!~
+@17   = ~La rosa è stata donata? Ma... dov'è il pegno del suo affetto, il sussurro del suo tocco intessuto nella stoffa? Senza di esso, come potrò sapere... che non è soltanto un'ombra, un inganno della mente? Il mio cuore anela a un segno, a un legame con il reale, prima che io sprofondi ancora in questi torbidi abissi di confusione.~
+@18   = ~Pensavo che ora sareste stato più felice, ma mi sbagliavo. Addio.~
+@19   = ~Il mio cuore anela a un segno, a un legame con il reale, prima che io sprofondi ancora in questi torbidi abissi di confusione.~
+@20   = ~Ma... che cos'è questo? Un... vero segno del suo amore? Il profumo della sua pelle? Dove... dove mi trovo? La mia mente, un tempo avvolta dalle nebbie, ora si rischiara come la luce dell'alba. Questo fazzoletto, pervaso della sua grazia, mi ha ricondotto alla realtà. Per la Signora dell'Amore! Dove mi trovo?~
+@21   = ~Siete nelle fogne sotto Baldur's Gate, ma ora che la vostra mente è di nuovo lucida siete al sicuro.~
+@22   = ~Che cosa vi sembra? Di certo non la locanda "Tre Vecchi Barili". Piuttosto, "Le Fogne Fradice".~
+@23   = ~Guardatevi intorno, genio: siete nelle fogne puzzolenti, non proprio nelle sale della passione!~
+@24   = ~Le... le fogne? Come sono finito qui?~
+@25   = ~Piacerebbe saperlo anche a me.~
+@26   = ~In una città come Baldur's Gate è facile smarrire la strada e... *Bam!* Si finisce nelle fogne.~
+@27   = ~E... e il mio amore... lei è morta. Voi le avete portato un segno del mio affetto. E a me resta il suo fazzoletto...~
+@28   = ~Quanto... quanto tempo sono rimasto qui? In che anno siamo?~
+@29   = ~È l'anno <YEAR>.~
+@30   = ~<YEAR>! Per la bellezza di Sune! Devo aver trascorso quaggiù decenni!~
+@31   = ~Perché siete sceso quaggiù?~
+@32   = ~Non è più un mio problema. Addio.~
+@33   = ~Il male che un tempo infestava questo luogo si stava risvegliando. Ho udito il richiamo della mia dea Sune, che mi chiedeva di purificarlo... ma ho fallito.~
+@34   = ~Che genere di male si annida quaggiù?~
+@35   = ~Un antico tempio di un dio della corruzione... È tutto ciò che so... Io... devo essere caduto nelle grinfie di un essere che mi ha offuscato la mente. Non ricordo nulla, tranne di aver tracciato qui sul pavimento questo simbolo di Sune.~
+@36   = ~Come desiderate. Questo golem mi è stato di grande aiuto durante il mio periodo di tenebre. Benché gran parte del suo potere si sia affievolita, vi servirà bene in questi sotterranei. Portate a termine ciò in cui io ho fallito!~
+@37   = ~Risalirò alla luce e tornerò a conoscere il mondo... e piangerò il mio amore perduto. Grazie per avermi sottratto a questa vita di stenti, anche se una parte di me desidera ricongiungersi alla mia amata. Addio.~
+@38  = ~Devo congedarmi.~
