@@ -1,0 +1,486 @@
+@0= ~Loretakers~
+
+@56 = ~Gigante Fomorian~
+
+@63 = ~Ratto Mannaro~
+@64 = ~Questa pietra è identica a quella dall'altra parte. Anche qui potresti provare a cancellare le linee sulla superficie.~
+@65 = ~La pietra pulsa di una luce tenue. Noti sottili disegni sparsi sulla superficie. Potresti provare a cancellarli.~
+@66 = ~Tocchi la superficie e le linee scompaiono. All'improvviso, una violenta ondata di assoluta disperazione travolge la tua mente.~
+@67 = ~Appena entri nella stanza, un'ondata di emozioni maligne e cariche d'odio ti sopraffà. Di fronte a te, due pietre pulsanti emanano un bagliore sinistro, come se tentassero di influenzare la tua mente.~
+@68 = ~La magia della pietra si è spenta. Ora è soltanto fredda e priva di potere.~
+
+@77 = ~Wrimbog~
+@86 = ~Belster Turnstone~
+@87 = ~Cantiniere~
+@88 = ~Viceak~
+@89 = ~Rickul~
+@90 = ~Feyr~
+@91 = ~Vuardsungulu~
+@92 = ~Bagut~
+@93 = ~Petian~
+@94 = ~Urthadar~ 
+@95 = ~Bizzarria Acquatica~
+@96 = ~Otyugh~
+@97 = ~Muschio della Memoria~
+@98 = ~Massa Bianca~
+@99 = ~Ralx~ // Wererat Mage
+@100 = ~Segugio Strisciante~
+@101 = ~Scronch~
+@102 = ~Rennack~
+@103 = ~Creatura Prigioniera~
+@104 = ~Sommo Maestro del Sapere Eyvind~ // Cleric of Oghma 
+@105 = ~L'Encefalithid~
+@106 = ~Aimil~
+@107 = ~Voce del Vuoto~
+@108 = ~Oblex~
+@109 = ~Ombra Mentale~
+@110 = ~Maestro del Sapere Namonder~
+@111 = ~Cercatore Tuck~
+@112 = ~Addetto alle Fogne~
+@113 = ~Etate~
+@114 = ~Statua Sacrilega~
+@115 = ~Schiavo~
+@116 = ~Golem di Argilla Minore~
+@117 = ~Maestro Durnan~
+@118 = ~Ratto Mannaro Malato~
+@119 = ~Tiranno della Morte~
+@120 = ~Sewerm~
+@121 = ~Obliviax~
+@122 = ~Mummia delle Paludi~
+
+@1000 = ~Maschera di Jymahna~
+@1001 = ~Maschera di Jymahna~
+@1002 = ~Maschera di Jymahna~
+@1003 = ~Maschera di Jymahna~
+@1004 = ~Chiave della Porta~
+@1005 = ~Hai trovato questa chiave nella stanza dei basilischi, nelle vecchie fogne. Sembra appartenere a una porta importante.~
+@1006 = ~Chiave Illithid~
+@1007 = ~Hai trovato questa chiave sul cadavere dell'ulitharid Vuardsungulu.~
+@1008 = ~Chiave della Statua~
+@1009 = ~Hai trovato questa chiave nel teschio di una statua, nel vecchio tempio di Moander.~
+@1010 = ~Chiave della Vasca~
+@1011 = ~Hai ripescato questa chiave da una vasca nelle vecchie fogne.~
+@1012 = ~Hai ripescato questa chiave dalla seconda vasca nelle vecchie fogne. Potrebbe aprire la terza porta chiusa a chiave.~
+@1013 = ~Questa chiave è fredda al tatto. Proviene dalla stanza in cui si trovava la vasca gelida. L'hai presa a una Massa Bianca. Potrebbe aprire la quarta porta chiusa a chiave.~
+@1014 = ~Hai preso questa chiave a una creatura deforme chiamata Wrimbog, nelle vecchie fogne. Potrebbe aprire l'ultima porta chiusa a chiave.~
+@1019 = ~Scudo dell'Alba~
+@1020 = ~Questo scudo è forgiato in bronzo massiccio. Sebbene sul metallo si sia formata una patina, esso risplende ancora di una calda tonalità giallo dorata. L'umbone è ornato da un sole nascente, simbolo di Lathander. I non morti sembrano temere questo simbolo e il calore che emana. Lo scudo non può essere usato dai chierici di allineamento malvagio.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +2
+– Nessuna protezione dagli attacchi a distanza
+– Aggiunge un livello all'abilità "Scacciare i Non Morti" di chierici e paladini
+
+Richiede:
+ Forza 4
+
+Peso: 3~
+@1021 = ~Questa chiave odora di muffa e di vegetali in decomposizione. L'hai presa a un Cumulo Strisciante.~
+@1022 = ~Muschio della Memoria~
+@1023 = ~Questo muschio è ciò che resta di una pianta chiamata obliviax, famigerata per la capacità di rubare i ricordi. I maghi, in particolare, farebbero bene a tenersi alla larga da questa specie, se non vogliono rischiare di perdere gli incantesimi memorizzati. Fortunatamente, mangiare questo frammento di muschio produce l'effetto opposto: permette al mago di ricordare alcuni degli incantesimi che ha già lanciato. Tuttavia, ingerirne i carnosi rizoidi può provocare disturbi di stomaco.
+
+STATISTICHE:
+
+– Una volta consumato, ripristina un incantesimo di primo livello
+– Se il personaggio fallisce un tiro-salvezza contro Morte, contrae una malattia che fa perdere a <PRO_HIMHER> cinque Punti Ferita per round per tre round
+
+Peso: 1~
+@1024 = ~Frammento di Muschio~
+@1025 = ~Un frammento di muschio dai riflessi verdastri, che odora di terra e vegetali ammuffiti~
+@1026 = ~Incantesimo ripristinato~
+@1027 = ~Collare Illithid~
+@1028 = ~Compagno Cerebrale~
+@1029 = ~Hai preso questo collare al capo illithid Vuardsungulu. Contiene una piccola fiala di materia organica.~
+@1030 = ~Quando gli illithid si allontanano dalla propria comunità, perdono il contatto con il loro Cervello Maestro. Per esseri abituati a condividerne costantemente pensieri, conoscenze e percezioni, la perdita di tale contatto può essere molto inquietante. 
+
+I gruppi che viaggiano a lungo al di fuori della portata di un Cervello Maestro possono affidarsi a un intermediario. Gli illithid impegnati in incursioni meno ambiziose sono spesso costretti a irrigidire i tentacoli e a sopportare il peso dell'isolamento, a meno che non siano fra i pochi fortunati a possedere un Compagno Cerebrale. 
+Il Compagno Cerebrale è una sfera di materiale traslucido, di circa dieci centimetri di diametro, in cui un minuscolo cervello reciso galleggia in un liquido denso e viscoso. Quando lo usano, gli illithid portano spesso questo oggetto appeso a una catena attorno al collo; altrimenti lo custodiscono in uno scrigno ben imbottito.
+
+L'oggetto non ha proprietà magiche ed è utile soltanto agli illithid.~
+@1031 = ~Fazzoletto~
+@1032 = ~Questo fazzoletto apparteneva alla donna spettrale presso la fontana accanto al tempio di Tymora.~
+@1033 = ~Ruota Dentata~
+@1034 = ~Una piccola ruota dentata, probabilmente sottratta a un meccanismo più grande per renderlo inutilizzabile~
+@1035 = ~Rosa~
+@1036 = ~Una profumata rosa rossa.~
+@1037 = ~Flauto~
+@1038 = ~Flauto delle Fogne~
+@1039 = ~Questo strumento è una sorta di flauto di Pan, fatto di canne sporche e leggermente arrugginite~
+@1040 = ~Il Flauto delle Fogne è un flauto di Pan incantato, creato per influenzare il comportamento di alcuni roditori. Il suono di questi strumenti mistici può richiamare i ratti fino a trecento metri di distanza, inducendoli a rispondere al suonatore. La magia che li permea si rinnova ogni giorno all'alba, assicurando che il loro potere torni sempre disponibile.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Il portatore può evocare uno sciame di ratti una volta al giorno 
+  Durata: 10 round
+
+Peso: 1
+~
+@1041 = ~Bottiglia Inquieta~
+@1042 = ~Bottiglia dello Spirito Furioso~
+@1043 = ~Questa bottiglia è colma di una strana sostanza nera e turbinante, che sembra muoversi senza sosta anche quando il recipiente resta immobile. Emana un freddo innaturale ed è sgradevole tenerla in mano a lungo.~
+@1044 = ~In questa bottiglia è imprigionato uno spirito non morto e irrequieto, in attesa di essere liberato per distruggere chiunque si trovi nelle vicinanze con il suo tocco che prosciuga la vita.
+
+PROPRIETÀ:
+
+Quando il tappo viene aperto, ne fuoriesce uno spettro che attacca qualsiasi bersaglio nel proprio campo visivo.~
+@1045 = ~Chiave delle Vecchie Fogne~
+@1046 = ~Questa è la chiave delle vecchie fogne sotto Baldur's Gate.~
+@1047 = ~Diario di Urthadar~
+@1048 = ~Questo è il diario di Urthadar, il sacerdote di Moander che ha fondato un tempio in onore del suo dio morto nelle vecchie fogne sotto Baldur's Gate. Il testo è confuso, ma alcuni passaggi attirano la tua attenzione:
+
+"Giorno della Nascita delle Spore
+Ancora una volta visioni vivide e imperiose hanno tormentato i miei sogni. Il grande Moander mi parla dall'aldilà, la sua voce un sussurro fra le ombre che guida le mie mani verso un fine grandioso. Mi ordina di destare la terra, di infondere vita nelle spore dormienti che riposano nell'oscurità. 'Diffondi i funghi', sussurra, 'lascia che divorino il sapere del mondo'. Così sono partito da Torsch, nel Bosco di Chondal, e ho affrontato il lungo viaggio verso nord: le mie visioni mi avevano indirizzato a Baldur's Gate, sulla Costa della Spada.
+
+Giorno dell'Espansione delle Ife
+La coltivazione progredisce. I miei figli, i funghi, prosperano nell'oscurità del mio santuario. Ogni specie è una chiave per spezzare le catene che avvincono il mio signore. Oggi è fiorita una nuova specie, le cui spore scintillano come stelle nel vuoto. Sono affamate della parola scritta, con un appetito che rivaleggia persino con il mio zelo. A ogni libro che consumano, sento la presenza di Moander farsi più forte, la sua resurrezione imminente.
+
+Giorno della Convergenza Crescente
+Una svolta nel mio lavoro. Ora le spore dissolvono inchiostro e pergamena con un'efficacia allarmante. I miei sogni sono più vividi, la voce di Moander sempre più chiara. Mi mostra un mondo libero dal peso del sapere passato, un mondo pronto al suo dominio. Sarò il suo araldo, colui che preparerà la via al suo ritorno. Ciò che è vecchio deve essere estirpato affinché il nuovo possa fiorire.
+
+Giorno della Comparsa dei Corpi Fruttiferi
+Oggi il dubbio si insinua nel mio cuore. Una debolezza passeggera, forse. La distruzione che arreco sembra smisurata: cancella secoli di saggezza e di storia. Ma poi ricordo il mio scopo, il comando divino. La volontà di Moander è assoluta; la sua visione del futuro, infallibile. Non sono che un servitore, prescelto per attuare il suo grande disegno. La perdita del sapere è un sacrificio necessario alla rinascita.
+
+Giorno della Disseminazione delle Spore
+Stanotte i miei sogni erano diversi. Non una visione, ma una visita. Le Voci del Vuoto, creature di grande intelligenza e potere, mi hanno contattato. Hanno parlato di un'alleanza, di scopi comuni e vantaggi reciproci. Stanotte la voce di Moander taceva, ma il messaggio era chiaro. Questi esseri, con le loro menti insondabili, sono la chiave della resurrezione del mio signore. Mi guidano come alleati nel grande risveglio, non come falsi profeti. Mi hanno permesso di scrutare nella vasca e intravedere ciò che Moander vuole trasformare.
+
+Giorno della Colonizzazione della Muffa
+Sono riuscito a rimettere in funzione il calderone arrugginito del vecchio tempio. È un 'Calderone della Rovina', un oggetto leggendario che mi permette di creare zombi gettandovi dentro un cadavere! Le mie alleate, le Voci del Vuoto, non sembrano gradire che io evochi dei non morti... ma perché?
+
+Giorno della Decomposizione Calante 
+Ora vedo il grande arazzo del piano di Moander, intessuto di fili d'inganno e di verità. Le Voci del Vuoto non sono che strumenti della sua resurrezione: i loro scopi coincidono con la sua volontà divina. Devo continuare il mio lavoro e diffondere il marciume finché non verrà il giorno in cui Moander tornerà a camminare su queste terre. La mia fede è incrollabile, il mio scopo chiaro. La fine del sapere è l'inizio dell'illuminazione."
+~
+@1049 = ~Codex Sporogenesis~
+@1050 = ~Codex Sporogenesis: Svelare i Segreti del Decadimento
+
+Le seguenti rare spore e muffe sono ideali per estirpare il sapere:
+
+Fungo dal Cappello del Vuoto
+Questo fungo, che prospera nelle ombre più profonde, sembra un vuoto nel tessuto stesso della realtà. I suoi cappelli assorbono la luce e appaiono come pozzi oscuri e senza fondo. Se ingerite, le spore provocano visioni di un nulla infinito, uno squarcio sull'abisso che attende di divorare il sapere del mondo. Sono le aralde del silenzio e consumano le parole e i ricordi che osano sfidare l'oblio imminente.
+
+Muffa delle Spore d'Ombra
+Questa muffa strisciante cresce come un'ombra sinistra su tutto ciò che reca l'impronta dell'orgoglio della civiltà: libri, pergamene e tomi. Si nutre d'inchiostro, lasciando soltanto pagine bianche, come se quel sapere non fosse mai esistito. In sua presenza si possono udire lievi sussurri, gli ultimi respiri delle conoscenze perdute, testimonianza della volontà di Moander di reclamare e annientare le strutture del mondo conosciuto.
+
+Fungo del Marciume Mentale
+Il Fungo del Marciume Mentale è una specie rara e pericolosa, che prospera grazie alle energie psichiche degli esseri senzienti. Le sue spore offuscano la mente, dissolvendo lentamente ricordi e conoscenze e lasciando soltanto un guscio vuoto. Non è solo la manifestazione fisica del decadimento, ma l'essenza stessa del dimenticare, uno strumento del desiderio di Moander di cancellare i peccati del passato e rifare il mondo.
+
+Micelio Sussurrante
+Una rete di filamenti sottili, quasi invisibili, che si diffonde nel terreno sotto antiche biblioteche e sacri luoghi del sapere. Comunica a bassa voce, diffondendo segreti e menzogne che seminano dubbio e discordia. Chi ascolta troppo attentamente scopre che i propri pensieri non gli appartengono più, mentre il micelio tesse nuove verità sulla trama di menzogne dimenticate. È la voce di Moander, che diffonde il suo vangelo del decadimento attraverso le radici stesse della civiltà.~
+@1051 = ~Teschio Aperto~
+@1052 = ~Per qualche ragione sconosciuta, la calotta di questo teschio è stata aperta, forse per estrarne il cervello.~
+@1053 = ~Lastra di Metallo~
+@1054 = ~Lastra di Rune Qualith~
+@1055 = ~Questa lastra di metallo è percorsa da strane linee intrecciate~
+@1056 = ~Questa lastra runica reca un'iscrizione nella scrittura dei mind flayer, chiamata 'Qualith'. Vi si legge:
+
+Direttiva di missione: Operazione Sudario Mentale
+
+Agli stimati agenti dell'Ordine dei Predatori del Sapere,
+Per mandato dell'Encefalithid, ci è stato affidato il sacro dovere di estirpare i residui del sapere che si aggrappano alle deboli menti degli abitanti della superficie. Il nostro obiettivo: le prestigiose biblioteche di Baldur's Gate e il sacro archivio di Candlekeep.
+
+La nostra missione ha un duplice scopo:
+- Infiltrazione e infestazione: servitevi dei nostri agenti confusi fra le masse umanoidi per infiltrare le biblioteche di Baldur's Gate. Col favore delle tenebre, impiegate i servitori per infestare tomi, pergamene e manoscritti con la Muffa delle Spore d'Ombra, assicurandovi che ogni parola e ogni simbolo siano consumati dall'oscurità strisciante dell'oblio. Non risparmiate alcun volume nella nostra impresa di liberare il mondo dalle catene della conoscenza.
+
+- Propagazione del decadimento: quando l'infezione avrà attecchito nel cuore di Baldur's Gate, trasportate i testi contaminati nelle sacre sale di Candlekeep. Sotto le mentite spoglie di uno scambio commerciale o diplomatico, introducete i tomi corrotti nella raccolta della sacra biblioteca. Lasciate che le spore del decadimento si diffondano senza ostacoli, disfacendo i fili della storia e della saggezza che avvincono le menti degli abitanti della superficie.
+
+- Mantenete il contatto mentale con gli altri della nostra razza, in particolare con l'Occultato, più a sud.
+
+Ricordate il credo della nostra stirpe: "In assenza di conoscenza, vi è soltanto illuminazione". Nell'annientamento del passato risiede la promessa di una nuova alba, in cui la supremazia degli illithid regnerà incontrastata.
+
+Installate il ricetrasmettitore del Cervello Maestro in un luogo appartato per mantenere il contatto con l'Encefalithid. Usate il vostro Compagno Cerebrale per attivarlo.
+Che l'Encefalithid guidi i vostri pensieri e che i sussurri delle Voci del Vuoto annuncino la vostra vittoria.
+
+Firmato,
+L'Ordine dei Predatori del Sapere~
+@1057 = ~Ricettario della Mamma Rashemi~
+@1058 = ~Il libro è rilegato in cuoio e la copertina è ornata da un cucchiaio e una forchetta corrosi. Purtroppo è interamente ricoperto di muffa verde, che divora la copertina e disgrega le pagine. Lo apri a caso, ma riesci a decifrare soltanto singoli frammenti:
+
+"... p r lo st f to rashemi … ingr d enti: car e, cip lle, agl o e abb nd nte spe ie. Pr nd re il comp sto e p rlo su fu co b sso fin hé il cal re dim nu sce. Agg ung re pom dori a f tte sott li e mesc lare del cat mente… Il segr to è nella gen rosa comb naz one di spe ie ed er e. Cuoc re lent mente per amal am re i sap ri… un re l'ess nza di hish ar e re… Gu rnire con er e fres he e serv re.
+
+Per il tr dizion le orzh rashemi, comin iare con:
+3 taz e di far na,
+1/2 mis ra di s le,
+4 dos di u va,
+1 pizz co di timo di Tilverton,
+mesc lare con abb stan a acq a di cip lla da form re un imp sto den o.
+Scald re la pad lla di gh sa su br ci medie e abb nd re con l'olio.
+Qu ndo è calda, vers re il comp sto e stend rlo unif rmem nte...
+Cuo ere fin hé i bordi sono croc anti e dor ti, poi gir re con ca tela…
+Serv re con una spolv rata di men a elfica fres a e un cont rno di col i sottac to."~
+@1059 = ~Statuetta~
+@1060 = ~Golem di Argilla in Miniatura~
+@1061 = ~Una piccola statuetta, molto probabilmente d'argilla.~
+@1062 = ~Questa piccola statuetta raffigura un golem di argilla. Può trasformarsi in un golem di argilla minore quando viene posata a terra e viene pronunciata la parola di comando. Allo scadere dell'incantesimo, il golem così creato si sbriciola e non può più essere usato.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Creare Golem di Argilla (1 carica)
+  Raggio d'azione: 12 metri
+  Durata: 1 turno
+
+Peso: 6~
+@1063 = ~Divora Cervello~
+@1064 = ~Sfera Insolita~
+@1065 = ~Criptosfera~
+@1066 = ~Questa sfera è composta da tre segmenti, ciascuno finemente decorato con antiche rune e misteriosi meccanismi.~
+@1067 = ~La Criptosfera è un oggetto enigmatico composto da tre distinti segmenti rotanti. Ogni segmento è ornato da un proprio insieme di antiche rune e quadranti tattili, che costituiscono i meccanismi essenziali del congegno. Per aprire l'oggetto, i segmenti devono essere allineati in una particolare configurazione, dettata dalla sequenza logica delle rune. Una volta raggiunta, questa configurazione attiva una serie di ingranaggi e leve interni che, con estrema precisione, sbloccano il vano nascosto della sfera.
+
+All'interno si trovano solitamente oggetti di notevole potere arcano o antiche pergamene conservate in condizioni quasi perfette, protette dall'intricata struttura della sfera. La Criptosfera non mette soltanto alla prova l'intelletto di chi la maneggia, ma custodisce anche conoscenze e poteri ritenuti troppo profondi o pericolosi per i non iniziati.
+
+Peso: 8~
+@1068 = ~Azionare~
+@1069 = ~Presagio Duraturo +2~
+@1070 = ~Questo mazzafrusto magico è stato incantato da singolari energie divine. Se si deve dar credito alle voci, nelle mani di una persona di fede può potenziarne gli incantesimi e prolungarne la durata; e vi sono momenti in cui è proprio questo a fare la differenza fra la sconfitta e la sopravvivenza sul campo di battaglia.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Gli incantesimi divini durano il 10% più del normale
+
+T0: +2
+Danno: 1d6+3 (contundente)
+Fattore-velocità: 5
+Tipo di Competenza: Mazzafrusto/Morning Star
+Tipo: A una mano
+Richiede:
+ Forza 13
+
+Peso: 12~
+@1071 = ~Ragbarth lo Sporco +2~
+@1072 = ~Questo bastone è noto come Ragbarth lo Sporco, e molti potrebbero trovare il nome piuttosto appropriato. È un semplice bastone, ma trasuda una melma verde. La sua magia è intrecciata alla sua natura sudicia... che può risultare alquanto ripugnante ai più.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Bonus ai danni da acido: +10%
+– Ogni colpo andato a segno ha una probabilità del 75% di infliggere 1d2 punti di danno da acido aggiuntivi
+
+T0: +2
+Danno: 1d6+2 (contundente)
+Fattore-velocità: 2
+Tipo di Competenza: Bastone Rinforzato
+Tipo: A due mani
+Richiede:
+ Forza 5
+
+Peso: 3~
+@1073 = ~Vlanakka +2~
+@1074 = ~Quest'arco è noto come Vlanakka. Fu creato da un gruppo di sacerdoti elfici incaricati di forgiare un'arma meravigliosa per un arciere elfo, un eroe che aveva salvato la famiglia di un fabbro del luogo. La benedizione impartita all'arco ne fa un'arma perfetta per affrontare i non morti.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura e Tiri-salvezza contro i non morti: +2
+
+T0: +3
+Danno: +2
+Fattore-velocità: 5
+Tipo di Competenza: Arco Lungo
+Tipo: A due mani
+Richiede:
+ Forza 6
+
+Peso: 2~
+@1075 = ~Triplice Pensiero +3~
+@1076 = ~Questo insolito cristallo può essere usato come arma, sia come una sorta di pugnale sia come un congegno magico capace di creare dardi incantati. A differenza dell'incantesimo, tuttavia, questi possono mancare il bersaglio se chi impugna l'arma non si concentra a dovere.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Intelligenza: +1
+– Resistenza alla Magia: +10%
+
+Abilità in combattimento:
+– Se usato come arma a distanza, può creare 3 dardi, ciascuno dei quali infligge 1 punto di danno magico (sono comunque considerati attacchi e possono mancare il bersaglio)
+
+T0: +3
+Danno: 1d4+3 (perforante)
+Fattore-velocità: 1
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+ Intelligenza 13
+
+Peso: 1~
+@1077 = ~Eone del Sapere~
+@1078 = ~Questo raffinato anello, noto come Eone del Sapere, fu forgiato dalla venerata Maestra del Sapere Halantra, una formidabile sacerdotessa di Oghma. È ornato da elaborate incisioni che simboleggiano la ricerca della saggezza e si dice che chi lo indossa goda della protezione divina di Oghma in persona. Inoltre, il portatore viene pervaso da una profonda conoscenza e la sua mente è illuminata da un flusso inesauribile di intuizioni e comprensione.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+– Tiri-salvezza: +1
+– Permette di memorizzare un incantesimo aggiuntivo di 1° livello, sia arcano sia divino
+– Raddoppia il valore di Conoscenza del personaggio
+
+Peso: 0~
+@1079 = ~Pietra Ioun~
+@1080 = ~Egida Cerulea~
+@1081 = ~Questa è una piccola pietra blu che fluttua seguendo un'orbita intorno alla testa del possessore. È sufficiente equipaggiare la pietra per porla nella sua orbita. Queste pietre evidentemente magiche hanno diverse proprietà a seconda del colore.
+
+STATISTICHE:
+
+Peso: 0~
+@1082 = ~Negli ultimi anni di Netheril, quando la magia scorreva libera come le acque del Mare Stretto, gli arcimaghi crearono meraviglie mai viste al mondo. Fra queste vi era una singolare Pietra Ioun di Zaffiro, nota come Egida Cerulea. 
+
+L'Egida Cerulea fu creata da Arthindol, detto il Veggente della Terra, un mago la cui maestria negli incantamenti e negli incantesimi protettivi non aveva eguali. Intendeva concepire uno scudo contro la crescente minaccia di attacchi e manipolazioni psichiche che affliggevano l'impero. Usando un raro zaffiro estratto dalle profondità del deserto di Anauroch, una regione un tempo rigogliosa e verdeggiante prima che il deserto la reclamasse, Arthindol infuse nella gemma potenti protezioni. Si diceva che rinsaldasse la determinazione del portatore, proteggendolo dalle paure tanto comuni quanto magiche. Inoltre, offriva una difesa impenetrabile contro ogni forma di charme e compulsione, rendendo chi la indossava immune alle insidie di incantatori fatati e manipolatori demoniaci.
+
+Dopo la caduta di Netheril, molti cercarono l'Egida Cerulea, ma, come tanti tesori del mondo antico, essa rimase perduta, in attesa di qualcuno abbastanza ingegnoso da reclamarne il retaggio.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Immunità allo Charme
+– Protegge da ogni forma di panico e aumenta il morale
+
+Peso: 0~
+@1083 = ~Radici dell'Assassino~
+@1084 = ~Vescia~
+@1085 = ~Stivali di Moander~
+@1086 = ~Questi stivali, ricoperti di muffa verde, furono creati dai cultisti di Moander, un antico dio del marciume e del decadimento. Vennero indossati da diversi fedeli del Portatore di Tenebre nelle battaglie contro i numerosi nemici di Moander, molti dei quali veneravano divinità della natura.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Immunità all'intralciamento
+
+Peso: 4~
+@1087 = ~*tossisce*~
+@1088 = ~Scudo Mentale~
+@1089 = ~Scudo Mentale
+(Incantamento/Charme)
+
+Livello: 5
+Sfera: Caos
+Raggio d'azione: 0
+Durata: 2 round
+Tempo di lancio: 1
+Area d'effetto: Il lanciatore
+Tiro-salvezza: Nessuno
+
+Scudo Mentale rende una creatura immune ai comandi magici. Charme, Comando, Confusione, Dominio, Sonno, Labirinto e Serratura Spirituale sono tutti incantesimi che rientrano in questa categoria. Protegge il bersaglio anche dai colpi psionici. Questo incantesimo ha effetto soltanto sul lanciatore e dura appena due round o finché non viene dissolto.~
+@1090 = ~Mela Marcia~
+@1091 = ~Una mela orribilmente marcia.~
+@1092 = ~Foglia Avvizzita~
+@1093 = ~Una foglia avvizzita, i cui margini sono macchiati di muffa grigio azzurra.~
+@1094 = ~Cuore Putrefatto~
+@1095 = ~Questo cuore è afflitto da una strana putrefazione.~
+@1096 = ~Veleno della Volontà Ferrea~
+@1097 = ~Questa pozione viene creata mediante uno strano rituale. Oltre alle sue proprietà letali, racchiude un potente elisir che acuisce la mente e conferisce immunità a ogni forma di influenza mentale. Se chi la beve resiste agli effetti velenosi iniziali, <PRO_HESHE> potrà godere delle proprietà benefiche della mistura.
+
+STATISTICHE:
+
+– Previene debolezza mentale, confusione, stordimento, paura e charme
+– Avvelena chi la beve, infliggendo 18 punti di danno da veleno nei primi 20 secondi
+Durata: 10 round
+
+Peso: 1~
+@1098 = ~Libro Deteriorato~
+@1099 = ~Questo antico tomo è ormai soltanto un'ombra del suo passato splendore. Le pagine sono ingiallite e fragili. Sfogliandolo, scopri che quasi tutte le parole un tempo colme di significato sono sbiadite fino a diventare illeggibili: restano visibili soltanto frammenti delle profezie originali. Occorre maneggiarlo con estrema cura, poiché ogni pagina voltata potrebbe danneggiare ulteriormente questo fragile scrigno di saggezza dimenticata.
+
+Sotto la muffa e la sporcizia, il titolo è appena distinguibile: "Pr f z e d Alaund - Gli mm n m nti e i s p ri d l v gg nt v n rat "
+
+Sfogli le pagine, cercando di decifrare singoli frammenti fra i danni estesi:
+"... e all ra n l g orn d lle ombr , ess sor erà, se n ndo i ci li c n s gni d ten br e luc . I s rv t ri d lla t rra c rch ranno le v r tà nasc ste, il l ro camm no ill m nato s ltanto d l fi co chi r re d lle st lle...
+
+...attr v rso i v li d lla disp raz one, il p rt tore p rc rre la t rra, dil n ata d lle f rie d lla gu rra. Il v gg nte pr d ce l'avv nto d una n tte s nza f ne, d ve la sp ranza c de, ann g ndo n lle mar e d l sap re dim nt cato...
+
+...E qu ndo t tto s mbra p rduto, la l ce d l N rd sv lerà la v rità, nasc sta n l prof ndo d lle ant che rov ne. S lo chi avrà il cor ggio di sf d re le ten bre ott rrà le ch avi per rist bil re l'equ librio d l sap re...
+
+... Il S gn re d ll'Om c dio è d stin to a p r re, ma c n la sua m rte darà or gine ad una pr g nie m rt le. Il ca s fi rirà d lle l ro orme. C sì d sse il s ggio Alaund ..."~
+@1100 = ~Questo libro sembra un'antica cronaca che racconta in dettaglio la vasta storia di Faerûn. La copertina di cuoio, un tempo sontuosa, è ormai screpolata e scrostata, e il titolo è quasi illeggibile. All'interno, le pagine sono macchiate e punteggiate di chiazze brunastre; alcune sono incollate fra loro per i danni della muffa. Nonostante il suo stato rovinoso, il volume sembra custodire un resoconto completo degli imperi e dei regni che un tempo dominarono queste terre.
+
+Sotto la muffa e la sporcizia, il titolo è appena distinguibile: "Stor a d Fa rûn - Un'er di Imp ri e R gni"
+
+Sfogli le pagine, cercando di decifrare singoli frammenti fra i danni estesi:
+"...N ll'era d lla Lun d'Arg nto, le gr ndi citt -stato d l N rd ris rsero d lle c neri d lla gu rra. Capi aud ci e spi tati strin ero alle nze che pl sm rono il panor ma pol tico. L'imp ro di N theril, al suo ap ce, imbr gliava mag e orm i perd te nei sec li, e la sua pot nza era sup rata s lo dalla sua amb zione...
+
+...il decl no di quegli ant chi reg mi avv nne in circost nze mister ose, e le cr nache parl no di una ser e di cat str fi che par vano oper di forze nat rali e sopr nnat rali. La cad ta di M thral H ll rim se a terr bile testim nianza d lla cad cità anche d lle più gr ndi civ ltà..."
+~
+@1101 = ~Occhio dello Spettatore~
+@1102 = ~A differenza dei loro malvagi consanguinei, i beholder, gli spettatori sono una sottospecie di queste aberrazioni originaria del piano di Mechanus, spesso al servizio di Helm sotto il suo sguardo vigile. Noti per la loro relativa neutralità e per il senso del dovere, sono incaricati di custodire luoghi sacri e potenti artefatti, il che ne fa un simbolo ideale di protezione e vigilanza.
+
+Questo particolare amuleto, noto come Occhio dello Spettatore, racchiude l'occhio preservato di uno spettatore che un tempo serviva un tempio di Helm.
+
+Quando viene indossato, l'amuleto accresce la resistenza del portatore contro le aberrazioni più sinistre, come i beholder, offrendo protezione dagli assalti e dalle influenze corruttrici per cui tali creature sono famigerate. 
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura contro le aberrazioni: +2
+– Tiri-salvezza contro le aberrazioni: +2
+
+L'amuleto offre protezione contro le seguenti aberrazioni: beholder, vermeiena, drider, ettercap, illithid e otyugh.
+
+Peso: 1~
+@1103 = ~Appunto Febbrile~
+@1104 = ~Devo ricordare, devo concentrarmi... i sussurri si fanno troppo forti! L'altare di Moander, custodisce il segreto, risponde ai loro sussurri! Devo preparare la pozione, spezzare il loro dominio...
+
+Teschio umano, pozione di guarigione, perla.
+
+Combinare sull'altare di Moander. Creare la pozione velenosa, salvezza o dannazione. 
+
+Resistere ai Padroni, ritrovare me stesso. La pozione è la chiave... devo ricordare!
+~
+
+@1105 = ~Esercito di Denti del Ratto +1~
+@1106 = ~Esercito di Denti del Ratto +1
+Quella che un tempo era una copia rotta della Falce dell'Esercito è stata riparata dalle mani di un ratto mannaro armeggione. Sebbene non eguagli la velocità dell'originale, questa balestra rimane letalmente efficace, soprattutto contro chi è già debilitato.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– 1/2 attacco aggiuntivo per round
+– Il bersaglio ha una probabilità del 25% di contrarre una malattia e subire una penalità di -1 a Costituzione e Carisma per le successive 8 ore o finché la malattia non viene curata (tiro-salvezza contro Morte con penalità di -2 per evitare l'effetto)
+
+T0: +1
+Danno: +1
+Fattore-velocità: 4
+Tipo di Competenza: Balestra
+Tipo: A due mani
+Richiede:
+ Forza 8
+
+Peso: 5~
+
+// Script strings
+@1269 = ~Questa vasca d'acqua sembra più profonda di quanto dovrebbe. Sul fondo giace una vecchia chiave arrugginita. Se vuoi, puoi scrutare più da vicino nella vasca e cercare di afferrarla.~
+@1270 = ~Ti chini per guardare più a fondo nell'acqua e afferrare la chiave.~
+@1271 = ~L'acqua è di nuovo calma. Non c'è altro da vedere in questa vasca.~
+@1272 = ~Immergi la testa nell'acqua.~
+@1273 = ~Con un movimento della mano cerchi di afferrare la chiave. Proprio mentre stai per prenderla, il tuo volto viene trascinato sotto l'acqua della vasca.~
+@1274 = ~Come nella vasca precedente, una chiave giace nell'acqua. Potresti allungare di nuovo la mano per afferrarla.~
+@1275 = ~In questa vasca non c'è alcuna chiave, ma potresti comunque immergerti e vedere che cosa ti attende sotto l'acqua.~
+@1276 = ~Da questa distanza non riesci a vedere dentro la vasca.~
+@1277 = ~Può immergersi nell'acqua soltanto una persona alla volta.~
+@1278 = ~Questo sembra il nucleo dello strano congegno installato qui dagli illithid. Non ne conosci lo scopo, ma noti una piccola apertura che potrebbe consentire l'accesso alla macchina organica. Scorgi un piccolo sedile sul quale potresti accomodarti.~
+@1279 = ~Senza un altro oggetto particolare, non è possibile usare la macchina per altro.~
+@1280 = ~Il Collare Illithid ti conferisce una sorta di controllo sul congegno. Ti introduci al suo interno e chiudi gli occhi.~
+@1281 = ~Senti una trazione sulla tua mente. Sebbene il corpo rimanga nello stesso luogo, la mente si allontana di molte miglia, trasportata dall'energia psichica della macchina illithid...~
+@1282 = ~Il congegno di trasmissione illithid non funziona più...~
+@1283 = ~Il Collare Illithid sembra incanalare poteri psionici. Una grande quantità di energia telepatica comincia ad accumularsi nella stanza...~
+@1284 = ~Una luce intensa penetra nel pozzo dall'alto. Devi aver aperto un accesso segreto alla superficie.~
+@1285 = ~Questa statua raffigura un albero mostruoso che divora persone inermi. La tua origine elfica ti riporta alla mente racconti uditi durante l'infanzia su un'antica divinità chiamata "il Vecchio Ammuffito", nota anche come Moander. La creatura aveva a lungo tiranneggiato gli elfi dell'antica Myth Drannor, prima che riuscissero a distruggere il dio.~
+@1286 = ~Questa statua raffigura un albero mostruoso che divora gli indifesi. Grazie alla tua formazione druidica, hai udito racconti su un'antica divinità nota come Moander. La creatura aveva a lungo tiranneggiato la foresta di Cormanthyr, prima che il dio venisse distrutto.~
+@1287 = ~Questa statua raffigura un albero mostruoso che divora gli indifesi. Sembra rappresentare una divinità defunta, un tempo nota come Moander. L'entità aveva a lungo tiranneggiato molte regioni di Faerûn, prima di essere distrutta.~
+@1288 = ~Una ripugnante statua di un albero mostruoso che divora persone inermi.~
+
+@1400 = ~"Per ordine dei Granduchi, questa zona delle fogne è chiusa, poiché in passato dalle sue profondità è emerso un grande male."~
+@1401 = ~Questa scala a pioli sembra condurre verso l'alto, poiché la luce della superficie filtra dalle fessure di una botola chiusa. Tuttavia, la botola è bloccata e la parte superiore della scala è ritratta. Deve esserci un meccanismo per estenderla.~
+@1402 = ~Questa porta può essere aperta soltanto dal lato opposto.~
+@1403 = ~Una statua imponente incombe minacciosa su un altare, sul quale in passato devono essere stati celebrati numerosi rituali.~
+@1404 = ~Devi avvicinarti per usarlo.~
+
+@1500 = ~Una figura morta galleggia in questa strana capsula.~
+@1501 = ~Sul pavimento è scarabocchiato uno strano simbolo: una mano con una fauce spalancata e piena di zanne.~
+@1502 = ~Sul pavimento è scarabocchiato un simbolo: una mano con una fauce spalancata e piena di zanne. Lo riconosci come il marchio dell'antica divinità Moander, un essere di marciume e decadimento.~
+@1503 = ~"Per ottenere il favore del Dio dalle Fauci, sazia i suoi quattro desideri:
+Decadimento, corruzione, avvizzimento e mortalità."~
+
+@2225 = ~Alle Fogne Sigillate~
+@4000 = ~La nebbia mentale si dissolve e ti ritrovi davanti alla vasca. Ora stringi in mano la chiave che prima giaceva sul fondo.~
+@4001 = ~Devi avvicinarti per conversare con le statue.~
+

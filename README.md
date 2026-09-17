@@ -45,6 +45,7 @@ The mod is available in:
 - Russian
 - Spanish
 - Polish
+- Italian
 
 ---
 
