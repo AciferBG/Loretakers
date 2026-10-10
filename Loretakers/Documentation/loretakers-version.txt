@@ -1,4 +1,7 @@
-Versipon 2.8
+Version 2.9
+- updated Italian localization
+
+Version 2.8
 - Add Italian localization by Sauler89, thank you very much!
  
 Version 2.7
