@@ -3,7 +3,8 @@
 @2    = ~È tuttavia inquietante apprendere che gli illithid abbiano rivolto nuovamente il loro interesse a questa regione. Già in passato la loro oscura presenza ha gettato un'ombra su queste terre, in particolare sui sacri luoghi di Candlekeep. La storia ci insegna che da tempo cercano di infiltrarsi nelle roccaforti del sapere e corromperle, per manipolare la verità e piegare le volontà. Ancora una volta avete sventato i loro sinistri disegni, preservando la purezza della ricerca della verità. Siate vigili, poiché la lotta contro le tenebre non ha mai veramente fine.~
 @3    = ~Ma oggi, grazie a voi, la penna si è dimostrata più potente del tentacolo! Ho raccolto una modesta somma d'oro e questo anello, entrambi pegni della mia immensa gratitudine. Possiate indossarlo con orgoglio, quale simbolo delle vostre gesta eroiche e del segno duraturo lasciato dal vostro valore. Non avete salvato soltanto i miei libri, ma l'essenza stessa del sapere custodito nella nostra città.~
 @4    = ~Venite, confratelli del sapere: informiamo le altre chiese della città che la saggezza è di nuovo al sicuro fra queste mura. Insieme continueremo a difendere la luce della conoscenza e della comprensione.~
-@5    = ~Oghma, Custode della Conoscenza, ascolta la nostra supplica!~
+@5    = ~Oghma, Signore della Conoscenza, ascolta la nostra supplica!~
+
 @6    = ~Ti imploriamo di proteggere il nostro sapere dalle devastazioni dell'oblio. Non lasciare che questo crudele destino spenga la luce della conoscenza!~
 @7    = ~Cercatore Tuck, ora che il Sommo Maestro del Sapere Eyvind è scomparso, dobbiamo preservare quanti più preziosi tomi possibile. Speriamo di trovare aiuto per questi archivi del sapere!~
 @8    = ~Maestro del Sapere Namonder, guardateli! Sono coperti di muffa... forse persino di melma, o di qualcosa di peggio. Non saprei dirlo con certezza, ma, qualunque cosa sia, ha colpito tutti i nostri preziosi volumi!~
@@ -12,16 +13,16 @@
 @11   = ~È COSÌ disgustoso! Tanto disgustoso da fare paura! Non credevo che una cosa del genere potesse capitare a un libro!~
 @12   = ~Questi sacerdoti di Oghma sembrano preoccupati, <CHARNAME>. Di solito hanno molta cura dei loro libri. Perciò questo... questo non sembra affatto naturale.~
 @13   = ~Oh, accidenti... Immagina se uno dei bibliotecari di Candlekeep vedesse questo spettacolo. Gli verrebbe un colpo e cadrebbe stecchito, non credi? Che schifo.~
-@14   = ~Osserva il libro che il sacerdote tiene fra le mani e dimmi se il tuo cuore non cessa di battere per un istante, <CHARNAME>. È doloroso vedere tanto sapere distrutto sotto i nostri occhi, proprio mentre parliamo.~
+@14   = ~Osservate il libro che il sacerdote tiene fra le mani e ditemi se il vostro cuore non cessa di battere per un istante, <CHARNAME>. È doloroso vedere tanto sapere distrutto sotto i nostri occhi, proprio mentre parliamo.~
 @15   = ~Tesori di conoscenza così immensi, sull'orlo dell'oblio eterno... Oghma, sottrai i nostri libri alle grinfie della putrefazione, poiché siamo impotenti dinanzi alla sua inesorabile avanzata!~
 @16   = ~Sì, mmm. Le pagine marciscono. L'odore della perdita. Chi vuole uno spuntino? Mi sembra il momento adatto.~
 @17   = ~Hmm. Insolito. Di solito sono le persone a morire, mentre i libri restano...~
 @18   = ~Per tutte le magie, sembra quasi che un'intera famiglia di lumache abbia fatto baldoria su quel libro. Non che abbia mai visto nulla di simile.~
 @19   = ~Ah! Libri lussuosi che liberano lurida linfa: una leccornia per un lieto luminare dell'occulto! Bene, se è tutto, dovremmo andare.~
 @20   = ~Magnifico. Una congrega di sapienti incapaci reclama il nostro aiuto?~
-@21   = ~Sembra che la nostra sventura abbia attirato l'attenzione di alcuni... avventurieri, non è così? Dopotutto, siete avventurieri, vero, illustre <PRO_LADYLORD>?~
+@21   = ~Sembra che la nostra sventura abbia attirato l'attenzione di alcuni... avventurieri, non è così? Dopotutto, siete un avventuriero, vero, illustre <PRO_LADYLORD>?~ ~Sembra che la nostra sventura abbia attirato l'attenzione di alcuni... avventurieri, non è così? Dopotutto, siete un'avventuriera, vero, illustre <PRO_LADYLORD>?~
 @22   = ~Ho sentito la vostra conversazione. Che cosa è accaduto? O forse dovrei chiedere: per le chiappe di Tyr, com'è potuto accadere?~
-@23   = ~Sembra che abbiate un problema singolare, Maestro del Sapere. Ho trascorso la mia infanzia a Candlekeep e capisco quanto possa essere doloroso vedere questi preziosi libri ridotti così.~
+@23   = ~Sembra che abbiate un problema singolare, Maestro del Sapere. Sono cresciuto a Candlekeep e capisco quanto possa essere doloroso vedere questi preziosi libri ridotti così.~ ~Sembra che abbiate un problema singolare, Maestro del Sapere. Sono cresciuta a Candlekeep e capisco quanto possa essere doloroso vedere questi preziosi libri ridotti così.~
 @24   = ~Affascinante...~
 @25   = ~Dei funghi stanno distruggendo i vostri libri, eh? È una sventura, certo, ma sulla Costa della Spada ci sono problemi più gravi di qualche vecchio tomo ammuffito.~
 @26   = ~Dunque i funghi divorano i vostri vecchi libri? Forse è solo il modo in cui la natura vi suggerisce di procurarvene di nuovi.~
@@ -33,11 +34,12 @@
 @32   = ~Questo tomo, per esempio, è il leggendario "Compendio dei Segreti Dimenticati", che si ritiene sia stato scritto dall'arcimago Ioulaum in persona.~
 @33   = ~E questa è la prima edizione del "Ricettario della Mamma Rashemi".~
 @34   = ~Forse non tutti lo riterranno prezioso, ma è un tomo indispensabile per chiunque abbia mai affrontato l'ardua impresa di trasformare un semplice cavolo in un banchetto degno di un re.~
-@35   = ~Minsc lo conosce! Solo il male più perfido distruggerebbe un libro simile! È terribile! Con la pancia piena di cibo rashemi, Minsc e Boo potrebbero prendere a calci nel sedere i malvagi dall'alba al tramonto!~
+@35   = ~Minsc lo conosce! Solo il male più perfido distruggerebbe un libro simile! È terribile! Con la pancia piena di cibo rashemi, Minsc e Boo potrebbero prendere a calci nelle chiappe i malvagi dall'alba al tramonto!~
+
 @36   = ~Ma le nostre perdite non finiscono qui. "Divinità della Speranza", "Sulle Oscure Profezie", "L'Ultimo Rimpianto di Alaundo", "Gli Occhi del Tempo", "Cronaca degli Anni a Venire"... ciascuno di questi volumi, ormai distrutto o marcio, custodiva una saggezza insostituibile. Anche testi comuni come questo ricettario meritano attenzione, certo, ma erano quei tomi unici, colmi di conoscenze arcane, le nostre risorse più preziose nei tempi di pericolo. Ahimè, ora sono perduti.~
-@37   = ~Mettiamo le cose in chiaro: questa volta io non c'entro. Qui non ho mai preso nulla.~
+@37   = ~Ehi, mettiamo in chiaro una cosa: questa volta io non c'entro! Qui non ho preso proprio niente!~
 @38   = ~Abbiamo perduto anche "Sulle Oscure Profezie" e "L'Ultimo Rimpianto di Alaundo"? Colui che Raccoglie lo Scibile, proteggici...~
-@39   = ~La situazione è grave. Che siate soltanto di passaggio a Baldur's Gate o che viviate qui, illustre <PRO_LADYLORD>, potreste forse aiutarci, se avete qualche momento da dedicarci? Ogni libro perduto impoverisce il nostro sapere e il nostro spirito. Dobbiamo mettere al sicuro ciò che resta e, naturalmente, scoprire chi è responsabile di questa devastazione. Posso darvi maggiori ragguagli?~
+@39   = ~La situazione è grave. Che siate soltanto di passaggio a Baldur's Gate o che ne siate un cittadino, illustre <PRO_LADYLORD>, potreste forse aiutarci, se avete qualche momento da dedicarci? Ogni libro perduto impoverisce il nostro sapere e il nostro spirito. Dobbiamo mettere al sicuro ciò che resta e, naturalmente, scoprire chi è responsabile di questa devastazione. Posso darvi maggiori ragguagli?~ ~La situazione è grave. Che siate soltanto di passaggio a Baldur's Gate o che ne siate una cittadina, illustre <PRO_LADYLORD>, potreste forse aiutarci, se avete qualche momento da dedicarci? Ogni libro perduto impoverisce il nostro sapere e il nostro spirito. Dobbiamo mettere al sicuro ciò che resta e, naturalmente, scoprire chi è responsabile di questa devastazione. Posso darvi maggiori ragguagli?~
 @40   = ~Che cosa ne ricavo?~
 @41   = ~Vi aiuterò, ma come mai non siete riusciti a fermare questa muffa?~
 @42   = ~Ditemi di più su questa muffa che continua a diffondersi.~
@@ -52,9 +54,9 @@
 @51   = ~Non so che cosa stia divorando i vostri libri, ma proverò a fermarlo. Vi aiuterò.~
 @52   = ~No, cercate altrove.~
 @53   = ~Sia lodato Oghma! Il vostro aiuto è più che benvenuto. Vi prego, parlate con il Cercatore Tuck mentre io cerco di preservare questi libri morenti.~
-@54   = ~Credevo di trovare in voi un sostegno per il sapere e i suoi sacri custodi. Ma... forse mi sbagliavo. Addio.~
+@54   = ~Credevo foste un alleato del sapere e dei suoi sacri custodi. Ma... forse mi sbagliavo. Addio.~ ~Credevo foste un'alleata del sapere e dei suoi sacri custodi. Ma... forse mi sbagliavo. Addio.~
 @55   = ~È passato un po' di tempo dal nostro ultimo colloquio. Come procede l'indagine?~
-@56   = ~Forse non mi crederete, ma... ho incontrato dei ratti mannari al servizio di un sacerdote di Moander, che a sua volta serviva gli illithid. Quella che ho trovato, però, non era la loro base principale. Si facevano chiamare Predatori del Sapere e credo che il loro piano fosse ben più vasto. Ma non temete: la loro base di Baldur's Gate è stata distrutta. I vostri libri sono al sicuro.~
+@56   = ~Forse non mi crederete, ma... ho incontrato degli uomini-ratto al servizio di un sacerdote di Moander, che a sua volta serviva gli illithid. Quella che ho trovato, però, non era la loro base principale. Si facevano chiamare Predatori del Sapere e credo che il loro piano fosse ben più vasto. Ma non temete: la loro base di Baldur's Gate è stata distrutta. I vostri libri sono al sicuro.~
 @57   = ~Lasciatemi riprendere fiato. Tornerò da voi e vi racconterò tutto.~
 @58   = ~Questo... questo non può essere vero. Voglio dire... grazie! Grazie per averci salvati!~
 @59   = ~Avete trovato qualche indizio sul nostro Sommo Maestro del Sapere Eyvind? È ancora disperso e ormai temiamo che gli sia accaduto qualcosa.~
@@ -62,7 +64,7 @@
 @61   = ~Sì, dovrebbe stare bene.~
 @62   = ~Vi prego, cercate il nostro Sommo Maestro del Sapere!~
 @63   = ~Oh! Grazie per aver salvato il nostro Sommo Maestro del Sapere!~
-@64   = ~Ma chi l'avrebbe mai detto... illithid? Ratti mannari? Sembra una follia!~
+@64   = ~Ma chi l'avrebbe mai detto... illithid? Uomini-ratto? Sembra una follia!~
 @65   = ~Proprio così.~
 @66   = ~Quando vi abbiamo affidato questa missione, pensavamo si trattasse soltanto di qualche ladro o del piano di una setta vendicativa. Ma ciò che descrivete è ben più bizzarro.~
 @67   = ~Per questo vi ringrazio. Speriamo che questa sconfitta convinca quei mostri a rimanere per sempre nell'ombra.~
@@ -113,7 +115,7 @@
 @112  = ~Vorrei potervi dire di più, ma... è tutto ciò che so.~
 @113  = ~Se volete sapere che aspetto avesse: aveva i capelli arruffati e incolti, indossava una veste simile a quella di un sacerdote e portava una benda sull'occhio sinistro. L'ultima volta è stata vista presso l'ingresso delle fogne... forse vi è tornata dopo aver parlato con il Sommo Maestro del Sapere?~
 @114  = ~D'accordo. Andrò a dare un'occhiata all'ingresso delle fogne accanto al vostro tempio.~
-@115  = ~Laggiù ci sono sempre degli addetti alle fogne. Forse conoscono la donna e i nostri sospetti sono infondati. Vi prego, fatemi sapere se scoprite qualcosa. ~
+@115  = ~Laggiù ci sono sempre degli addetti alle fogne. Forse conoscono la donna e i nostri sospetti sono infondati. Vi prego, fatemi sapere se scoprite qualcosa.~
 @116  = ~Addio. Ricordate che il sapere abbandonato è un tesoro perduto per sempre.~
 @117  = ~Ci rivediamo. Avete scoperto qualcosa sui nostri preziosi tomi o sul nostro Sommo Maestro del Sapere?~
 @118  = ~Ho chiesto della strana donna nelle fogne. A quanto pare, fra gli addetti alla manutenzione non c'è nessuno che le somigli.~

@@ -1,11 +1,11 @@
 @0    = ~Hai già risolto il mio enigma. Prosegui verso le altre Voci del Vuoto.~
-@1    = ~Salute a te che cerchi il sapere. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Vuoi affrontare le domande?~
+@1    = ~Salute, cercatore. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronto ad affrontare le domande?~ ~Salute, cercatrice. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronta ad affrontare le domande?~
 @2    = ~Avanti. Poni il tuo enigma.~
 @3    = ~Dove mi trovo?~
 @4    = ~Voglio andarmene da qui.~
 @5    = ~Che cosa devo fare qui?~
 @6    = ~Al momento non voglio risolvere enigmi.~
-@7    = ~Ti diamo di nuovo il benvenuto, tu che cerchi il sapere. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Vuoi affrontare le domande?~
+@7    = ~Benvenuto di nuovo, cercatore. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronto ad affrontare le domande?~ ~Benvenuta di nuovo, cercatrice. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronta ad affrontare le domande?~
 @8    = ~Ti trovi sull'orlo del Vuoto Neuronale, dove gli abissi della mente si intrecciano ai misteri dell'esistenza. Procedi con cautela, poiché le risposte che cerchi possono condurti all'illuminazione o alle tenebre eterne.~
 @9    = ~D'accordo. Poni il tuo enigma.~
 @10   = ~Fuggire da questo luogo è possibile, ma soltanto per chi dimostra il proprio valore con l'intelletto e l'intuito. Risolvi gli enigmi che ti verranno posti e la via della libertà si rivelerà.~
@@ -29,9 +29,9 @@ E in silenzio la sua fine avvolgo?"~
 @18   = ~Ignoranza.~
 @19   = ~Non voglio risolvere il tuo enigma, per il momento.~
 @20   = ~La risposta è giusta. Soltanto la morte fa dimenticare tutti i torti della vita.~
-@21   = ~Risposta sbagliata! Non vale la pena mettere alla prova una mente tanto stolta!~
+@21   = ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolto!~ ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolta!~
 @22   = ~Prima o poi dovrai risolvere gli enigmi per lasciare questo luogo.~
-@23   = ~Ancora salute a te che cerchi il sapere. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Vuoi affrontare le domande?~
+@23   = ~Ancora salute, cercatore. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronto ad affrontare le domande?~ ~Ancora salute, cercatrice. In questo vuoto, indaghiamo ciò che sostiene il pensiero degli esseri senzienti. Sei pronta ad affrontare le domande?~
 @24   = ~"Sfido il vuoto, qualunque sia il tributo,
 Quando tutto intorno sembra ormai perduto.
 Sono la scintilla che a stento si vede,
@@ -44,7 +44,7 @@ Custodisco il frammento di un sogno che dura?"~
 @28   = ~Forza.~
 @29   = ~Resistenza.~
 @30   = ~La risposta è giusta. La speranza è l'elisir dei deboli. Che tu non debba mai ricorrervi.~
-@31   = ~Non meriti di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
+@31   = ~Non sei degno di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~ ~Non sei degna di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
 @32   = ~Dove manca coscienza e la mente marcisce,
 La speranza si spegne e la morte fiorisce.
 Né pensieri da vagliare, né sogni da narrare,

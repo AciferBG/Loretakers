@@ -1,15 +1,15 @@
 @0    = ~Hai già risolto il mio enigma. Prosegui verso le altre Voci del Vuoto.~
-@1    = ~Salute a te che cerchi il sapere, in questo dominio della mente. Noi, le Voci del Vuoto, custodi della coscienza, metteremo il tuo ingegno alla prova suprema. Ti porremo enigmi da risolvere per saggiare il tuo acume e la tua volontà, e permetterti di ottenere la chiave sul fondo della vasca. Non fallire, poiché le conseguenze sono terribili; ma se avrai successo, potrai prendere la chiave che schiude nuove porte e sentieri inesplorati.~
+@1    = ~Salute, cercatore, in questo dominio della mente. Noi, le Voci del Vuoto, custodi della coscienza, metteremo il tuo ingegno alla prova suprema. Ti porremo enigmi da risolvere per saggiare il tuo acume e la tua volontà, e permetterti di ottenere la chiave sul fondo della vasca. Non fallire, poiché le conseguenze sono terribili; ma se avrai successo, potrai prendere la chiave che schiude nuove porte e sentieri inesplorati.~ ~Salute, cercatrice, in questo dominio della mente. Noi, le Voci del Vuoto, custodi della coscienza, metteremo il tuo ingegno alla prova suprema. Ti porremo enigmi da risolvere per saggiare il tuo acume e la tua volontà, e permetterti di ottenere la chiave sul fondo della vasca. Non fallire, poiché le conseguenze sono terribili; ma se avrai successo, potrai prendere la chiave che schiude nuove porte e sentieri inesplorati.~
 @2    = ~Avanti. Poni il tuo enigma.~
 @3    = ~Dove mi trovo?~
 @4    = ~Voglio andarmene da qui.~
 @5    = ~Che cosa devo fare qui?~
 @6    = ~Al momento non voglio risolvere enigmi.~
-@7    = ~Ti diamo di nuovo il benvenuto in questo dominio della mente, tu che cerchi il sapere. Qui il tuo ingegno sarà messo alla prova. Se fallirai, subirai danno. Se avrai successo, altre porte si apriranno per te.~
+@7    = ~Benvenuto di nuovo, cercatore, in questo dominio della mente. Qui il tuo ingegno sarà messo alla prova. Se fallirai, subirai danno. Se avrai successo, altre porte si apriranno per te.~ ~Benvenuta di nuovo, cercatrice, in questo dominio della mente. Qui il tuo ingegno sarà messo alla prova. Se fallirai, subirai danno. Se avrai successo, altre porte si apriranno per te.~
 @8    = ~Ti trovi sull'orlo del Vuoto Mentale, dove gli abissi della mente si intrecciano ai misteri dell'esistenza. Procedi con cautela, poiché le risposte che cerchi possono condurti all'illuminazione o alle tenebre eterne.~
 @9    = ~D'accordo. Poni il tuo enigma.~
 @10   = ~Fuggire da questo luogo è possibile, ma soltanto per chi dimostra il proprio valore con l'intelletto e l'intuito. Risolvi gli enigmi che ti verranno posti e la via della libertà si rivelerà. Ma bada: il cammino è irto di pericoli e il prezzo del fallimento è alto.~
-@11   = ~Sei qui per trovare la chiave della prossima porta. Hai varcato la soglia del Vuoto Mentale e, per uscirne e ottenere la chiave, dovrai risolvere i nostri enigmi, che metteranno alla prova il tuo intelletto.~
+@11   = ~Sei giunto qui per trovare la chiave della prossima porta. Hai varcato la soglia del Vuoto Mentale e, per uscirne e ottenere la chiave, dovrai risolvere i nostri enigmi, che metteranno alla prova il tuo intelletto.~ ~Sei giunta qui per trovare la chiave della prossima porta. Hai varcato la soglia del Vuoto Mentale e, per uscirne e ottenere la chiave, dovrai risolvere i nostri enigmi, che metteranno alla prova il tuo intelletto.~
 @12   = ~Ascolta dunque con attenzione e rispondi correttamente alla mia domanda...~
 @13   = ~"Sono il sussurro del fato sovrano,
 Nei venti del tempo mi libro lontano.
@@ -28,7 +28,7 @@ Una guida a ciò che ancora non è presente?"~
 @18   = ~Profezia.~
 @19   = ~Non voglio risolvere il tuo enigma, per il momento.~
 @20   = ~La risposta è giusta. Fra i sussurri del fato, la profezia attende. Procedi con cautela: la sua luce risplende!~
-@21   = ~Risposta sbagliata! Non vale la pena mettere alla prova una mente tanto stolta!~
+@21   = ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolto!~ ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolta!~
 @22   = ~Prima o poi dovrai risolvere gli enigmi per lasciare questo luogo.~
 @23   = ~"Sono l'eco di istanti ormai andati,
 Nei corridoi del tempo serbati.
@@ -45,8 +45,8 @@ Della storia lo scrigno libero e sincero?"~
 @26   = ~Amore.~
 @27   = ~Forza.~
 @28   = ~Intuito.~
-@29   = ~La risposta è giusta. Nell'abbraccio della memoria, echi di grazia e di storia. Prosegui nella tua ricerca.~
-@30   = ~Non meriti di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
+@29   = ~La risposta è giusta. Nell'abbraccio della memoria, echi di grazia e di storia. Prosegui, cercatore.~ ~La risposta è giusta. Nell'abbraccio della memoria, echi di grazia e di storia. Prosegui, cercatrice.~
+@30   = ~Non sei degno di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~ ~Non sei degna di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
 @31   = ~Senza memoria, le menti son gusci vuoti,
 Nel vuoto del sapere l'ignoranza dimora.
 Né profezie a guidarle, né verità da narrare,

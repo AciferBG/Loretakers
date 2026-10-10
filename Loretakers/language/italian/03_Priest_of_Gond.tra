@@ -1,6 +1,6 @@
-@0    = ~Mi mandano i Maestri del Sapere del tempio di Oghma. Alcuni dei loro libri sono stati distrutti da una sostanza insolita. Vorrei sapere se avete riscontrato problemi analoghi o se avete visto uno dei loro Maestri del Sapere intento a indagare sulla faccenda.~
+@0    = ~Sono stato mandato dai Maestri del Sapere del tempio di Oghma. Alcuni dei loro libri sono stati distrutti da una sostanza insolita. Sono venuto qui per verificare se avete riscontrato problemi analoghi o se avete visto uno dei loro Maestri del Sapere intento a indagare sulla faccenda.~ ~Sono stata mandata dai Maestri del Sapere del tempio di Oghma. Alcuni dei loro libri sono stati distrutti da una sostanza insolita. Sono venuta qui per verificare se avete riscontrato problemi analoghi o se avete visto uno dei loro Maestri del Sapere intento a indagare sulla faccenda.~
 @1    = ~Dovreste parlare con il nostro Maestro Durnan. È proprio qui, dall'altra parte della sala. Sa tutto di queste faccende.~
-@2    = ~Vi do il benvenuto, voi che ricercate il sapere e l'arte del creare. Sono Durnan, Sommo Sacerdote di Gond. Come posso aiutarvi nel vostro cammino di scoperta e creazione?~
+@2    = ~Benvenuto, cercatore del sapere e dell'artigianato. Sono Durnan, alto sacerdote di Gond. Come posso aiutarvi nel vostro cammino di scoperta e creazione?~ ~Benvenuta, cercatrice del sapere e dell'artigianato. Sono Durnan, alto sacerdote di Gond. Come posso aiutarvi nel vostro cammino di scoperta e creazione?~
 @3    = ~Dunque... non hanno ancora trovato un rimedio? Non so se sia una buona o una cattiva notizia. In effetti, anche alcuni dei nostri libri sono stati distrutti. E abbiamo trovato strane pozze di melma vicino al luogo dove li custodiamo. Ma di recente ci sono stati rubati anche alcuni preziosi tomi.~
 @4    = ~E sì, il Sommo Maestro del Sapere Eyvind è stato qui, non molto tempo fa! Abbiamo parlato della possibile origine di questo flagello. Diceva che la muffa colpiva soprattutto libri molto particolari. Voleva indagare ulteriormente e ha lasciato il nostro tempio.~
 @5    = ~Dove si è recato il Maestro del Sapere?~
@@ -11,7 +11,7 @@
 @10   = ~Non ancora.~
 @11   = ~Ho parlato con la donna di cui dite. Chiedeva di consultare libri su Gond, Alaundo e il Periodo dei Disordini. Abbiamo respinto la sua richiesta, poiché consentiamo soltanto ai nostri membri fidati di leggere quei testi. Da allora continua ad aggirarsi qui fuori.~
 @12   = ~È da un po' che si trova nei paraggi. Non parla e non so se rappresenti una minaccia. Be'... sembra averne passate molte nella vita. Dubito che sia coinvolta in qualche malefatta.~
-@13   = ~Se volete parlarle, di solito si trova vicino alla fontana, poco a sud della Sala.~
+@13   = ~Se volete parlarle, di solito si trova vicino alla fontana, poco a sud della Sala delle Meraviglie.~
 @14   = ~Allora andrò a farle visita.~
 @15   = ~Credo sia giunto il momento di affrontarla.~
 @16   = ~Che la vostra conversazione possa far luce su questi misteriosi eventi. Possa l'ingegno di Gond benedire la vostra ricerca! Addio.~

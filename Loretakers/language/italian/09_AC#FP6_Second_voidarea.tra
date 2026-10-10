@@ -1,11 +1,11 @@
 @0    = ~Hai già risolto il mio enigma. Prosegui verso le altre Voci del Vuoto.~
-@1    = ~Salute a te che cerchi il sapere. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Vuoi affrontare le domande?~
+@1    = ~Salute, cercatore. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronto ad affrontare le domande?~ ~Salute, cercatrice. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronta ad affrontare le domande?~
 @2    = ~Avanti. Poni il tuo enigma.~
 @3    = ~Dove mi trovo?~
 @4    = ~Voglio andarmene da qui.~
 @5    = ~Che cosa devo fare qui?~
 @6    = ~Al momento non voglio risolvere enigmi.~
-@7    = ~Ti diamo di nuovo il benvenuto, tu che cerchi il sapere. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Vuoi affrontare le domande?~
+@7    = ~Benvenuto di nuovo, cercatore. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronto ad affrontare le domande?~ ~Benvenuta di nuovo, cercatrice. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronta ad affrontare le domande?~
 @8    = ~Ti trovi sull'orlo del Vuoto Neuronale, dove gli abissi della mente si intrecciano ai misteri dell'esistenza. Procedi con cautela, poiché le risposte che cerchi possono condurti all'illuminazione o alle tenebre eterne.~
 @9    = ~D'accordo. Poni il tuo enigma.~
 @10   = ~Fuggire da questo luogo è possibile, ma soltanto per chi dimostra il proprio valore con l'intelletto e l'intuito. Risolvi gli enigmi che ti verranno posti e la via della libertà si rivelerà. Ma bada: il cammino è irto di pericoli e il prezzo del fallimento è alto.~
@@ -29,9 +29,9 @@ Un deserto per la mente in esplorazione?"~
 @18   = ~Ignoranza.~
 @19   = ~Non voglio risolvere il tuo enigma, per il momento.~
 @20   = ~La risposta è giusta. Avanza e spera di non cadere mai preda dell'ignoranza o della stupidità.~
-@21   = ~Risposta sbagliata! Non vale la pena mettere alla prova una mente tanto stolta!~
+@21   = ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolto!~ ~Risposta sbagliata! La tua mente non merita di essere messa alla prova, stolta!~
 @22   = ~Prima o poi dovrai risolvere gli enigmi per lasciare questo luogo.~
-@23   = ~Ancora salute a te che cerchi il sapere. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Vuoi affrontare le domande?~
+@23   = ~Ancora salute, cercatore. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronto ad affrontare le domande?~ ~Ancora salute, cercatrice. In questo vuoto, la consapevolezza si affievolisce lentamente e i sentimenti benevoli si fanno maligni. La vera natura del vuoto si rivela a poco a poco. Sei pronta ad affrontare le domande?~
 @24   = ~"Deformo il passato, silente e sottile,
 Infetto il pensiero come un morbo ostile.
 I ricordi che un tempo davano piacere,
@@ -46,7 +46,7 @@ E ciò che hai caro distorco di continuo?"~
 @28   = ~Forza.~
 @29   = ~Resistenza.~
 @30   = ~La risposta è giusta. Prosegui e cerca di preservare i tuoi veri ricordi.~
-@31   = ~Non meriti di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
+@31   = ~Non sei degno di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~ ~Non sei degna di avanzare oltre nel mondo del pensiero! Subisci il castigo della stupidità!~
 @32   = ~In un regno d'inganni, la slealtà è sovrana,
 Dove il falso prospera, la verità è in catene.
 L'ignoranza regna, la saggezza è disprezzata,

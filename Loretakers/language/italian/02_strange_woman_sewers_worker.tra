@@ -2,7 +2,7 @@
 @1    = ~Siete uno degli addetti alle fogne?~
 @2    = ~Io... credo che vi lascerò al vostro lavoro. Qualunque esso sia.~
 @3    = ~E che ti pare, eh? Che sono un intenditore di cucina venuto a esaminare la merda del posto prima di scrivere come i cuochi sfamano la gente di Baldur's Gate?~
-@4    = ~Ti risparmio la fatica. Sì, lavoro nelle fogne per la Gilda dei Cantinieri e degli Idraulici. Belster Turnstone. Ti stringerei la mano, ma... fidati, non ti conviene.~
+@4    = ~Ti risparmio la fatica. Sì, lavoro nelle fogne per la Gilda dei Cantinieri e degli Idraulici. Belster Pivotstone. Ti stringerei la mano, ma... fidati, non ti conviene.~
 @5    = ~La Gilda... dei Cantinieri e degli Idraulici? Cosa...?~
 @6    = ~Sto indagando su una faccenda. Sta succedendo qualcosa di strano ai libri e uno dei sacerdoti ha visto una donna che ha scambiato per un'addetta alle fogne. Capelli incolti. Una benda su un occhio.~
 @7    = ~Gilda dei Cantinieri e degli Idraulici. Che credi, eh? Che non possiamo organizzarci pure noi? Ci occupiamo di Waterdeep e... perché non aprire una sede anche a Baldur's Gate, eh?~
@@ -34,7 +34,7 @@
 @33   = ~Non vi credo.~
 @34   = ~Il sacerdote di Oghma ha detto che fissavate uno dei libri. Speravate che il Maestro del Sapere lasciasse cadere anche quello?~
 @35   = ~Aspettate! Un momento...~
-@36   = ~A dire il vero, io... ~
+@36   = ~A dire il vero, io...~
 @37   = ~Non sono stata del tutto sincera. Non... non ha senso continuare a ingannarvi. Non ho cattive intenzioni. Mi chiamo Etate.~
 @38   = ~Anch'io sto indagando su chi si cela dietro la distruzione di questi libri. È per questo che mi aggiravo da queste parti. Sospetto che ci sia qualcosa di insolito all'origine di tutto questo disastro. Ho offerto il mio aiuto, ma le chiese lo hanno rifiutato.~
 @39   = ~Ed è per questo che vi hanno vista vicino a entrambi i templi?~
@@ -56,7 +56,7 @@
 @55   = ~Non vi credo. Penso che vi ucciderò e deciderò il da farsi quando sarete a terra, fredda e immobile.~
 @56   = ~La decisione spetta a voi. Ma rivelandovi la mia fede ho corso un rischio considerevole. Un simile atto di fiducia non andrebbe respinto con leggerezza.~
 @57   = ~D'accordo. Ditemi quello che sapete.~
-@58   = ~Sono lieta che uniamo le forze, ma dobbiamo essere prudenti. Proseguiamo questa conversazione in un luogo più sicuro: non possiamo sapere chi ci osserva.~
+@58   = ~Sono lieta che abbiamo deciso di unire le forze, ma la prudenza è essenziale. Proseguiamo questa conversazione in un luogo più sicuro: non possiamo sapere chi ci osserva.~
 @59   = ~Dove dovremmo parlarne, allora?~
 @60   = ~Possiamo andare altrove, ma ricordate che non ho ancora deciso se fidarmi di voi.~
 @61   = ~No. Vi ucciderò. Non mi fido di voi e il mio istinto mi dice che non posso lasciarvi andare!~
@@ -69,14 +69,14 @@
 @68   = ~Ci incontreremo davanti a un ingresso sbarrato sotto questa zona. Molti anni fa la città chiuse una parte delle fogne dopo che una pestilenza era emersa dalle loro profondità. Si dice che sotto quei cunicoli sorga un tempio dedicato a un male antico, un luogo avvolto in oscuri segreti e dimenticato dal tempo. Gli abitanti chiamano quel tratto semplicemente "Fogne Sigillate", poiché un grande portone ne sbarra l'accesso. Sospetto che il morbo che affligge i libri provenga da lì e che sia forse legato alle energie oscure che ancora albergano in quel tempio abbandonato.~
 @69   = ~Raggiungetemi davanti al passaggio sigillato nelle fogne. Per arrivarci, tornate al tempio di Oghma e scendete nelle fogne dall'ingresso proprio accanto al santuario. Una volta sotto, dirigetevi a sud, poi imboccate il cunicolo a ovest. Quindi, nel punto in cui i cunicoli si incontrano, andate a nord-ovest. Il cunicolo giusto è più stretto degli altri.~
 @70   = ~I sentieri che ci attendono sono irti di ombre e segreti. Preparatevi, poiché la nostra missione non sarà facile. Vi aspetterò laggiù.~
-@71   = ~Non vi lascerò uccidermi, folli!~
-@72   = ~Sono felice che siate qui! Voglio dire... no, non dovevate venire! Andatevene prima che...~
+@71   = ~Non vi lascerò uccidermi, stolto!~ ~Non vi lascerò uccidermi, stolta!~
+@72   = ~Sono felice che siate venuto! Voglio dire... no, non sareste dovuto venire! Andatevene prima che...~ ~Sono felice che siate venuta! Voglio dire... no, non sareste dovuta venire! Andatevene prima che...~
 @73   = ~Qui sono all'opera poteri ben più grandi. Più grandi di me o di voi. E non si possono ostacolare.~
 @74   = ~Allora andiamo ad affrontarli!~
 @75   = ~Credevo che dovessimo incontrarci qui?~
 @76   = ~Perché vi comportate in modo così strano?~
 @77   = ~Sapevo che sarebbe finita male.~
-@78   = ~Sembrate una persona ragionevole. Volete davvero che tutto finisca nella violenza?~
+@78   = ~Sembrate ragionevole. Volete davvero che tutto finisca nella violenza?~
 @79   = ~No, no, non dovrei... Vi prego, ascoltate: andatevene subito! Il pericolo, qui, va ben oltre i libri che marciscono. C'è un'oscurità che controlla ogni cosa... che controlla me!~
 @80   = ~Io... devo obbedire al Padrone. La voce del Padrone... mi sopraffà. Cerco di resistere, davvero, ma sta diventando troppo forte. I suoi sussurri... sono dentro la mia testa, rodono ogni pensiero. Mi sto perdendo... mi sto abbandonando a lui.~
 @81   = ~Per me è troppo tardi... Il Padrone reclama tutto, divora tutto. Salvatevi, sfuggite a questo destino. Ricordate: non fidatevi delle ombre, non fidatevi delle voci nell'oscurità... Mi dispiace, mi dispiace tanto...~
