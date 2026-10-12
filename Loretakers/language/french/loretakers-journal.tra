@@ -1,0 +1,51 @@
+//Journal translation files
+// Main quest: meeting priests of Oghma
+@100000 = ~Le savoir en décomposition\n\nDans le quartier central de Porte de Baldur, au sanctuaire d'Oghma, j'ai rencontré deux prêtres oghmites désespérés. Ils m'ont parlé d'un mystérieux fléau qui faisait pourrir leurs livres. J'ai accepté de les aider à découvrir ce qui se cachait derrière cette destruction. Je dois parler au Chercheur Tuck afin d'en apprendre davantage sur la situation.~
+
+@100001 = ~Le savoir en décomposition\n\nL'un des prêtres oghmites, le Chercheur Tuck, m'a parlé d'une étrange femme qui se tenait non loin de là et discutait avec le chef de leur temple avant sa disparition. Je devrais emprunter l'entrée des égouts voisine du sanctuaire d'Oghma et voir si quelqu'un là-dessous sait où se trouve le Grand Maître du Savoir ou possède des informations sur cette femme.~
+
+@100002 = ~Le savoir en décomposition\n\nL'égoutier ne m'a été d'aucune aide. Il ne connaît pas la femme que je recherche et n'a pas vu le Maître du Savoir. Je devrais retourner voir le Chercheur Tuck et lui demander quoi faire ensuite.~
+
+@100003 = ~Le savoir en décomposition\n\nLa prochaine étape de mon enquête pour l'Église d'Oghma sera la Haute Maison des Merveilles, le temple de Gond à Porte de Baldur. Je devrais trouver un prêtre de Gond susceptible de m'aider. Peut-être le Maître du Savoir disparu s'est-il rendu auprès de l'Église de Gond pour demander de l'aide.~
+
+@100004 = ~Le savoir en décomposition\n\nL'Église de Gond rencontre elle aussi des problèmes avec des livres contaminés. Le prêtre n'a pas pu m'indiquer où se trouvait le Maître du Savoir disparu, mais il a mentionné avoir croisé la même étrange femme. Il paraît qu'elle se tient près de la fontaine devant la Haute Maison des Merveilles. Je dois la retrouver et découvrir si elle peut éclaircir ce qui se passe réellement.~
+
+@100005 = ~Le savoir en décomposition\n\nJ'ai rencontré l'étrange femme. Elle s'appelle Etate. Elle aussi enquête sur la cause de la décomposition des livres. Elle soupçonne que l'origine de la moisissure se trouve dans une partie bien précise des égouts, qu'elle appelle les « Égouts scellés ». Je dois retourner au temple d'Oghma et descendre dans les égouts par l'entrée juste à côté. Une fois en bas, je devrai me diriger vers le sud, puis prendre le tunnel à l'ouest. À l'endroit où plusieurs tunnels se rejoignent, il faudra aller vers le nord-ouest. Le bon tunnel est plus étroit que les autres et mène à l'entrée condamnée.~
+
+@100006 = ~Le savoir en décomposition\n\nMa rencontre avec la femme dans les Égouts scellés a tourné au drame. C'était un piège : je suis tombé en plein dans une embuscade de rats-garous. Malgré ses efforts apparents pour résister à la force invisible qui contrôlait ses actes, elle n'a pas réussi à se libérer de son emprise. Je n'ai finalement eu d'autre choix que de la tuer pour me défendre.~
+
+@100007 = ~Le savoir en décomposition\n\nJ'ai découvert une clé sur le corps de la femme manipulée par une force mystérieuse. Elle ouvre la porte condamnée qui mène aux profondeurs des « Égouts scellés ». Au-delà de cette barrière se trouve sans doute la source du mal qui a frappé les livres sacrés d'Oghma et la malheureuse femme elle-même.~
+
+@100010 = ~Le savoir en décomposition\n\nJ'ai découvert l'origine des livres contaminés : un prêtre de l'ancienne divinité Moandre se terre dans les profondeurs sous Porte de Baldur, animé par le désir de détruire tous les livres au nom de son dieu. L'éliminer devrait mettre fin à la destruction des ouvrages. Cependant, le véritable cerveau de ce complot demeure entouré de mystère. Je dois m'enfoncer davantage dans les anciennes catacombes afin de percer les secrets restants et découvrir qui tire réellement les ficelles.~
+
+@100011 = ~Le savoir en décomposition\n\nLe véritable coupable apparaît désormais clairement : des illithids se sont installés dans une chambre centrale sous Porte de Baldur et comptent effacer tout le savoir de la ville ! La suite est évidente : je dois retrouver et libérer le Maître du Savoir disparu, puis désactiver l'étrange dispositif illithid qui semble être à l'origine de tout ce mal.~
+
+@100012 = ~Le savoir en décomposition\n\nJ'ai réussi à désactiver l'étrange dispositif illithid. Au cours de l'opération, j'ai aperçu un gigantesque cerveau vénérable dont les sinistres projets sont inquiétants. Cependant, en démantelant la cellule de flagelleurs mentaux de Porte de Baldur, j'ai sérieusement perturbé leurs plans. Mon prochain objectif est de retrouver le Maître du Savoir afin de quitter cet endroit abominable aussi vite que possible.~
+
+@100020 = ~Le savoir en décomposition\n\nJ'ai libéré le Maître du Savoir disparu des griffes des illithids. Il m'a témoigné sa gratitude et m'attend au sanctuaire d'Oghma pour me remettre la récompense de tous mes efforts.~
+
+@100021 = ~Le savoir en décomposition\n\nLe Maître du Savoir Eyvind m'a exprimé sa profonde gratitude pour l'avoir sauvé et avoir préservé ses livres, puis m'a généreusement offert une récompense bien méritée pour mes efforts.~
+
+@110001 = ~Le véritable amour ne se fane jamais
+
+Dans les vieux égouts, j'ai rencontré un homme égaré qui récitait une étrange comptine. Le poème parlait d'un amour passé, de la mort, du clair de lune, d'une rose et d'une « fontaine de la déesse de la chance ». Je me demande ce que cela peut bien signifier.~
+
+@110002 = ~Le véritable amour ne se fane jamais
+
+J'ai donné la rose de l'ermite des « Égouts scellés » à une apparition fantomatique près de la fontaine voisine du temple de Tymora. Elle était heureuse et soulagée de pouvoir enfin quitter ce monde. Peut-être l'homme retrouvera-t-il la raison si je peux lui rappeler son amour grâce à quelque objet ?~
+
+@110003 = ~Le véritable amour ne se fane jamais
+
+L'ermite des égouts s'est réjoui lorsque je lui ai apporté le mouchoir de sa bien-aimée. Rempli d'un nouvel espoir, il a quitté les égouts pour chercher ailleurs une vie meilleure.~
+
+@120000 = ~Un sale boulot de rat
+
+J'ai rencontré Scronch, chef d'un clan de rats-garous. Il m'a demandé de tuer un ermite au nord des vieux égouts, et j'ai accepté.~
+
+@120001 = ~Un sale boulot de rat
+
+J'ai tué l'ermite. Je devrais retourner voir Scronch, le chef des rats-garous, et réclamer ma récompense.~
+
+@120002 = ~Un sale boulot de rat
+
+Scronch, le chef des rats-garous, était ravi que j'aie tué l'ermite. Il m'a remis une récompense avant de disparaître.~
