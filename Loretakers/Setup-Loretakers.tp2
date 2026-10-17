@@ -146,6 +146,24 @@ LANGUAGE ~Italiano by Sauler~
          ~Loretakers/language/italian/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/italian/13_Cryptosphere.tra~
 
+LANGUAGE ~French by Deratiseur~
+         ~french~
+         ~Loretakers/language/french/Setup-Loretakers.tra~
+         ~Loretakers/language/french/loretakers-journal.tra~
+         ~Loretakers/language/french/01_Quest_start_and_finish.tra~
+         ~Loretakers/language/french/02_strange_woman_sewers_worker.tra~
+         ~Loretakers/language/french/03_Priest_of_Gond.tra~
+         ~Loretakers/language/french/04_Ghostlady_AR0600.tra~
+         ~Loretakers/language/french/05_AC#FP1_Abandoned_sewers.tra~
+         ~Loretakers/language/french/06_AC#FP2_temple_of_Moander.tra~
+         ~Loretakers/language/french/07_AC#FP3_Oryndoll_Cutscene.tra~
+         ~Loretakers/language/french/08_AC#FP4_First_voidarea.tra~
+         ~Loretakers/language/french/09_AC#FP6_Second_voidarea.tra~
+         ~Loretakers/language/french/10_AC#FP5_Third_voidarea.tra~
+         ~Loretakers/language/french/11_AC#FP7_Fourth_voidarea.tra~
+         ~Loretakers/language/french/12_Sune_Priest_AC#FP1.tra~
+         ~Loretakers/language/french/13_Cryptosphere.tra~
+
 BEGIN ~Loretakers V 2.9~
 
 INCLUDE ~Loretakers/lib/functions.tph~

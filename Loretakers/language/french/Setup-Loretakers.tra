@@ -1,0 +1,219 @@
+@0= ~Pilleurs de Savoir~
+
+@56 = ~Géant fomorien~
+
+@63 = ~Rat-garou~
+@64 = ~Cette pierre ressemble en tout point à celle qui se trouve de l'autre côté. Là encore, vous pourriez essayer d'effacer les lignes tracées à sa surface.~
+@65 = ~La pierre pulse d'une douce lumière. Vous remarquez de fins dessins éparpillés sur sa surface. Vous pourriez essayer de les effacer.~
+@66 = ~Vous touchez la surface et les lignes disparaissent. Soudain, une violente vague de désespoir absolu submerge votre esprit.~
+@67 = ~Lorsque vous entrez dans la pièce, une vague d'émotions haineuses et cruelles vous submerge. En face, deux pierres palpitantes émettent une lueur sinistre et semblent tenter d'influencer votre esprit.~
+@68 = ~La magie de la pierre s'est éteinte. Elle ne paraît plus que froide et inerte.~
+
+@77 = ~Wrimbog~
+@86 = ~Belster Turnstone~
+@87 = ~Égoutier~
+@88 = ~Viceak~
+@89 = ~Rickul~
+@90 = ~Feyr~
+@91 = ~Vuardsungulu~
+@92 = ~Bagut~
+@93 = ~Petian~
+@94 = ~Urthadar~ 
+@95 = ~Étrange aquatique~
+@96 = ~Otyugh~
+@97 = ~Mousse mémorielle~
+@98 = ~Vase blanche~
+@99 = ~Ralx~ // Wererat Mage
+@100 = ~Traqueur rampant~
+@101 = ~Scronch~
+@102 = ~Rennack~
+@103 = ~Créature captive~
+@104 = ~Grand Maître du Savoir Eyvind~ // Cleric of Oghma 
+@105 = ~L'Encéphalithide~
+@106 = ~Aimil~
+@107 = ~Orateur du Vide~
+@108 = ~Oblex~
+@109 = ~Ombre mentale~
+@110 = ~Maître du Savoir Namonder~
+@111 = ~Chercheur Tuck~
+@112 = ~Égoutier~
+@113 = ~Etate~
+@114 = ~Statue impie~
+@115 = ~Esclave~
+@116 = ~Golem d'argile mineur~
+@117 = ~Maître Durnan~
+@118 = ~Rat-garou malade~
+@119 = ~Tyrannœil mort-vivant~
+@120 = ~Sewerm~
+@121 = ~Obliviax~
+@122 = ~Momie des marais~
+
+@1000 = ~Masque de Jymahna~
+@1001 = ~Masque de Jymahna~
+@1002 = ~Masque de Jymahna~
+@1003 = ~Masque de Jymahna~
+@1004 = ~Clé de porte~
+@1005 = ~Vous avez trouvé cette clé dans la salle du basilic des vieux égouts. Elle semble correspondre à une porte importante.~
+@1006 = ~Clé illithid~
+@1007 = ~Vous avez trouvé cette clé sur le cadavre de l'ulitharid Vuardsungulu.~
+@1008 = ~Clé de la statue~
+@1009 = ~Vous avez trouvé cette clé dans le crâne d'une statue de l'ancien temple de Moandre.~
+@1010 = ~Clé du bassin~
+@1011 = ~Vous avez repêché cette clé dans un bassin des vieux égouts.~
+@1012 = ~Vous avez repêché cette clé dans le deuxième bassin des vieux égouts. Elle ouvre peut-être la troisième porte verrouillée.~
+@1013 = ~Cette clé est froide au toucher. Elle provient de la pièce où se trouvait le bassin glacé. Vous l'avez prise sur une Vase blanche. Elle ouvre peut-être la quatrième porte verrouillée.~
+@1014 = ~Vous avez pris cette clé à une créature difforme nommée Wrimbog dans les vieux égouts. Elle ouvre peut-être la dernière porte verrouillée.~
+@1019 = ~Bouclier de l'Aube~
+@1020 = ~Ce bouclier est fait de bronze massif. Malgré la patine qui s'est formée sur le métal, il brille encore d'une chaleureuse teinte jaune doré. La bosse centrale est ornée d'un soleil levant, symbole de Lathandre. Les morts-vivants semblent craindre ce symbole ainsi que la chaleur qui en émane. Le bouclier ne peut être porté par les prêtres d'alignement mauvais.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Classe d'Armure : +2\n– Aucune protection contre les attaques de projectiles\n– Ajoute un niveau à la capacité « Repousser les morts-vivants » des prêtres et des paladins\n\nNécessite :\n 4 en Force\n\nPoids : 3~
+@1021 = ~Cette clé dégage une odeur de renfermé et de végétaux pourris. Vous l'avez prise à un tertre errant.~
+@1022 = ~Mousse mémorielle~
+@1023 = ~Cette mousse est le vestige d'une plante appelée obliviax, tristement célèbre pour sa capacité à voler les souvenirs. Les mages, en particulier, feraient bien de se tenir loin de cette espèce s'ils ne veulent pas risquer de perdre leurs sorts mémorisés. Heureusement, manger ce morceau de mousse produit l'effet inverse : il permet au mage de se remémorer certains sorts déjà lancés. En revanche, l'ingestion de ses rhizoïdes charnus risque de provoquer de sérieux troubles digestifs.
+
+CARACTÉRISTIQUES :
+
+– Rend un sort de niveau 1 lorsqu'elle est consommée
+– En cas d'échec au jet de sauvegarde contre la mort, le personnage contracte une maladie qui inflige à <PRO_HIMHER> cinq points de dégâts par round pendant trois rounds
+
+Poids : 1~
+@1024 = ~Un morceau de mousse~
+@1025 = ~Un morceau de mousse aux reflets verdâtres qui sent la terre et les plantes moisies~
+@1026 = ~Sort récupéré~
+@1027 = ~Collier illithid~
+@1028 = ~Compagnon cérébral~
+@1029 = ~Vous avez pris ce collier au chef illithid Vuardsungulu. Il contient une petite fiole de matière organique.~
+@1030 = ~Lorsque les illithids s'éloignent beaucoup de leur communauté, ils perdent le contact avec leur Cerveau vénérable. Pour des êtres habitués au partage constant des pensées, des connaissances et des perceptions de celui-ci, cette rupture peut être profondément déstabilisante.\n\nLes groupes qui voyagent longtemps hors de portée d'un Cerveau vénérable peuvent recourir à un intermédiaire. Les illithids participant à des expéditions moins ambitieuses sont souvent contraints de raidir les tentacules et de supporter la perte de contact, à moins de faire partie des rares chanceux qui possèdent un compagnon cérébral.\nLe compagnon cérébral est une sphère de matériau translucide d'environ dix centimètres de diamètre, dans laquelle flotte un minuscule cerveau sectionné au sein d'un liquide épais et visqueux. Lorsqu'ils l'utilisent, les illithids portent souvent cet objet au bout d'une chaîne autour du cou, ou le conservent à l'abri dans un coffre soigneusement rembourré.\n\nL'objet ne possède aucune propriété magique et n'est utile qu'aux illithids.~
+@1031 = ~Mouchoir~
+@1032 = ~C'est le mouchoir qui appartenait à la femme fantôme près de la fontaine voisine du temple de Tymora.~
+@1033 = ~Rouage~
+@1034 = ~Un petit rouage, probablement retiré d'un mécanisme plus important afin de le rendre inutilisable.~
+@1035 = ~Rose~
+@1036 = ~Une rose rouge au parfum délicat.~
+@1037 = ~Flûte~
+@1038 = ~Flûtes des égouts~
+@1039 = ~Cet instrument est une sorte de flûte de Pan faite de tuyaux sales et légèrement rouillés.~
+@1040 = ~Les Flûtes des égouts sont des flûtes de Pan enchantées, conçues pour influencer le comportement de certains rongeurs. Lorsqu'on en joue, ces instruments mystiques peuvent appeler des rats se trouvant jusqu'à trois cents mètres de distance, qui accourent alors vers le musicien. Leur magie se renouvelle chaque jour à l'aube.\n\nCARACTÉRISTIQUES :\n\nCapacités de charge :\n– L'utilisateur peut invoquer une nuée de rats une fois par jour\n  Durée : 10 rounds\n\nPoids : 1\n~
+@1041 = ~Bouteille lunatique~
+@1042 = ~Bouteille de l'Esprit Courroucé~
+@1043 = ~Cette bouteille contient une étrange substance noire qui tourbillonne sans cesse, même lorsque vous ne l'inclinez dans aucune direction. Le récipient dégage un froid surnaturel et il devient rapidement désagréable de le garder en main.~
+@1044 = ~Un esprit mort-vivant agité est emprisonné dans cette bouteille, attendant d'être libéré pour détruire tous ceux qui se trouvent à proximité de son contact drainant la vie.\n\nCARACTÉRISTIQUES :\n\nLorsque le bouchon est ouvert, un spectre s'échappe et attaque toute cible dans son champ de vision.~
+@1045 = ~Clé des vieux égouts~
+@1046 = ~C'est la clé des vieux égouts situés sous Porte de Baldur.~
+@1047 = ~Journal d'Urthadar~
+@1048 = ~Voici le journal d'Urthadar, prêtre de Moandre, qui a établi dans les vieux égouts sous Porte de Baldur un temple consacré à son dieu défunt. Le texte est confus, mais certains passages attirent votre attention :\n\n« Jour de la Naissance des Spores\nDes visions ont de nouveau tourmenté mes rêves, éclatantes et impérieuses. Le grand Moandre me parle depuis l'au-delà ; sa voix murmure parmi les ombres et guide mes mains vers un dessein grandiose. Il m'ordonne d'éveiller la terre, d'insuffler la vie aux spores endormies dans les ténèbres. “Répands les champignons”, murmure-t-il, “qu'ils dévorent le savoir du monde.” J'ai donc quitté Torsch, dans la forêt de Chondal, et entrepris le long voyage vers le nord, car mes visions m'avaient envoyé jusqu'à Porte de Baldur, sur la Côte des Épées.\n\nJour de l'Expansion des Hyphes\nLa culture progresse. Mes enfants, les champignons, prospèrent dans les ténèbres de mon sanctuaire. Chaque espèce est une clé destinée à briser les chaînes qui retiennent mon seigneur. Aujourd'hui, une nouvelle espèce a fleuri ; ses spores scintillent comme des étoiles dans le vide. Elles ont faim de mots écrits, avec un appétit qui rivalise même avec mon propre zèle. À chaque livre qu'elles dévorent, je sens la présence de Moandre se renforcer et sa résurrection se rapprocher.\n\nJour de la Convergence Croissante\nUne percée dans mes travaux. Les spores peuvent désormais dissoudre encre et parchemin avec une efficacité inquiétante. Mes rêves sont plus nets ; la voix de Moandre devient plus claire. Il me montre un monde libéré du poids du savoir ancien, un monde mûr pour son règne. Je serai son héraut, celui qui ouvrira la voie à son retour. L'ancien doit être éradiqué pour que le nouveau puisse éclore.\n\nJour de l'Émergence Fructifère\nLe doute s'insinue aujourd'hui dans mon cœur. Une faiblesse passagère, peut-être. La destruction que je provoque m'accable : des siècles de sagesse et d'histoire disparaissent. Mais alors je me rappelle mon but, le commandement divin. La volonté de Moandre est absolue, sa vision de l'avenir infaillible. Je ne suis qu'un serviteur choisi pour exécuter son grand dessein. La perte du savoir est un sacrifice nécessaire à la renaissance.\n\nJour de la Dissémination des Spores\nCette nuit, mes rêves étaient différents. Ce n'était pas une vision, mais une visitation. Les Orateurs du Vide, créatures d'une intelligence et d'une puissance considérables, m'ont contacté. Ils ont parlé d'une alliance, de buts communs et d'avantages mutuels. La voix de Moandre est restée silencieuse cette nuit, mais le message était clair. Ces êtres aux esprits insondables sont la clé de la résurrection de mon seigneur. Ils me guident non comme de faux prophètes, mais comme des alliés dans le grand éveil. Ils m'ont permis de contempler le bassin et d'entrevoir ce que Moandre souhaite transformer.\n\nJour de la Colonisation de la Moisissure\nJ'ai réussi à remettre en état le chaudron rouillé de l'ancien temple. C'est un “Chaudron du Destin”, un objet légendaire qui me permet de créer des zombies lorsque je jette un cadavre dans la cuve ! Mes alliés, les Orateurs du Vide, ne semblent pas apprécier que j'invoque des morts-vivants... mais pourquoi ?\n\nJour de la Décomposition Décroissante\nJe vois désormais la grande tapisserie du plan de Moandre, tissée aussi bien de tromperie que de vérité. Les Orateurs du Vide ne sont que des instruments de sa résurrection ; leurs objectifs s'accordent avec sa volonté divine. Je dois poursuivre mon œuvre et répandre la décomposition jusqu'au jour où Moandre marchera de nouveau dans ce monde. Ma foi ne vacille pas, mon but est clair. La fin du savoir sera le commencement de l'illumination. »\n~
+@1049 = ~Codex de la Sporogenèse~
+@1050 = ~Codex de la Sporogenèse : révélation des secrets de la décomposition\n\nLes spores et moisissures rares suivantes sont idéales pour éradiquer le savoir :\n\nChampignon du Chapeau-du-Vide\nProspérant dans les ombres les plus profondes, le Champignon du Chapeau-du-Vide ressemble à une déchirure dans la trame même de la réalité. Ses chapeaux absorbent la lumière et paraissent être des puits noirs sans fond. Ingérées, ses spores provoquent des visions de néant infini, un aperçu de l'abîme appelé à engloutir le savoir du monde. Elles annoncent le silence, dévorant les mots et les souvenirs qui osent défier l'oubli à venir.\n\nMoisissure des Spores d'Ombre\nCette moisissure rampante se répand comme une ombre sinistre sur tout ce qui porte la marque de l'orgueil de la civilisation : livres, parchemins et volumes. Elle se nourrit de l'encre et ne laisse derrière elle que des pages blanches, comme si le savoir n'avait jamais existé. En sa présence, on peut entendre de faibles murmures, derniers souffles des connaissances perdues, témoignage de la volonté de Moandre de reprendre et d'anéantir les structures du monde connu.\n\nChampignon de Pourriture Mentale\nLe Champignon de Pourriture Mentale est une espèce rare et dangereuse qui se nourrit de l'énergie psychique des êtres conscients. Ses spores obscurcissent l'esprit, dissolvant lentement souvenirs et connaissances jusqu'à ne laisser qu'une coquille vide. Il n'est pas seulement l'incarnation physique de la décomposition, mais l'essence même de l'oubli, un agent du désir de Moandre d'effacer les péchés du passé et de refaire le monde.\n\nMycélium Murmurant\nRéseau de filaments fins, presque invisibles, le Mycélium Murmurant se répand sous le sol des bibliothèques anciennes et des lieux sacrés consacrés à l'étude. Il communique à voix basse, propageant secrets et mensonges qui sèment le doute et la discorde. Ceux qui l'écoutent de trop près découvrent que leurs pensées ne leur appartiennent plus, tandis que le mycélium tisse de nouvelles vérités à partir de mensonges oubliés. Il est la voix de Moandre, répandant son évangile de décomposition jusque dans les racines mêmes de la civilisation.~
+@1051 = ~Crâne ouvert~
+@1052 = ~Pour une raison inconnue, le sommet de ce crâne a été ouvert, peut-être afin d'en retirer le cerveau.~
+@1053 = ~Panneau métallique~
+@1054 = ~Panneau de runes qualith~
+@1055 = ~Ce panneau métallique est parcouru d'étranges lignes entrecroisées.~
+@1056 = ~Ce panneau est couvert de l'écriture des flagelleurs mentaux, appelée « qualith ». On peut y lire :
+
+Directive de mission : Opération Voile Mental
+
+Aux agents estimés du Credo des Pilleurs de Savoir,
+Par mandat de l'Encéphalithide, nous sommes investis du devoir sacré d'éradiquer les vestiges de savoir auxquels s'accrochent les faibles esprits des habitants de la surface. Nos cibles : les prestigieuses bibliothèques de Porte de Baldur et le dépôt sacré de Château-Suif.
+
+Notre mission est la suivante :
+– Infiltration et infestation : utilisez nos agents dissimulés parmi les masses humanoïdes pour infiltrer les bibliothèques de Porte de Baldur. À la faveur des ténèbres, employez des serviteurs pour contaminer volumes, parchemins et manuscrits avec la Moisissure des Spores d'Ombre, afin que chaque mot, chaque symbole soit dévoré par les ténèbres rampantes de l'oubli. Qu'aucun ouvrage ne soit épargné dans notre entreprise visant à libérer le monde des chaînes du savoir.
+
+– Propagation de la décomposition : une fois l'infection enracinée au cœur de Porte de Baldur, transportez les textes contaminés jusque dans les salles sacrées de Château-Suif. Sous couvert de commerce ou d'échanges diplomatiques, introduisez les ouvrages corrompus dans les collections de la bibliothèque sacrée. Que les spores de la décomposition s'y répandent sans entrave, défaisant les fils de l'histoire et de la sagesse qui lient les esprits des habitants de la surface.
+
+– Maintenez le contact mental avec les autres membres de notre espèce, en particulier avec ceux qui se cachent plus au sud.
+
+Souvenez-vous du credo de notre peuple : « En l'absence de savoir, il n'existe que l'illumination. » Dans l'anéantissement du passé réside la promesse d'une aube nouvelle, où la suprématie des illithids régnera sans partage.
+
+Installez le transmetteur du Cerveau vénérable dans un lieu isolé afin de maintenir le contact avec l'Encéphalithide. Utilisez votre compagnon cérébral pour activer le transmetteur.
+Puisse l'Encéphalithide guider vos pensées, et puissent les murmures des Orateurs du Vide annoncer votre victoire.
+
+Signé,
+Le Credo des Pilleurs de Savoir~
+@1057 = ~Livre de cuisine de la mère rashémi~
+@1058 = ~Le livre est relié de cuir et sa couverture est décorée d'une cuillère et d'une fourchette corrodées. Malheureusement, il est entièrement couvert d'une moisissure verte qui dévore la couverture et désagrège les pages. Vous ouvrez une page au hasard, mais ne parvenez à déchiffrer que quelques fragments :\n\n« ... p ur ragoût rashémi... ingréd ents : vi nde, oign ns, ail, et un soupç n d'ép ces. Met re le mél nge dans une marm te sur feu d ux jusqu'à ce que la vi nde soit t ndre. Aj uter des tom tes fin ment tranchées et rem er doucem nt... Le secr t rés de dans le bon dos ge des ép ces et des herbes. Cu re lent ment afin de fondre les sav urs... Garn r d'herbes fraî hes et serv r.\n\nPour les b rzhs rashémi tradit onnels, commencer avec :\n3 t sses de far ne,\n1/2 cuill rée de sel,\n4 gros œ fs,\n1 cuill rée de thym de Tilverton,\nmél nger avec juste assez d'e u pour former une pâte ép isse.\nFaire chau fer une poêle en fonte sur des bra ses moyennes avec un peu d'hu le.\nUne fois chaude, vers r le mélange et l'ét ler uniformém nt...\nCu re jusqu'à ce que les bords soient croust llants et dorés, puis ret urner avec préc ution...\nServ r avec une p ncée de menthe elf que fraîche et quelques corn chons. »~
+@1059 = ~Figurine~
+@1060 = ~Golem d'argile miniature~
+@1061 = ~Une petite figurine, très probablement en argile.~
+@1062 = ~Il s'agit d'une petite figurine sculptée représentant un golem d'argile. Elle peut se transformer en golem d'argile mineur lorsque l'objet est posé au sol et que le mot de commande est prononcé. À l'expiration du sort, le golem créé s'effondre en poussière et l'objet ne peut plus être utilisé.\n\nCARACTÉRISTIQUES :\n\nCapacités de charge :\n– Crée un golem d'argile (1 charge)\n  Portée : 12 m\n  Durée : 1 tour\n\nPoids : 6~
+@1063 = ~Dévorer le cerveau~
+@1064 = ~Sphère étrange~
+@1065 = ~Cryptosphère~
+@1066 = ~Cette sphère se compose de trois segments, chacun finement décoré de runes anciennes et de mécanismes mystérieux.~
+@1067 = ~La Cryptosphère est un objet énigmatique composé de trois segments distincts pouvant pivoter. Chacun porte son propre ensemble de runes anciennes et de cadrans tactiles servant de mécanismes de commande. Pour déverrouiller l'objet, les trois segments doivent être alignés selon une configuration précise dictée par la séquence logique des runes. Une fois cette configuration obtenue, une série d'engrenages et de leviers internes se met en mouvement pour libérer méticuleusement le compartiment secret de la sphère.\n\nÀ l'intérieur, on trouve généralement des objets d'une grande puissance arcanique ou d'anciens parchemins conservés dans un état presque parfait grâce à la conception complexe de la sphère. La Cryptosphère met non seulement à l'épreuve l'intelligence de celui qui la manipule, mais sert aussi de gardienne à des savoirs et des pouvoirs jugés trop profonds ou trop dangereux pour les non-initiés.\n\nPoids : 8~
+@1068 = ~Manipuler~
+@1069 = ~Présage durable +2~
+@1070 = ~Ce fléau magique a été enchanté par d'étonnantes énergies divines. À en croire les rumeurs, entre les mains d'une personne de foi, il peut renforcer ses sorts et prolonger leur durée, ce qui est parfois exactement ce qu'il faut pour survivre et remporter une bataille.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Les sorts divins durent 10 % plus longtemps que la normale\n\nTAC0 : +2\nDégâts : 1d6+3 (contondants)\nFacteur de vitesse : 5\nType de maîtrise : Fléau/Morgenstern\nType : à une main\nNécessite :\n 13 en Force\n\nPoids : 12~
+@1071 = ~Ragbarth le Crasseux +2~
+@1072 = ~Ce bâton est connu sous le nom de Ragbarth le Crasseux, et beaucoup jugeront ce nom parfaitement approprié. Il s'agit d'un bâton assez simple, mais une vase verte en suinte constamment. Sa magie est intimement liée à sa nature sale et répugnante... ce qui le rend peu séduisant pour la plupart des gens.\n\nCARACTÉRISTIQUES :\n\nCapacités de combat :\n– Bonus aux dégâts d'acide : +10 %\n– Chaque coup réussi a 75 % de chances d'infliger 1d2 points de dégâts d'acide supplémentaires\n\nTAC0 : +2\nDégâts : 1d6+2 (contondants)\nFacteur de vitesse : 2\nType de maîtrise : Bâton\nType : à deux mains\nNécessite :\n 5 en Force\n\nPoids : 3~
+@1073 = ~Vlanakka +2~
+@1074 = ~Cet arc est connu sous le nom de Vlanakka. Il fut créé par un groupe de prêtres elfes auxquels on avait ordonné de fabriquer une arme exceptionnelle pour un archer elfe, héros qui avait sauvé la famille d'un forgeron local. L'arc fut béni, ce qui en fait une arme idéale contre les morts-vivants.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Classe d'Armure et jets de sauvegarde contre les morts-vivants : +2\n\nTAC0 : +3\nDégâts : +2\nFacteur de vitesse : 5\nType de maîtrise : Arc long\nType : à deux mains\nNécessite :\n 6 en Force\n\nPoids : 2~
+@1075 = ~Triple Pensée +3~
+@1076 = ~Ce cristal inhabituel peut servir d'arme, aussi bien comme une dague que comme un dispositif magique capable de créer des projectiles magiques. Contrairement au sort, ces projectiles peuvent toutefois manquer leur cible si le porteur ne se concentre pas correctement.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Intelligence : +1\n– Résistance à la magie : +10 %\n\nCapacités de combat :\n– Utilisé à distance, peut créer 3 projectiles infligeant chacun 1 point de dégâts magiques (ils comptent toujours comme des attaques et peuvent donc manquer leur cible)\n\nTAC0 : +3\nDégâts : 1d4+3 (perforants)\nFacteur de vitesse : 1\nType de maîtrise : Dague\nType : à une main\nNécessite :\n 13 en Intelligence\n\nPoids : 1~
+@1077 = ~Éon du Savoir~
+@1078 = ~Ce magnifique anneau, connu sous le nom d'Éon du Savoir, fut forgé par la vénérée Maîtresse du Savoir Halantra, puissante prêtresse d'Oghma. Orné de gravures complexes symbolisant la quête de sagesse, il est dit que ceux qui le portent bénéficient de la protection divine d'Oghma lui-même. De plus, ses porteurs sont imprégnés d'un savoir profond, leur esprit éclairé par un flot ininterrompu d'intuition et de compréhension.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Classe d'Armure : +1\n– Jets de sauvegarde : +1\n– Permet de mémoriser un sort supplémentaire de niveau 1 (profane ou divin)\n– La valeur de connaissance du personnage est doublée\n\nPoids : 0~
+@1079 = ~Pierre ioun~
+@1080 = ~Garde Céruléenne~
+@1081 = ~Il s'agit d'une petite pierre bleue qui flotte en orbite autour de la tête de son propriétaire. Il suffit de l'équiper pour la placer en orbite. Ces pierres manifestement magiques possèdent des propriétés différentes selon leur couleur.\n\nCARACTÉRISTIQUES :\n\nPoids : 0~
+@1082 = ~Dans les dernières années de Néthéril, lorsque la magie coulait aussi librement que les eaux de la Mer Étroite, les archimages façonnaient des merveilles encore inconnues du monde. Parmi elles figurait une pierre ioun de saphir unique, appelée la Garde Céruléenne.\n\nLa Garde Céruléenne fut créée par Arthindol, surnommé le Terravoyant, mage dont la maîtrise des enchantements et des sorts de protection était sans égale. Il voulait concevoir un rempart contre les attaques et manipulations psychiques de plus en plus fréquentes qui menaçaient l'empire. À l'aide d'un rare saphir extrait des profondeurs du désert d'Anauroch, région autrefois luxuriante avant d'être engloutie par les sables, Arthindol imprégna la gemme de puissantes protections. On disait qu'elle fortifiait la détermination de son porteur et le protégeait contre les peurs, ordinaires comme magiques. Elle offrait en outre une défense impénétrable contre toute forme de charme et de coercition, rendant son porteur insensible aux artifices des enchanteurs féeriques comme des manipulateurs infernaux.\n\nAprès la chute de Néthéril, beaucoup recherchèrent la Garde Céruléenne, mais, comme tant de trésors de l'ancien monde, elle demeura perdue, attendant quelqu'un d'assez ingénieux pour revendiquer son héritage.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Le porteur est immunisé contre les charmes\n– Protège contre toutes les formes de panique et améliore le moral\n\nPoids : 0~
+@1083 = ~Racines de l'Assassin~
+@1084 = ~Vesse-de-loup~
+@1085 = ~Bottes de Moandre~
+@1086 = ~Ces bottes couvertes de moisissure verte furent créées par des cultistes de Moandre, ancien dieu de la pourriture et de la décomposition. Elles furent portées par plusieurs fidèles du Porteur des Ténèbres lorsqu'ils combattirent les nombreux ennemis de Moandre, dont beaucoup vénéraient des divinités de la nature.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Immunité à l'enchevêtrement\n\nPoids : 4~
+@1087 = ~*tousse*~
+@1088 = ~Bouclier mental~
+@1089 = ~Bouclier mental\n(Enchantement/Charme)\n\nNiveau : 5\nSphère : Chaos\nPortée : 0\nDurée : 2 rounds\nTemps d'incantation : 1\nZone d'effet : le lanceur\nJet de sauvegarde : aucun\n\nBouclier mental rend une créature immunisée contre les ordres magiques. Charme, Ordre, Confusion, Domination, Sommeil, Labyrinthe et Verrou spirituel appartiennent tous à cette catégorie. Ce sort protège également la cible contre les décharges psioniques. Il n'affecte que le lanceur et ne dure que deux rounds, ou jusqu'à dissipation.~
+@1090 = ~Pomme décomposée~
+@1091 = ~C'est une pomme affreusement pourrie.~
+@1092 = ~Feuille flétrie~
+@1093 = ~Une feuille flétrie dont les bords sont tachés d'une moisissure bleu-gris.~
+@1094 = ~Cœur pourri~
+@1095 = ~Ce cœur est atteint d'une étrange putréfaction.~
+@1096 = ~Poison de la Volonté de Fer~
+@1097 = ~Cette potion est préparée au cours d'un étrange rituel. Au-delà de ses propriétés mortelles, elle renferme un puissant breuvage qui aiguise l'acuité mentale et confère une immunité à toute forme d'influence psychique. Si l'utilisateur résiste aux premiers effets du poison, <PRO_HESHE> bénéficiera des propriétés favorables de la mixture.\n\nCARACTÉRISTIQUES :\n\n– Protège contre la débilité mentale, la confusion, l'étourdissement, la peur et le charme\n– L'utilisateur subit 18 points de dégâts de poison au cours des 20 premières secondes\nDurée : 10 rounds\n\nPoids : 1~
+@1098 = ~Livre décomposé~
+@1099 = ~Cet ancien ouvrage n'est plus que l'ombre de ce qu'il fut. Ses pages sont jaunies et cassantes. En les tournant, vous constatez que la plupart des paroles autrefois profondes se sont effacées, ne laissant visibles que des fragments des prophéties d'origine. Il faut le manipuler avec la plus grande précaution, car chaque page tournée risque d'endommager davantage ce fragile réceptacle d'une sagesse oubliée.\n\nSous toute la moisissure et la crasse, le titre est à peine lisible : « Pr phét es d'Al und - Les av rtiss ments et la s gesse du V yant »\n\nVous feuilletez les pages en essayant de déchiffrer quelques fragments au milieu des dégâts :\n« ... t dans l' ge des ombr s, il s'élèv ra, marqu nt les ci ux de s gnes de t nébres et de lumi re. Les voy nts de la t rre chercher nt les vérit s cach es, leur chem n écl iré par la faible lumi re des éto les...\n\n... travers les vo les du déses oir, leur port ur parc urt la terre, déchir e par les feux de la gu rre. L'éto le ann nce la venue d'une nuit sans f n, où l'esp ir faibl t, noyé dans les mar es d'un sav ir oubli ...\n\n... Et quand t ut semblera perdu, la lumi re du Nord dévoil ra la vérit , cach e au fond des ru nes d'antan. Seul le chev lier assez brave pour déf er les tén bres obti ndra les cl s permettant de rétabl r l'équ libre du sav ir...\n\n... Le Seign ur du Meur re pér ra, mais de sa fin naî ra une progén ture mort lle. Le cha s sera semé par son pass ge. Ainsi parl it le sage Alaundo... »~
+@1100 = ~Ce livre semble être une ancienne chronique relatant la vaste histoire de Faerûn. Sa couverture autrefois richement travaillée est désormais craquelée et s'effrite, son titre à peine lisible. À l'intérieur, les pages sont tachées et piquées ; certaines ont été soudées les unes aux autres par les ravages de la moisissure. Malgré son état délabré, le volume paraît contenir un récit très complet des empires et royaumes qui régnèrent autrefois sur ces terres.\n\nSous toute la moisissure et la crasse, le titre est à peine lisible : « Hist ire de Fa rûn - Âge des Emp res et Roy umes »\n\nVous feuilletez les pages en essayant de déchiffrer quelques fragments au milieu des dégâts :\n« ... À l'épo ue des Sept yens, les grandes cités-Ét ts du Nord renaquir nt des cendres de la gu rre. Des chefs, à la fois aud cieux et impit yables, forgèr nt des alli nces qui façonnèr nt le pays ge politique. L'emp re de Néth ril, à son apog e, maîtris it des magies aujourd'hui perd es, sa puiss nce n'étant surpass e que par son ambit on...\n\n... le décl n de ces anc ens rég mes surv nt dans des circonst nces mystér euses, les chron ques évoqu nt une série de catast ophes mêlant des forces nat relles et surnat relles. La chute de Mithr l Hall resta un témoign ge glaç nt de l'imperm nence même des plus grandes civilis tions... »\n~
+@1101 = ~Œil de Spectateur~
+@1102 = ~Contrairement à leurs cousins malveillants, les tyrannœils, les Spectateurs constituent une sous-espèce de ces aberrations originaire du plan de Méchanus et servent souvent sous le regard vigilant de Heaum. Connus pour leur relative neutralité et leur sens du devoir, ils sont chargés de garder des lieux sacrés et de puissants artefacts, ce qui en fait un symbole idéal de protection et de vigilance.\n\nCette amulette, appelée Œil de Spectateur, contient l'œil préservé d'un Spectateur qui servit autrefois dans un temple de Heaum.\n\nPortée, l'amulette accroît la résistance de son propriétaire face aux aberrations les plus sinistres, comme les tyrannœils, et le protège de leurs assauts ainsi que des influences corruptrices dont ces créatures sont réputées capables.\n\nCARACTÉRISTIQUES :\n\nCapacités une fois équipé :\n– Classe d'Armure contre les aberrations : +2\n– Jets de sauvegarde contre les aberrations : +2\n\nL'amulette offre une protection contre les aberrations suivantes : tyrannœil, charognard rampant, drider, ettercap, illithid et otyugh.\n\nPoids : 1~
+@1103 = ~Note affolée~
+@1104 = ~Ne pas oublier, rester concentré... les murmures deviennent trop forts ! L'autel de Moandre, il détient le secret, il leur renvoie leurs murmures ! Il faut préparer la potion, briser leur emprise...\n\nCrâne humain, potion de soins, perle.\n\nMélanger sur l'autel de Moandre. Créer la potion empoisonnée. Salut ou damnation.\n\nRésister aux Maîtres, me retrouver. La potion, c'est la clé... ne pas oublier !\n~
+
+@1105 = ~L'Armée de Dents du Rat +1~
+@1106 = ~L'Armée de Dents du Rat +1\nCe qui n'était autrefois qu'une réplique brisée de la Faux de l'Armée a été réparé par les mains habiles d'un bricoleur rat-garou. Si cette arbalète n'égale pas la vitesse de l'originale, elle reste mortellement efficace, surtout contre les adversaires déjà affaiblis.\n\nCARACTÉRISTIQUES :\n\nCapacités de combat :\n– 1/2 attaque supplémentaire par round\n– 25 % de chances que la cible contracte une maladie lui infligeant -1 en Constitution et en Charisme pendant 8 heures ou jusqu'à guérison (jet de sauvegarde contre la mort à -2 pour éviter l'effet)\n\nTAC0 : +1\nDégâts : +1\nFacteur de vitesse : 4\nType de maîtrise : Arbalète\nType : à deux mains\nNécessite :\n 8 en Force\n\nPoids : 5~
+
+// Script strings
+@1269 = ~Ce bassin semble plus profond qu'il ne devrait l'être. Au fond repose une vieille clé rouillée. Si vous le souhaitez, vous pouvez vous pencher davantage et tenter de l'attraper.~
+@1270 = ~Vous vous penchez pour regarder plus profondément dans l'eau et saisir la clé.~
+@1271 = ~L'eau est redevenue calme. Il n'y a plus rien à voir dans ce bassin.~
+@1272 = ~Vous plongez la tête sous l'eau.~
+@1273 = ~D'un geste de la main, vous tentez d'attraper la clé. Au moment où vos doigts vont la saisir, votre visage est brusquement tiré sous l'eau du bassin.~
+@1274 = ~Comme dans le bassin précédent, une clé repose dans l'eau. Vous pourriez de nouveau tendre le bras pour la récupérer.~
+@1275 = ~Il n'y a pas de clé dans ce bassin, mais vous pourriez tout de même plonger sous l'eau pour découvrir ce qui vous y attend.~
+@1276 = ~Vous ne pouvez pas voir l'intérieur du bassin depuis cette distance.~
+@1277 = ~Une seule personne à la fois peut s'immerger dans l'eau.~
+@1278 = ~Cela semble être le cœur de l'étrange dispositif installé ici par les illithids. Vous ignorez sa fonction, mais remarquez une petite ouverture permettant de pénétrer dans la machine organique. À l'intérieur se trouve une sorte de siège sur lequel vous pourriez vous installer.~
+@1279 = ~Sans un autre objet bien précis, la machine ne peut servir à rien de plus.~
+@1280 = ~Le collier illithid vous donne une certaine maîtrise du dispositif. Vous vous glissez à l'intérieur et fermez les yeux.~
+@1281 = ~Vous sentez une force tirer sur votre esprit. Votre corps reste au même endroit, mais votre conscience est projetée à des kilomètres de là, portée par l'énergie psychique de la machine illithid...~
+@1282 = ~Le dispositif de transmission illithid ne fonctionne plus...~
+@1283 = ~Le collier illithid semble canaliser des pouvoirs psioniques. Une grande quantité d'énergie télépathique commence à s'accumuler dans la pièce...~
+@1284 = ~Une vive lumière descend dans le conduit depuis très haut. Vous devez avoir ouvert un accès secret vers la surface.~
+@1285 = ~Cette statue représente un arbre monstrueux dévorant des êtres sans défense. En tant qu'elfe, vous avez entendu dans votre enfance des histoires au sujet d'une ancienne divinité appelée « le Vieux Moisi », également connue sous le nom de Moandre. Cette créature tyrannisa longtemps les elfes de l'ancienne Myth Drannor avant qu'ils ne parviennent à détruire le dieu.~
+@1286 = ~Cette statue représente un arbre monstrueux dévorant des êtres sans défense. En tant que druide, vous avez entendu des histoires au sujet d'une ancienne divinité appelée Moandre. Cette créature tyrannisa longtemps la forêt de Cormanthor avant que le dieu ne soit détruit.~
+@1287 = ~Cette statue représente un arbre monstrueux dévorant des êtres sans défense. Il semble s'agir d'une divinité morte appelée Moandre. Cette entité tyrannisa longtemps de nombreuses régions de Faerûn avant d'être détruite.~
+@1288 = ~Une hideuse statue représentant un arbre monstrueux qui dévore des êtres sans défense.~
+
+@1400 = ~« Sur ordre des Grands-Ducs, cette partie des égouts est fermée, car un grand mal en a surgi autrefois. »~
+@1401 = ~Cette échelle semble mener vers le haut, car la lumière de la surface filtre à travers les fissures d'une trappe fermée. Cependant, la trappe est verrouillée et la partie supérieure de l'échelle est rétractée. Il doit exister un mécanisme permettant de la déployer.~
+@1402 = ~Cette porte ne peut être ouverte que depuis l'autre côté.~
+@1403 = ~Une imposante statue domine sinistrement un autel, sur lequel de nombreux rituels ont dû être accomplis autrefois.~
+@1404 = ~Vous êtes trop loin pour vous en servir.~
+
+@1500 = ~Une silhouette morte flotte dans cette étrange capsule.~
+@1501 = ~Un étrange symbole est grossièrement tracé sur le sol : une main portant une gueule béante pleine de crocs.~
+@1502 = ~Un symbole est grossièrement tracé sur le sol : une main portant une gueule béante pleine de crocs. Vous reconnaissez la marque de l'ancienne divinité Moandre, dieu de la pourriture et de la décomposition.~
+@1503 = ~« Pour gagner la faveur du Dieu à la Gueule, nourris ses quatre désirs :\nDécomposition, corruption, flétrissement et mortalité. »~
+
+@2225 = ~Vers les Égouts scellés~
+@4000 = ~La brume mentale se dissipe et vous vous retrouvez de nouveau devant le bassin. Vous tenez à présent la clé qui reposait auparavant dans l'eau.~
+@4001 = ~Vous devez vous approcher davantage pour parler aux statues.~
+
