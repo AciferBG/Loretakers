@@ -1,3 +1,6 @@
+Version 3.0
+- Add French localization by Deratiseur, thank you very much!
+
 Version 2.9
 - updated Italian localization
 

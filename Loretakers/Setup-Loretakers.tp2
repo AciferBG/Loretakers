@@ -8,7 +8,7 @@
 //BACKUP ~Loretakers/backup~
 BACKUP ~weidu_external/backup/Loretakers~
 AUTHOR ~Acifer~
-VERSION ~V 2.9~
+VERSION ~V 3.0~
 
 AUTO_TRA ~Loretakers/language/%LANGUAGE%/%s~
 
@@ -164,7 +164,7 @@ LANGUAGE ~French by Deratiseur~
          ~Loretakers/language/french/12_Sune_Priest_AC#FP1.tra~
          ~Loretakers/language/french/13_Cryptosphere.tra~
 
-BEGIN ~Loretakers V 2.9~
+BEGIN ~Loretakers V 3.0~
 
 INCLUDE ~Loretakers/lib/functions.tph~
 INCLUDE ~Loretakers/lib/add_areas_lua.tpa~
